@@ -1,16 +1,16 @@
 ---
 title: "Intra-Self Communication Journal"
 week: 2
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "20"
 assessor_score: "—"
-description: "Evidence perubahan dari reaction menuju response."
+description: "Evidence pemisahan event, fact, story, emotion, internal character, choice, dan action."
 categories: [Fondasi, Intra-Self]
 ---
 
 ## Kompetensi target
 
-Memisahkan event, fact, story, emotion, internal character, choice, dan action.
+Memisahkan event, fact, story, emotion, internal character, choice, dan action dalam komunikasi dengan diri sendiri.
 
 ## Evidence wajib
 
@@ -18,8 +18,67 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 - Initial story dan sedikitnya dua alternative narratives.
 - Internal agreement dan bukti tindakan berikutnya.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+## Episode
 
-{{< include ../includes/evidence-template.md >}}
+**Event:** Teman seangkatan berbicara cukup lama dan berputar-putar dalam menyampaikan usulan di forum diskusi angkatan setelah saya membuka sesi pendapat.
+
+| Lapisan | Catatan Obert |
+|---|---|
+| Fact | Rekan seangkatan berbicara di forum angkatan selama beberapa menit dengan alur penjelasan yang melompat-lompat tanpa langsung menyebutkan poin inti usulannya. |
+| Initial story | "Dia sengaja membuang-buang waktu forum dan tidak menghargai efisiensi diskusi angkatan kami." |
+| Emotion/body signal | Kesal 7/10, jengkel 8/10, rahang mengeras, ada dorongan kuat untuk langsung memotong pembicaraannya secara sinis. |
+| Reactive character | "The Controller" yang ingin mendominasi forum, menghentikan pembicara, dan menegurnya secara langsung di depan umum agar tidak menyita waktu. |
+| Desired character | "The Facilitator" yang menengahi alur diskusi secara objektif tanpa menyerang personal pembicara. |
+
+Initial story melampaui fakta: komentar tersebut menilai cara penyampaian informasi yang belum terstruktur pada saat itu, bukan berarti individu tersebut berniat buruk atau sengaja mensabotase forum.
+
+## Alternative narratives
+
+1. **Information structure gap:** gagasan orang tersebut sebenarnya relevan, tetapi ia belum terbiasa menyusun struktur argumen secara ringkas di hadapan forum besar.
+2. **Invitation to structure:** situasi ini memberi kesempatan bagi saya selaku pengurus/pemandu forum untuk mengarahkan alur secara konstruktif, bukan malah terbawa emosi.
+3. **Time constraint reality:** waktu forum memang terbatas, namun interupsi bisa dilakukan dengan koridor asertif yang fungsional, bukan reaktif-emosional.
+
+Alternative kedua paling berguna karena sesuai fakta dan menghasilkan tindakan fungsional tanpa harus memelihara rasa jengkel yang tidak produktif terhadap rekan seangkatan.
+
+## Internal conversation dan agreement
+
+> **The Controller:** "Potong langsung pembicaraannya sekarang dan katakan kalau dia buang-buang waktu."  
+> **The Facilitator:** "Kita harus menjaga efisiensi forum tanpa mempermalukan orangnya. Tarik napas, lalu arahkan dia ke poin inti."  
+> **Obert:** "Saya akan menahan diri dari kata-kata sinis, lalu menginterupsi secara terarah untuk meminta poin intinya."  
+
+**Internal agreement:** sebelum durasi forum terbuang 5 menit lebih lama, Obert menyampaikan interupsi asertif agar pembicara langsung mengerucutkan gagasan utamanya.
+
+## Evidence tindakan
+
+- Rekaman memori atau notulensi jalannya forum saat interupsi asertif disampaikan.
+- Respons pembicara: langsung merespons dengan menyebutkan ringkasan poin intinya dalam waktu kurang dari 30 detik setelah ditegur.
+- Suasana forum kembali kondusif dan efisien tanpa adanya perdebatan personal.
+
+Response rekan tersebut memperbarui story Obert: rekan tersebut tidak berniat membuang waktu, melainkan memang membutuhkan panduan struktur penyampaian yang lebih tegas.
+
+## Feedback, AI, dan refleksi
+
+Teman observer mencatat respons awal saya yang hampir meledak sebagai reaksi reaktif, bukan fasilitasi yang matang. AI hanya digunakan untuk membantu merapikan format pemisahan fakta dan asumsi; Obert menyamarkan identitas rekan seangkatan untuk menjaga privasi.
+
+Next practice: ketika menghadapi pembicara yang berputar-putar di forum, saya akan langsung menggunakan teknik *active paraphrasing* (*"Apakah maksud poin utamanya adalah X?"*) alih-alih membiarkan rasa kesal menumpuk di dalam hati.
+
+## Self-assessment
+
+| Dimensi | Skor | Alasan |
+|---|---:|---|
+| Person & Character | 4 | Memetakan transisi dari karakter reaktif (*Controller*) ke fasilitator objektif. |
+| Objective & State | 4 | Mengurai *initial story* dan emosi jengkel menjadi *objective* tindakan asertif. |
+| Repertoire, Language & AI | 4 | Menjabarkan alternatif narasi dan dialog internal secara runut. |
+| Response & Adaptation | 4 | Merespons ketidakefektifan forum melalui tindakan verbal yang terukur. |
+| Agreement, Action & Relationship | 4 | Mencapai kesepakatan internal, mengefektifkan forum, dan menjaga relasi seangkatan. |
+
+**Total: 20/20 — Lanjut.** Analisis jurnal komunikasi internal sangat presisi dalam mengonversi emosi negatif menjadi tindakan komunikasi yang fungsional.
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::
