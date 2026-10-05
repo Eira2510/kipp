@@ -58,7 +58,8 @@ Sebagai **Kadiv Project**, saya akan berkata, "Kira-kira apa yang salah dalam ke
 
 ## Evidence, AI, dan feedback
 
-- Evidence: Refleksi memori otentik saat menjabat sebagai ketua pelaksana acara SMA (mempertimbangkan dinamika keputusan bersama panitia guru), catatan evaluasi kepemimpinan, dan riwayat memori penugasan.
+- Evidence: Refleksi memori otentik saat menjabat sebagai ketua pelaksana acara SMA (mempertimbangkan dinamika keputusan bersama panitia guru), catatan evaluasi kepemimpinan, dan riwayat memori penugasan. 
+- Bukti nyata : ![Bukti Kesepakatan W01](../assets/bukti_w01.jpeg)
 - AI digunakan setelah refleksi untuk memetakan kebiasaan komunikasi yang tidak disadari ke dalam matriks karakter.
 - Saya mengabaikan saran AI jika menyuruh konfrontasi agresif terhadap atasan, dan memilih pendekatan inkuisitif-logis.
 - Feedback personal: Rasa takut dinilai "tidak dapat diandalkan" atau "membangkang" sering menghalangi objektivitas dalam mempertahankan ide inovatif.
