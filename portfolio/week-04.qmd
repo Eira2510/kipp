@@ -53,7 +53,7 @@ Mengadaptasi repertoire dan language tanpa mengubah core meaning untuk berbagai 
 | Objective & state | Memastikan inti informasi (*core meaning*) sampai tanpa distorsi makna, menyesuaikan dengan tingkat urgensi penerima pesan. |
 | Repertoire, language & AI | Menggunakan variasi kosakata kasual untuk teman, instruksional untuk rekan teknis, profesional-struktural untuk manajer, persuasif-informatif untuk customer, dan formal untuk publik. AI digunakan untuk meninjau konsistensi arti inti. |
 | Response & adaptation | Merespons umpan balik cepat dari perwakilan massa yang mengonfirmasi lokasi pengambilan. |
-| Agreement, action & relationship | Informasi diterima dengan jelas oleh kelima target, meminimalkan miskomunikasi jadwal, dan menjaga hubungan profesional serta personal. |
+| Agreement, action & relationship | Informasi diterima dengan jelas oleh kelima target. Ketika ada kendala kehadiran dari *customer*, dibangun kesepakatan bersyarat (*conditional agreement*) berupa penitipan logistik ke koordinator jurusan untuk menjaga efisiensi dan relasi. |
 
 ## Penggunaan AI
 
@@ -65,11 +65,15 @@ Mengadaptasi repertoire dan language tanpa mengubah core meaning untuk berbagai 
 
 ## Feedback dan tindak lanjut
 
-**Feedback yang diterima:** Perwakilan massa angkatan (*customer*) merespons dengan cepat: *"Akhrinya, oke mantap, berarti pas makrab (malam keakraban) langsung ambil ya."*
+**Feedback yang diterima:** Perwakilan massa angkatan (*customer*) merespons dengan cepat: *"Akhirnya, oke mantap, berarti pas makrab langsung ambil ya. Oh ya, kalau yang izin berhalangan hadir gimana teknis susulannya?"*
 
-**Adaptation/replay:** Mengingat respons tersebut sangat efektif, ke depannya format pengumuman ringkas semacam ini akan dijadikan standar *broadcast* informasi logistik.
+**Loop Adaptasi & Response (Real-time Replay):** 
+Mendapati pertanyaan lanjutan terkait pengecualian tersebut, saya langsung mengadaptasi pesan seketika itu juga tanpa mengubah *core meaning*, lalu merespons kembali dengan gaya bahasa *customer-centric* yang jelas: 
+> *"Bagi yang berhalangan hadir saat makrab, logistik akan dititipkan ke kordinator masing-masing jurusan ya, jadi tetap aman."*
 
-**Next practice:** Melatih kecepatan adaptasi terjemahan pesan secara lisan (*real-time translation*) saat menghadapi pertanyaan mendadak dari berbagai tipe audiens dalam satu forum terbuka.
+Respons adaptif seketika ini langsung mengeliminasi kebingungan massa tanpa harus membuat pengumuman baru yang panjang. Mengingat efektivitas pola tersebut, format tanggapan cepat berbasis *clarification loop* ini langsung saya terapkan secara konsisten pada hari itu juga untuk pertanyaan susulan lainnya.
+
+**Next practice:** Melatih kecepatan adaptasi terjemahan pesan secara lisan (*real-time translation*) saat menghadapi rentetan pertanyaan mendadak dari berbagai tipe audiens dalam satu forum terbuka secara simultan.
 
 ## Self-assessment
 
@@ -78,7 +82,7 @@ Mengadaptasi repertoire dan language tanpa mengubah core meaning untuk berbagai 
 | Person & Character | 4 | Memetakan 5 target audiens secara presisi dari level teman hingga publik. |
 | Objective & State | 4 | Memastikan *core meaning* tetap konsisten di seluruh variasi bahasa. |
 | Repertoire, Language & AI | 4 | Variasi diksi bahasa tampak kontras dan sesuai dengan fungsi karakternya. |
-| Response & Adaptation | 4 | Mendapatkan konfirmasi pemahaman (*feedback*) yang valid dari target audiens. |
+| Response & Adaptation | 4 | Melakukan *loop* adaptasi langsung (*real-time replay*) dalam merespons pertanyaan susulan *customer*. |
 | Agreement, Action & Relationship | 4 | Informasi tersampaikan dengan mulus tanpa memicu kebingungan atau gesekan relasi. |
 
 **Total: 20/20 — Lanjut.**
