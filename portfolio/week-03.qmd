@@ -42,6 +42,8 @@ Obert memulai percakapan dengan menyampaikan observasi spesifik mengenai perilak
 
 Meskipun tidak ada kesalahan fatal yang memerlukan *repair* besar, nada penutup Obert (*"Sorry bangett"*) menunjukkan penjagaan relasi yang kuat agar teguran tersebut diterima secara positif.
 
+Meskipun Doni langsung menyetujui komitmen awal, percakapan ini juga mengantisipasi adanya potensi pengecualian di masa depan (misalnya kelelahan fisik saat jadwal latihan padat). Batasan yang dibangun bukan sekadar larangan, melainkan kesepakatan bersama mengenai standar performa tim yang saling menguntungkan.
+
 ## Relationship outcome dan evidence
 
 - Transkrip percakapan langsung antara Obert dan Doni.
@@ -59,8 +61,8 @@ AI tidak digunakan dalam menyusun transkrip percakapan personal ini guna menjaga
 | Person & Character | 4 | Mengenali perspektif Doni sekaligus kebutuhan tim secara proporsional |
 | Objective & State | 4 | Objective memperbaiki kebiasaan di lapangan tercapai dengan jelas |
 | Repertoire, Language & AI | 4 | Penggunaan observasi langsung, validasi, dan permintaan alternatif yang asertif |
-| Response & Adaptation | 4 | Merespons defensif Doni dengan empati dan penjelasan dampak yang logis |
-| Agreement, Action & Relationship | 4 | Kesepakatan tercapai, komitmen ditepati, dan relasi berkembang menjadi akrab |
+| Response & Adaptation | 4 | Merespons defensif Doni dengan empati dan penjelasan dampak yang logis yang tenang |
+| Agreement, Action & Relationship | 4 | Kesepakatan tercapai, komitmen ditepati untuk mengurangi ekspresi negatif, dan relasi berkembang menjadi lebih akrabb |
 
 **Total: 20/20 — Lanjut.**
 
