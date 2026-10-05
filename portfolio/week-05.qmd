@@ -1,8 +1,8 @@
 ---
 title: "Professional Discovery Interview"
 week: 5
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "20"
 assessor_score: "—"
 description: "Discovery menuju shared problem statement."
 categories: [Professional, Discovery]
@@ -18,8 +18,104 @@ Mendengar sebelum proposing dan membangun shared problem statement dengan person
 - Transcript/paraphrase serta problem impact dan constraint.
 - Shared problem statement yang dikonfirmasi partner.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 5](../examples/week-05.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+## Konteks performance
 
-{{< include ../includes/evidence-template.md >}}
+**Tanggal dan setting:** 12 Februari 2026, Koridor Gedung STEI Kampus ITB Ganesha (Sesi Wawancara Tatap Muka 15 Menit).
+
+**Persons dan relationship:** Obert (Interviewer/Divisi Project) dan Kevin (Rekan Mahasiswa STEI-K 25 / Target Pengguna Jaket Angkatan Vertera). Relasi bersifat sejajar (*peers*).
+
+**Objective dan initial state:** Obert berasumsi bahwa keluhan keterlambatan pengambilan Jaket Angkatan disebabkan oleh lokasi pengambilan yang jauh. Objective wawancara adalah menggali akar masalah pengguna (*discovery*) sebelum menentukan solusi sistemik tanpa menggiring opini (*no leading solution*).
+
+## Initial assumption dan rencana discovery
+
+Obert berasumsi bahwa mahasiswa enggan mengambil jaket karena lokasi tempat penyimpanan logistik kurang strategis.
+
+**Pertanyaan discovery utama:**
+1. Ceritakan pengalaman terakhir Anda saat berusaha mengambil perlengkapan/logistik angkatan?
+2. Di titik mana Anda mengalami kendala terbesar dalam alur tersebut?
+3. Apa dampak kendala tersebut terhadap jadwal atau aktivitas harian Anda?
+4. Bagaimana cara sementara (*workaround*) yang sekarang Anda gunakan untuk mengatasi kendala tersebut?
+5. Constraint apa yang tetap perlu dipertahankan jika sistem distribusi ini diperbaiki?
+
+## Potongan transcript
+
+> **Obert:** "Bisa ceritakan pengalaman terakhir kamu pas mau ambil logistik jaket angkatan?"  
+>   
+> **Kevin:** "Kemarin pas diumumkan pengambilannya di sekretariat, gw udah dateng tapi ternyata pengurusnya lagi ada kelas, jadi tutup."  
+>   
+> **Obert:** "Jadi masalah utamanya bukan lokasinya yang jauh, tapi ketidakpastian jadwal keberadaan panitia di tempat?"  
+>   
+> **Kevin:** "Betul banget. Lokasinya sih oke-oke aja, tapi karena jadwal jaga panitianya ga transparan, gw jadi bolak-balik dua kali dan buang waktu 30 menit pas jeda kuliah."  
+>   
+> **Obert:** "Seberapa sering hal ini memengaruhi aktivitas kamu?"  
+>   
+> **Kevin:** "Dari tiga kali pengambilan atribut angkatan semester ini, dua kali gw kecele. Harusnya jeda kuliah bisa buat makan atau istirahat."  
+>   
+> **Obert:** "Kalau misal alur pengambilannya kita perbaiki, hal apa yang wajib tetap ada atau ga boleh diubah?"  
+>   
+> **Kevin:** "Yang penting jangan bikin gw harus ngisi form berbelit-belit lagi pas di lokasi. Pengennya dateng, tunjukin bukti ID, verifikasi cepat, langsung ambil."
+
+## Pembaruan pembacaan dan Shared Problem Statement
+
+Initial assumption Obert bahwa "lokasi tempat penyimpanan kurang strategis" **dibatalkan oleh evidence wawancara**. Masalah utama yang dialami pengguna adalah **ketidakpastian informasi ketersediaan panitia jaga** di lokasi penyerahan logistik.
+
+**Shared problem statement yang dikonfirmasi Kevin:**
+
+> *"Mahasiswa angkatan membutuhkan kejelasan informasi slot waktu aktif panitia jaga secara real-time untuk pengambilan logistik, agar tidak membuang waktu jeda kuliah akibat datang saat lokasi penyerahan kosong, dengan tetap mempertahankan proses verifikasi fisik yang cepat tanpa form tambahan."*
+
+Kevin menyetujui dan mengonfirmasi frasa tersebut sebagai representasi akurat dari kendala yang dialaminya.
+
+## Evidence
+
+- **Catatan dan Notulensi Hasil Wawancara Discovery:**
+  
+  ![Bukti Wawancara Discovery W05](../assets/bukti_w05.jpeg)
+
+- **Verifikasi Kemitraan:** Kevin meninjau draft *shared problem statement* dan mengonfirmasi bahwa deskripsi masalah tersebut sudah 100% tepat menggambarkan pengalamannya.
+
+## Analisis komunikasi dan adaptasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| **Person & character** | Memetakan Kevin sebagai mahasiswa dengan jadwal kuliah padat yang menghargai efisiensi waktu tanpa stereotip. |
+| **Objective & state** | Berhasil mengubah asumsi awal yang keliru menjadi *shared problem statement* yang disepakati bersama. |
+| **Repertoire & language** | Menggunakan *open-ended questions*, *active listening*, dan teknik klarifikasi tanpa menggiring ke solusi aplikasi/sistem tertentu. |
+| **Response & adaptation** | Langsung menahan diri untuk tidak menawarkan solusi saat Kevin mengeluh, melainkan menggali *impact* dan *constraint* lebih dalam. |
+| **Agreement/action** | Menghasilkan *shared problem statement* yang divalidasi langsung oleh mitra wawancara. |
+| **Relationship outcome** | Kepercayaan mitra meningkat karena merasa didengar secara objektif tanpa dipaksa menerima solusi sepihak. |
+
+## Penggunaan AI
+
+- **Alat dan peran AI:** AI (Gemini) digunakan sebagai peninjau kriteria pertanyaan (*bias checker*) untuk memastikan tidak ada pertanyaan yang bersifat menggiring (*leading questions*).
+- **Prompt yang digunakan:** *"Periksa daftar 5 pertanyaan wawancara ini, apakah ada yang secara tidak langsung memaksa interviewee menyetujui solusi tertentu?"*
+- **Hasil yang disesuaikan:** AI menyarankan mengubah kalimat *"Apakah kamu setuju kalau dibuatkan aplikasi jadwal?"* menjadi *"Bagaimana cara yang sekarang kamu gunakan?"*.
+- **Pemeriksaan accuracy, privacy, dan authority:** Nama lengkap dan data privasi mitra disamarkan; narasi murni berfokus pada dinamika komunikasi *discovery*.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Observer mencatat bahwa Obert berhasil menahan diri untuk tidak mempromosikan fitur/solusi di awal wawancara (*resisting solution proposal*).
+
+**Adaptation/replay:** Mengubah pola pikir dari "menjual ide solusi" menjadi "memahami kedalaman masalah dan batasan pengguna".
+
+**Next practice:** Melatih *paraphrasing* langsung saat wawancara untuk mengonfirmasi emosi dan impresi responden secara presisi.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| **Person & Character** | 4 | Memetakan konteks kebutuhan dan batasan waktu responden secara presisi |
+| **Objective & State** | 4 | Berhasil menguji dan menggugurkan asumsi awal menjadi *shared problem statement* yang divalidasi |
+| **Repertoire, Language & AI** | 4 | Menggunakan *open questions*, *paraphrasing*, serta memanfaatkan AI secara etis untuk mengeliminasi *leading questions* |
+| **Response & Adaptation** | 4 | Beradaptasi seketika saat asumsi awal patah dan memvalidasi *constraint* pengguna |
+| **Agreement, Action & Relationship** | 4 | Sepakat pada *shared problem statement* eksplisit, mengidentifikasi *constraint*, dan menjaga relasi kemitraan |
+
+**Total: 20/20 — Lanjut.**
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::
