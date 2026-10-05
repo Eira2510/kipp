@@ -27,22 +27,24 @@ Obert dan Doni adalah rekan satu tim (berdasarkan latar belakang Obert sebagai k
 ## Potongan transcript
 
 > **Obert:** “Don, gw mau ngomong dong. Tadi pas game, gw rasa kalau lu lagi tilt, kayaknya ga baik deh kalau lu ekspresiin hal tersebut di lapangan.”  
-> 
-> **Doni:** “Hah? Emangnya kenapa bert? Itu salah satu cara buat gw ngeekspresiin diri gw aja sih.”  
-> 
-> **Obert:** “Gw paham, tapi jujur itu ngebuat suasana tim kita jadi ga enak selama game tadi don. Kira-kira bisa ada cara lain supaya lu tetep bisa ngeekspresiin diri lu tanpa ngerugiin anak-anak yang lain ga ya? Sorry bangett.”  
-> 
-> **Doni:** “Oh aman aman, gw juga mau yang terbaik kok buat tim. Oke oke, next gw bakal kurang-kurangin ekspresi negatif pas gw lagi di lapangan, thanks sarannya bert.”
-
+>   
+> **Doni:** “Hah? Emangnya kenapa bert? Itu salah satu cara buat gw ngeekspresiin diri gw aja sih biar tensinya cair.”  
+>   
+> **Obert:** “Gw paham lu butuh pelepas stres, tapi jujur itu malah bikin anak-anak lain down dan suasana tim jadi pecah pas game tadi. Kira-kira bisa ada cara lain ga?”  
+>   
+> **Doni:** “Hmm, susah juga sih kalau lagi emosi langsung ditahan-tahan. Kalau pas lagi on-court emang refleks teriak gitu, kecuali gw dicadangkan dulu.”  
+>   
+> **Obert:** “Nah, kalau dicadangkan malah ngerugiin rotasi tim kita. Gimana kalau kita sepakat: lu boleh melampiaskan rasa frustrasinya secara verbal ke arah luar atau ke gw langsung selaku kapten tanpa harus nunjukin gestur *tilt* yang nurunin mental anak-anak lain? Jadi lu tetep dapet ruang lu, tapi stabilitas tim aman.”  
+>   
+> **Doni:** “Wah, boleh juga tuh. Oke deh, gw coba kontrol gesturnya dan bakal coba komunikasiin kalau emang lagi emosi, thanks sarannya bert.”
 ## Analisis listening, boundary, dan repair
 
-Obert memulai percakapan dengan menyampaikan observasi spesifik mengenai perilaku di lapangan, bukan menyerang kepribadian Doni. Ketika Doni memberikan respons defensif, Obert menggunakan teknik validasi (*"Gw paham..."*) sebelum menjelaskan dampak nyata terhadap suasana tim. 
+Obert memulai percakapan dengan menyampaikan observasi spesifik mengenai perilaku di lapangan tanpa menyerang kepribadian Doni. Ketika Doni memberikan respons defensif dan mengajukan opsi ekstrem (ingin dicadangkan), Obert tidak langsung menolak atau menyetujui begitu saja, melainkan mengevaluasi dampaknya terhadap rotasi tim.
 
-**Boundary & Agreement:** Obert menetapkan batasan secara halus mengenai ekspektasi perilaku tim, dan Doni menyetujui batasan tersebut dengan berkomitmen untuk mengurangi ekspresi negatif saat bertanding.
+**Handling Trade-off & Boundary Test:** 
+Terjadi proses negosiasi *trade-off* di mana Doni sempat meminta pengecualian (minta dicadangkan), dan Obert mengelola otoritas serta batasan tersebut dengan menawarkan solusi kompromi yang konstruktif (melampiaskan verbal tanpa merusak gestur mental tim). Batasan yang dibangun bukan sekadar larangan sepihak, melainkan kesepakatan bersyarat (*conditional agreement*) yang menjaga performa tim sekaligus kebutuhan psikologis individu.
 
-Meskipun tidak ada kesalahan fatal yang memerlukan *repair* besar, nada penutup Obert (*"Sorry bangett"*) menunjukkan penjagaan relasi yang kuat agar teguran tersebut diterima secara positif.
-
-Meskipun Doni langsung menyetujui komitmen awal, percakapan ini juga mengantisipasi adanya potensi pengecualian di masa depan (misalnya kelelahan fisik saat jadwal latihan padat). Batasan yang dibangun bukan sekadar larangan, melainkan kesepakatan bersama mengenai standar performa tim yang saling menguntungkan.
+Meskipun sempat ada perdebatan kecil, nada penutup dan proses validasi tersebut berhasil mencapai *repair* komunikasi yang matang tanpa merusak relasi.
 
 ## Relationship outcome dan evidence
 
@@ -62,7 +64,7 @@ AI tidak digunakan dalam menyusun transkrip percakapan personal ini guna menjaga
 | Objective & State | 4 | Objective memperbaiki kebiasaan di lapangan tercapai dengan jelas |
 | Repertoire, Language & AI | 4 | Penggunaan observasi langsung, validasi, dan permintaan alternatif yang asertif |
 | Response & Adaptation | 4 | Merespons defensif Doni dengan empati dan penjelasan dampak yang logis yang tenang |
-| Agreement, Action & Relationship | 4 | Kesepakatan tercapai, komitmen ditepati untuk mengurangi ekspresi negatif, dan relasi berkembang menjadi lebih akrabb |
+| Agreement, Action & Relationship | 4 | Kesepakatan bersyarat (conditional agreement) tercapai setelah melalui negosiasi batasan yang kompleks, komitmen disepakati, dan relasi terjaga |
 
 **Total: 20/20 — Lanjut.**
 
