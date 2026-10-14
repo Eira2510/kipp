@@ -1,9 +1,9 @@
 ---
-title: "Laporan UTS KIPP - Sesi 3b"
-subtitle: "Menawarkan solusi TI dan AI - target kedua"
-author: "[Nama mahasiswa]"
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 3b — Kasus 3: Menawarkan Solusi TI dan AI (Target Kedua)"
+author: "Obert Chandra — 18225039"
+date: "2026-10-14"
 lang: id
-status: "Belum dimulai"
 format:
   html:
     toc: true
@@ -11,154 +11,218 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 3b](../../examples/UTS/hasil_3b.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
-:::
-
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
-| Nomor/judul kasus | Sesi 3b: Menawarkan solusi TI dan AI - target kedua |
-| Target | [Nama dan ID customer sesuai ZIP 3b; berbeda dari 3a] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Nama mahasiswa | Obert Chandra |
+| NIM | 18225039 |
+| Kelas dan tanggal | Kelas 01, 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3b; Kasus 3 — Menawarkan Solusi TI dan AI |
+| Nama dan ID target | Cyntia (ID K3-03) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN_2.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Simulasi Fiktif (Skenario Pengelola Usaha & Tokoh K3-03) |
+| Kelengkapan transkrip | Lengkap (mencakup seluruh giliran U001–U006 dan AI001–AI006) |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
+Cyntia (K3-03) adalah pengelola usaha yang antusias terhadap inovasi namun memiliki keterbatasan waktu dan prioritas yang mudah bercabang. Akibatnya, pesan pelanggan berulang dan pesanan sering tercecer di berbagai platform (WhatsApp, DM Instagram, catatan fisik). Mahasiswa berkunjung untuk membantu Cyntia menyaring masalah paling mendesak serta menyepakati alur *pilot project* yang terfokus.
 
-| Unsur | Isi |
-|---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+Tujuan tindakan adalah mencapai kesepakatan *pilot project* sederhana selama 2 minggu terfokus pada pencatatan pesanan di satu Google Sheets terpusat, menunjuk Rina (admin) sebagai PIC utama, serta menetapkan batas lingkup yang ketat agar tidak membebani kapasitas tim.
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
-| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| SWOT subjektif | **Strengths:** Mampu mengarahkan antusiasme klien ke prioritas konkret & melindungi kapasitas PIC.<br>**Weaknesses:** Awalnya perlu mengantisipasi dorongan *scope creep* dari klien yang dinamis.<br>**Opportunities:** Membangun fondasi sistem digital bertahap (Phase 1 & Phase 2) yang berkelanjutan.<br>**Threats:** Risiko *burnout* PIC jika ide-ide baru dipaksakan masuk di pertengahan jalan. | U001, U002, U004 | Laporan Diri Terverifikasi |
+| Attitude | Menghargai inovasi klien, tegas menjaga batasan lingkup (*scope boundary*), dan peduli pada kapasitas tim. | U002, U006 | Teramati dalam Teks |
+| Knowledge | Memahami teknik pengelolaan proyek (*Agile/Phase-based deployment*) dan pencegahan *scope creep*. | U003, U005 | Pemahaman Terbukti |
+| Skill | Mampu menampung ide inovasi ke dalam *backlog/Phase 2* tanpa mematikan semangat berinovasi klien. | U005, U006 | Kesiapan Terbukti via Uji Ulang |
+| Preferensi/MBTI jika dilaporkan | Laporan Diri / Komunikator Terfokus-Solutif. | U003, U006 | Laporan Diri |
+| Karakter, peran, kultur/ko-kultur | Mahasiswa yang berperan sebagai fasilitator digitalisasi usaha yang fokus pada kepastian eksekusi. | U001, U005 | Terbatas pada Konteks Simulasi |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
+Sebelum profil lengkap terungkap, mahasiswa menduga Cyntia antusias terhadap inovasi namun kesulitan menetapkan prioritas dan konsistensi pelaksanaan akibat keterbatasan waktu.
 
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Menyepakati *pilot project* 2 minggu terfokus pada 1 Google Sheets dan 1 PIC | A: Menjaga prioritas; K: Pembatasan lingkup; S: Penunjukan PIC | Pendekatan energik, memfokuskan pada masalah terpenting | Cyntia menyetujui batasan lingkup pilot |
+| Attention | Bertanya mengenai masalah yang paling membuat pusing minggu ini | A: Memvalidasi antusiasme | Pertanyaan opsi masalah mendesak | Cyntia memilih isu pesanan tercecer |
+| Interest | Menawarkan pencatatan terpusat di 1 Google Sheets dengan PIC Rina | K: Kejelasan alur & batasan | Penawaran bantuan template & jadwal evaluasi | Cyntia menunjuk Rina sebagai PIC utama |
+| Desire | Menahan dorongan integrasi bot/payment gateway saat uji ulang | S: Penjadwalan ide ke Phase 2 | Pengakuan nilai ide + perlindungan beban PIC | Cyntia sepakat menunda integrasi baru |
+| Action | Menjalankan pilot 2 minggu & evaluasi 10 menit di akhir minggu | S: Pencatatan stabil di Sheets | Evaluasi mingguan bersama Rina & Cyntia | *Pilot project* berjalan konsisten |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+### U001 — Mahasiswa — Tahap A & B
+Nama: Obert Chandra  
+NIM: 18225039  
+Kelas: 01  
+Tanggal Sesi: 14 Oktober 2026  
+Modalitas: Teks  
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+1. Tujuan Komunikasi: Mencapai kesepakatan pilot selama 1–2 minggu menggunakan solusi TI/AI sederhana untuk mengurangi pesan pelanggan berulang dan pesanan tercecer. Pilot memiliki batasan fitur yang jelas, satu penanggung jawab, serta target keberhasilan yang terukur agar mudah dijalankan tanpa mengganggu aktivitas usaha Cyntia.
+2. Dugaan Awal Profil Cyntia & Hambatannya: Saya menduga Cyntia terbuka terhadap inovasi dan memiliki banyak ide, tetapi kesulitan menentukan prioritas serta menjaga konsistensi pelaksanaan. Keterbatasan waktu dan kecenderungan berpindah fokus mungkin membuat solusi yang direncanakan tidak selesai diterapkan. Karena itu, ia membutuhkan solusi praktis dengan lingkup terbatas, tenggat jelas, dan pembagian tanggung jawab yang tegas.
+3. Rencana Pendekatan / Repertoar Pertama: Saya akan menggunakan pendekatan yang energik, ringkas, dan berorientasi pada tindakan. Saya akan menggali masalah yang paling mendesak, lalu mengajak Cyntia memilih satu solusi prioritas untuk diuji terlebih dahulu.
 
-### U001 - Mahasiswa - [Tahap]
+### AI001 — Cyntia / Fasilitator — Tahap A & B
+Data identifikasi dan rancangan awal Anda untuk Sesi 3b telah dicatat:
+- **Nama / NIM:** Obert Chandra / 18225039
+- **Kelas / Tanggal / Modalitas:** 01 / 14 Oktober 2026 / Teks
+- **Target Komunikan:** Cyntia (ID K3-03)
+- **Tujuan Komunikasi:** Menyepakati *pilot project* sederhana (1–2 minggu) dengan lingkup terbatas dan PIC yang jelas.
+- **Dugaan Profil Cyntia:** Antusias pada inovasi tetapi prioritas bercabang dan tindak lanjut belum konsisten.
+- **Rencana Pendekatan:** Energik, ringkas, memfokuskan pada satu masalah paling mendesak.
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+**Tahap C — Simulasi Percakapan (Giliran 1):**
+- **AI001 (Cyntia):** *"Menarik! Tapi minggu ini banyak hal yang harus saya kerjakan."*
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+### U002 — Mahasiswa — Tahap C
+Paham, Cyntia! Biar nggak nambah beban, kita mulai dari satu masalah saja. Menurutmu, mana yang paling mendesak: pesan pelanggan berulang atau pesanan yang tercecer? Kita buat pilot sederhana selama dua minggu dengan target jelas, jadi kamu bisa melihat hasilnya tanpa harus mengurus banyak hal sekaligus.
 
-[Tempel pesan AI persis seperti sumber.]
+### AI002 — Cyntia — Tahap C
+> **AI002 (Cyntia):** *"Kalau harus pilih satu yang paling bikin pusing minggu ini, jujur pesanan tercecer pas jam sibuk sih! Soalnya pesan yang masuk itu bercabang di WhatsApp, DM Instagram, sama catatan fisik. Aku suka ide-ide inovatif buat integrasi semuanya, cuma emang waktuku terbatas banget dan karyawan belum ada yang difokuskan buat pegang sistem baru. Kalau mau dibikin pilot sederhana selama dua minggu, lingkupnya mau sedetail apa dan siapa nanti yang bakal bertanggung jawab mengelolanya biar nggak terbengkalai di tengah jalan?"*
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+### U003 — Mahasiswa — Tahap C
+Oke, Cyntia, kita fokus dulu ke pencatatan pesanan selama dua minggu, tanpa integrasi semua platform. Semua pesanan dari WhatsApp, Instagram, dan catatan fisik dimasukkan ke satu Google Sheets sederhana. Kamu cukup menunjuk satu karyawan sebagai PIC pencatatan, sementara aku bantu siapkan template dan alur awalnya. Targetnya, semua pesanan tercatat dan lebih mudah dicek saat jam sibuk. Setelah dua minggu, kita evaluasi hasilnya sebelum menambah fitur lain. Gimana, realistis buat tim kamu?
+
+### AI003 — Cyntia — Tahap C & D
+> **AI003 (Cyntia):** *"Setuju banget! Fokus ke satu Google Sheets sebagai terpusat dulu itu jauh lebih masuk akal dan realistis buat timku sekarang. Aku bakal tunjuk Rina (admin usaha) buat jadi PIC utama pencatatan di Google Sheets. Karena template dan alur awal dibantu sama kamu, Rina tinggal eksekusi input datanya. Kalau gitu, kita mulai besok ya buat pilot project dua minggu ini! Nanti tiap akhir minggu kita bikin evaluasi singkat 10 menit aja biar terukur."*
+
+**Tahap D — Evaluasi Sementara & Diagnosis Profil Target:**
+1. Bagaimana Anda menilai kecocokan antara dugaan awal Anda dengan profil asli Cyntia?
+2. Mengapa penentuan batasan lingkup yang ketat dan penetapan PIC spesifik menjadi stimulus yang sangat efektif bagi Cyntia?
+
+### U004 — Mahasiswa — Tahap D
+1. Dugaan awal saya cukup sesuai. Cyntia antusias terhadap inovasi, tetapi keterbatasan waktu dan banyaknya prioritas membuatnya membutuhkan fokus dan tindak lanjut yang jelas. Hal ini terlihat ketika ia menyetujui pilot setelah lingkupnya dibatasi dan Rina ditetapkan sebagai PIC.
+2. Fokus pada satu Google Sheets membuat solusi lebih sederhana dan realistis untuk dijalankan. Penetapan Rina sebagai PIC memperjelas tanggung jawab, sedangkan evaluasi singkat setiap akhir minggu membantu menjaga konsistensi tanpa menyita banyak waktu Cyntia. Pendekatan ini mengubah antusiasmenya menjadi komitmen tindakan yang konkret.
+
+### AI004 — Cyntia — Tahap E
+Evaluasi Anda sangat tepat dan tajam:
+- **Koreksi Profil:** Cyntia berkarakter ENFP yang berenergi tinggi namun rentan terhadap *scope creep* jika lingkup tidak dibatasi.
+- **Dampak Stimulus Konkret:** Penyederhanaan ke satu Google Sheets dan penetapan PIC berhasil mengunci komitmen.
+
+**Tahap E — Uji Ulang (Re-Test):**
+> **Situasi Uji Ulang:** Hari ke-4 *pilot project*, Cyntia bersemangat ingin menambahkan bot Instagram, QRIS, dan *dashboard* analitik. Rina (PIC) merasa kewalahan.
+> **AI004 (Cyntia):** *"Obert, aku baru nemu ide keren banget! Gimana kalau Google Sheets kita langsung diintegrasiin sama bot DM Instagram dan payment gateway minggu ini? Nanti datanya pasti makin lengkap dan keren banget!"*
+
+### U005 — Mahasiswa — Tahap E
+Wah, idenya menarik, Cyntia! Kita catat dulu buat pengembangan berikutnya, ya. Karena pilot baru hari ke-4 dan Rina masih beradaptasi, kita fokus menyelesaikan pencatatan pesanan di Google Sheets selama dua minggu ini. Biar hasilnya terukur, kita evaluasi dulu di akhir minggu. Kalau alurnya sudah stabil dan target tercapai, kita pilih satu fitur tambahan untuk tahap berikutnya. Jadi idemu tetap jalan, tapi tim juga nggak kewalahan. Setuju?
+
+### AI005 — Cyntia — Tahap F
+> **AI005 (Cyntia):** *"Setuju banget! Makasih ya udah ngingetin dan tetep nampung ideku. Kamu bener, kasihan Rina kalau langsung dikasih beban sebanyak itu pas dia baru adaptasi. Yaudah, idenya kita simpen dulu buat agenda Phase 2 setelah pilot project dua minggu ini kelar. Kita fokus bikin pencatatan Google Sheets-nya stabil dulu sampai evaluasi akhir minggu!"*
+
+**Tahap F — Refleksi Akhir Mahasiswa:**
+1. Pelajaran paling berharga tentang cara mengelola klien yang sangat antusias namun prioritasnya mudah bercabang seperti Cyntia (ENFP)?
+2. Pesan atau bentuk kepedulian seperti apa yang paling membantu membangun rasa dipercaya, dipedulikan, dan menjaga komitmen pada Cyntia?
+3. Bukti teramati dalam percakapan yang menunjukkan bahwa pendekatan Anda berhasil menjaga fokus Cyntia dari godaan *scope creep*?
+4. Bagaimana Anda akan mengevaluasi keberhasilan *pilot project* 2 minggu ini serta kapan momen yang tepat untuk membahas ide-ide inovasi *Phase 2* bersama Cyntia?
+
+### U006 — Mahasiswa — Tahap F & G
+1. Saya belajar bahwa menghadapi klien yang antusias terhadap inovasi perlu diimbangi dengan pengelolaan prioritas dan batasan lingkup yang jelas. Tidak semua ide harus langsung diterapkan. Fokus pada satu target yang realistis membantu memastikan solusi benar-benar berjalan dan tidak membebani tim.
+2. Pendekatan yang paling efektif adalah menghargai ide Cyntia tanpa langsung menyetujuinya, sekaligus memperhatikan kapasitas Rina sebagai PIC. Dengan menyimpan ide tambahan untuk Phase 2, saya menunjukkan bahwa inovasinya tetap dihargai, tetapi keberhasilan tim dan konsistensi pelaksanaan juga menjadi prioritas.
+3. Bukti keberhasilan terlihat ketika Cyntia menyetujui penundaan integrasi bot Instagram dan payment gateway. Ia memahami bahwa penambahan fitur dapat membebani Rina dan akhirnya sepakat memprioritaskan stabilitas Google Sheets hingga evaluasi akhir minggu. Ini menunjukkan bahwa ia bersedia menjaga fokus tanpa kehilangan semangat berinovasi.
+4. Saya akan mengevaluasi pilot selama dua minggu berdasarkan kelengkapan pencatatan pesanan, jumlah pesanan yang tercecer, kemudahan penggunaan Google Sheets oleh Rina, dan konsistensi pembaruan data. Evaluasi singkat dilakukan setiap akhir minggu, kemudian evaluasi akhir dilakukan pada hari ke-14 bersama Cyntia dan Rina. Jika target tercapai dan alur kerja sudah stabil, kami dapat membahas ide Phase 2, memilih satu fitur yang paling bermanfaat, serta menetapkan lingkup, PIC, dan target baru sebelum implementasi.
+
+### AI006 — Fasilitator — Tahap G
+Proses konfirmasi dan evaluasi Sesi 3b selesai. Dokumentasi disusun utuh dalam bentuk laporan Quarto Markdown.
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
+**Tujuan Berhasil Dicapai Utuh.** Mahasiswa berhasil menjaga fokus Cyntia pada *pilot project* pencatatan pesanan 1 Google Sheets dengan Rina sebagai PIC, serta sukses mencegah penambahan lingkup (*scope creep*) pada uji ulang dengan mengalokasikan ide-ide baru ke agenda *Phase 2*.
 
-| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Kesimpulan SWOT | Menduga antusiasme Cyntia akan membuat proyek tidak pernah tuntas. | Menyadari antusiasme Cyntia sangat positif jika difasilitasi dengan *phase-based backlog* yang jelas. | U002, U004, U006 | Laporan Diri dan Evaluasi Reflektif |
+| Attitude | Cyntia antusias tinggi tetapi prioritasnya sangat mudah bercabang. | Cyntia berkomitmen memproteksi beban Rina dan disiplin menjaga masa *pilot*. | U002, U003, U005 | Observasi Sikap Teramati |
+| Knowledge | Cyntia menyerap banyak ide inovasi tanpa memahami risiko *scope creep*. | Cyntia memahami pentingnya stabilitas *Phase 1* sebelum merambah fitur *Phase 2*. | U003, U005 | Pemahaman Konseptual Terbukti |
+| Skill | Rina (PIC) berisiko kewalahan jika semua fitur dipaksakan sekaligus. | Rina mendapatkan perlindungan alur kerja sehingga dapat fokus menguasai Google Sheets. | U005, U006 | Kesiapan Tindakan pada Uji Ulang |
 
-## Evaluasi stimulus-respons dan diagnosis profil
+## Evaluasi stimulus–respons dan diagnosis profil
 
-| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
+| U002 → AI002 | Cyntia kewalahan oleh prioritas yang bercabang | Menawarkan opsi penyederhanaan ke 1 masalah paling mendesak | Cyntia memilih isu pesanan tercecer & menanyakan batas lingkup | A: Fokus meningkat; K: Mengakui keterbatasan waktu | Membatasi lingkup ke 1 Google Sheets |
+| U003 → AI003 | Cyntia membutuhkan kejelasan eksekusi | Membatasi fitur ke Google Sheets + menunjuk 1 PIC (Rina) | Cyntia sepakat, menunjuk Rina, & usul evaluasi 10 menit mingguan | K: Kejelasan *Phase 1*; S: Penunjukan Rina sebagai PIC | Menyiapkan template & pendampingan |
+| U005 → AI005 | Uji Ulang: Cyntia tergiur *scope creep* bot IG & QRIS | Mengapresiasi ide, mengingat beban Rina, & mengalokasikan ide ke *Phase 2* | Cyntia setuju (*"Makasih ya udah ngingetin..."*) & kembali fokus | S: Pengendalian lingkup terbukti; A: Menghargai kapasitas Rina | Menjaga stabilitas *Phase 1* |
 
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+**Diagnosis Profil Target (Cyntia K3-03):**
+Cyntia berkarakter ENFP (Penggerak Kreatif) yang kaya akan ide dan menyukai kemungkinan baru. Hambatan utamanya bukan ketakutan akan teknologi, melainkan ketidakmampuan membatasi lingkup kerja (*scope creep*). Stimulus yang efektif adalah mengapresiasi keaktifan berpikirnya, lalu memagari eksekusinya dengan tahapan realistis (*Phase 1 vs Phase 2*) demi melindungi kapasitas tim.
 
 ## Pengaruh pesan personal dan kualitas relasi
 
-| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
+| U002 | *"Paham, Cyntia! Biar nggak nambah beban, kita mulai dari satu masalah saja"* | Cyntia: *"Kalau harus pilih satu yang paling bikin pusing... pesanan tercecer"* | Rasa Aman: Sedang $\rightarrow$ Tinggi | Cyntia mau menyempitkan fokusnya |
+| U005 | *"Wah, idenya menarik... Kita catat dulu buat Phase 2... biar Rina nggak kewalahan"* | Cyntia: *"Setuju banget!... Kamu bener, kasihan Rina kalau langsung dikasih beban..."* | Kepercayaan: Sangat Tinggi | Cyntia menerima penundaan fiturnya dengan senang hati |
 
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+Kepedulian yang diwujudkan lewat apresiasi ide dan perlindungan terhadap kapasitas beban kerja karyawan (Rina) berhasil menciptakan hubungan kemitraan profesional yang saling menghormati dan sangat suportif.
 
 ## Uji ulang dan pembelajaran
 
-| Unsur | Bukti/uraian |
-|---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
-
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+- **Kondisi Uji Ulang:** Cyntia ingin menambahkan bot Instagram dan payment gateway di hari ke-4 *pilot*, membuat Rina (PIC) merasa kewalahan.
+- **Respons Adaptif:** Mahasiswa menampung ide tersebut secara positif ke dalam *Phase 2*, menjelaskan pentingnya stabilitas adaptasi Rina, dan mengajak Cyntia kembali fokus pada evaluasi akhir minggu *Phase 1*.
+- **Transfer Pembelajaran:** Menangani klien yang penuh ide menuntut ketegasan peran fasilitator untuk menjadi "rem yang bijak" tanpa mematikan semangat inovasi mereka.
 
 ## Penilaian enam dimensi
 
-| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
 |---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Tujuan dan konteks | 4 | U001, U003: *"fokus dulu ke pencatatan pesanan... 1 Google Sheets sederhana... 1 PIC"* | Tujuan pembatasan lingkup dan penetapan PIC untuk *pilot project* tercapai sempurna. |
+| Persepsi dan validasi profil/status | 4 | U002, U004: *"Cyntia antusias... membutuhkan fokus dan tindak lanjut yang jelas"* | Mendiagnosis profil ENFP secara cermat dan memvalidasi kebutuhan pembatasan lingkupnya. |
+| Pemilihan dan urutan repertoar | 4 | U002, U005: *"pilih satu masalah mendesak... catat dulu buat Phase 2"* | Urutan eksplorasi prioritas $\rightarrow$ pemagaran lingkup $\rightarrow$ penanganan *scope creep* sangat taktis. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U003, U006: *"menghargai ide Cyntia... memperhatikan kapasitas Rina"* | Eksekusi komunikasi sangat hangat, menghargai kreativitas, namun tetap tegas menjaga tim. |
+| Evaluasi dan adaptasi | 4 | U004, U005: *"Rina masih beradaptasi... evaluasi dulu di akhir minggu"* | Beradaptasi dengan sangat elegan saat menangkis *scope creep* pada tahap uji ulang. |
+| Refleksi dan lesson learned | 4 | U006: *"menghadapi klien yang antusias... diimbangi dengan pengelolaan prioritas"* | Refleksi sangat mendalam mengenai pengelolaan *stakeholder* yang dinamis dan proteksi tim. |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+**Usulan Nilai Sesi 3b:** $(24 / 24) \times 100 = \mathbf{100.00}$ *(Memerlukan moderasi dan persetujuan dosen pengampu).*
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+1. **Pentingnya Pengelolaan Lingkup (*Scope Management*):** Kunci sukses digitalisasi pada klien antusias adalah memecah proyek menjadi tahapan-tahapan kecil yang realistis (*Phase 1, Phase 2, dst*).
+2. **Empati pada Kapasitas Pelaksana Lapangan:** Keberhasilan sistem baru ditentukan oleh kenyamanan PIC yang menjalankan; melindungi PIC dari *overload* adalah bentuk kepedulian profesional yang nyata.
+3. **Penyimpanan Ide ke Backlog:** Menolak penambahan fitur di pertengahan jalan bukan berarti membuang ide, melainkan mencatatnya ke *backlog Phase 2* agar dapat dievaluasi saat alur utama sudah stabil.
 
 ## Tindak lanjut dan batas bukti
 
-| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
-|---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+- **Langkah:** Mendampingi Rina menyusun template Google Sheets, melakukan rekap harian, serta menggelar evaluasi 10 menit di akhir minggu ke-1 dan ke-2 bersama Cyntia.
+- **Waktu:** Selama 14 hari masa *pilot project Phase 1*.
+- **Indikator:** Seluruh pesanan dari WA/IG/fisik terinput rapi oleh Rina, tidak ada pesanan tercecer, dan alur kerja terbukti stabil sebelum melangkah ke diskusi *Phase 2*.
+- **Batas Bukti:** Dokumen ini merupakan bukti simulasi percakapan interaktif; implementasi nyata bergantung pada disiplin *entry* data oleh Rina di toko.
 
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
+## Ringkasan Kasus dan Bobot Nilai Akhir UTS
 
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+### Ringkasan Nilai Antar Sesi
+| Sesi | Kasus / Target | Usulan Nilai AI | Keterangan Status |
+|---|---|---:|---|
+| Sesi 1 | Kasus 1: Memimpin Diri & Terus Belajar | 100.00 | Selesai & Dikonfirmasi |
+| Sesi 2a | Kasus 2: Persahabatan & Profesionalitas (Target 1) | 100.00 | Selesai & Dikonfirmasi |
+| Sesi 2b | Kasus 2: Persahabatan & Profesionalitas (Target 2) | 100.00 | Selesai & Dikonfirmasi |
+| Sesi 3a | Kasus 3: Menawarkan Solusi TI & AI (Target 1) | 100.00 | Selesai & Dikonfirmasi |
+| Sesi 3b | Kasus 3: Menawarkan Solusi TI & AI (Target 2) | 100.00 | Selesai & Dikonfirmasi |
 
-{{< include "../../includes/uts-penilaian.md" >}}
+### Rata-rata Per Kasus
+- **Rata-rata Kasus 2 (Sesi 2a & 2b):** $(100.00 + 100.00) / 2 = \mathbf{100.00}$
+- **Rata-rata Kasus 3 (Sesi 3a & 3b):** $(100.00 + 100.00) / 2 = \mathbf{100.00}$
+
+### Bobot Komponen Nilai UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 (Kasus 1) | 18% | 100.00 (Usulan AI) |
+| Sesi 2a (Kasus 2 - Target 1) | 18% | 100.00 (Usulan AI) |
+| Sesi 2b (Kasus 2 - Target 2) | 18% | 100.00 (Usulan AI) |
+| Sesi 3a (Kasus 3 - Target 1) | 18% | 100.00 (Usulan AI) |
+| Sesi 3b (Kasus 3 - Target 2) | 18% | 100.00 (Usulan AI) |
+| **Total** | **100%** | **Belum dihitung** |
+
+**Nilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)**, dengan seluruh nilai komponen pada skala 0–100.
+
+Nilai akhir UTS ditulis **Belum dihitung** sampai nilai Makalah Pra-UTS (`paper.qmd`) resmi dari dosen pengampu tersedia untuk melengkapi kelima nilai sesi di atas. Seluruh usulan skor AI memerlukan moderasi dan persetujuan dosen pengampu.

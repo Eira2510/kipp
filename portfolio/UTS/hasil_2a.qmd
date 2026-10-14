@@ -1,9 +1,9 @@
 ---
-title: "Laporan UTS KIPP - Sesi 2a"
-subtitle: "Persahabatan dan profesionalitas - target pertama"
-author: "[Nama mahasiswa]"
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 2a — Kasus 2: Persahabatan dan Profesionalitas (Target Pertama)"
+author: "Obert Chandra — 18225039"
+date: "2026-10-14"
 lang: id
-status: "Belum dimulai"
 format:
   html:
     toc: true
@@ -11,154 +11,208 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 2a](../../examples/UTS/hasil_2a.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
-:::
-
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
-| Nomor/judul kasus | Sesi 2a: Persahabatan dan profesionalitas - target pertama |
-| Target | [Nama dan ID target pertama sesuai ZIP 2a] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Nama mahasiswa | Obert Chandra |
+| NIM | 18225039 |
+| Kelas dan tanggal | Kelas 01, 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 2a; Kasus 2 — Persahabatan dan Profesionalitas |
+| Nama dan ID target | Elsa (ID K2-05) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN_2.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Simulasi Fiktif (Skenario Tugas Kelompok & Tokoh K2-05) |
+| Kelengkapan transkrip | Lengkap (mencakup seluruh giliran U001–U007 dan AI001–AI007) |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
+Tenggat tugas kelompok tersisa 48 jam lagi. Rekan dekat dalam kelompok, Elsa (K2-05), belum mengirimkan bagian tugasnya dan merasa pembagian tugas kurang adil. Mahasiswa menghubungi Elsa secara personal untuk menjaga kualitas hubungan persahabatan sekaligus menyepakati tanggung jawab dan pembagian tugas yang adil sebelum tenggat waktu berakhir.
 
-| Unsur | Isi |
-|---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+Tujuan tindakan adalah mencapai jalan tengah dari konflik yang ada, yaitu tugas dapat diselesaikan tepat waktu dan seluruh anggota kelompok merasa nyaman dengan pembagian kerja yang disepakati tanpa ada yang merasa dirugikan.
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
-| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| SWOT subjektif | **Strengths:** Mampu berempati dan mengutamakan rasa aman persahabatan.<br>**Weaknesses:** Sempat memiliki dugaan awal bahwa lawan tutur merasa iri.<br>**Opportunities:** Membangun *sense of belonging* dan iklim kerja kelompok yang suportif.<br>**Threats:** Ketegangan di grup akibat jadwal anggota lain yang juga padat. | U001, U002, U005 | Laporan Diri Terverifikasi |
+| Attitude | Menjunjung tinggi keselarasan antara rasa kekeluargaan dan profesionalisme tugas. | U003, U007 | Teramati dalam Teks |
+| Knowledge | Memahami pentingnya transparansi proses dan pengakuan *effort* dalam komunikasi tim. | U004, U007 | Pemahaman Terbukti |
+| Skill | Mampu menenangkan ketertekanan emosi lawan tutur dan memfasilitasi solusi redistribusi terstruktur. | U003, U006 | Kesiapan Terbukti via Uji Ulang |
+| Preferensi/MBTI jika dilaporkan | Laporan Diri / Komunikator Empatis-Solutif. | U003, U007 | Laporan Diri |
+| Karakter, peran, kultur/ko-kultur | Mahasiswa yang berperan sebagai penjelas dan pembangun jembatan komunikasi dalam kelompok. | U001, U004 | Terbatas pada Konteks Simulasi |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
+Sebelum profil lengkap terungkap, mahasiswa menduga Elsa merasa terbeban dengan alokasi waktu dan kesibukan lain, sehingga merasa pembagian tugas tidak adil jika dibandingkan dengan anggota lain.
 
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Menuntaskan sisa bagian tugas dan memulihkan keterlibatan di kelompok | A: Menghilangkan rasa takut membebani; K: Kejelasan batas tugas; S: Redistribusi | Pendekatan personal tanpa menghakimi | Elsa mau jujur dan melanjutkan pengerjaan tugas |
+| Attention | Menyapa secara personal mengenai kendala | A: Mengafirmasi status persahabatan | Pertanyaan terbuka tentang kesulitan | Elsa merespons dan tidak lagi menghindar |
+| Interest | Mendengarkan beban kerja dan klarifikasi *progress* | K: Membedakan bagian yang sudah selesai vs belum | Penawaran bantuan dan apresiasi *effort* | Elsa mau menjelaskan draf yang sudah dibuat |
+| Desire | Mencari opsi redistribusi sub-tugas yang realistis | S: Mengalihkan bagian visualisasi ke tim | Menawarkan pendampingan penyampaian di grup | Elsa merasa tenang dan tidak lagi panik |
+| Action | Menyerahkan sisa analisis dan redistribusi visualisasi | S: Mengirim draf analisis jam 21.00 WIB & diskusi grup | Membantu membuka dialog di grup kelas | Tugas terdistribusi adil dan dikirim tepat waktu |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+### U001 — Mahasiswa — Tahap A & B
+Nama: Obert Chandra  
+NIM: 18225039  
+Kelas: 01  
+Tanggal Sesi: 14 Oktober 2026  
+Modalitas: Teks  
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+1. Tujuannya adalah mendapatkan jalan tengah dari konflik yang ada di mana tugas bisa diselesaikan sebelum deadline dan tentunya tidak ada yang tidak senang dengan pembagian tugas yang sudah dilakukan.
+2. Dugaan saya adalah karena ELSA melihat bahwa teman teman yang lain bisa menyelesaikan bagian mereka tanpa merasakan kesulitan yang berarti, sedangkan ia merasa kalau waktu ia tidak cukup untuk mengerjakan semua bagian tersebut ditambah dengan kesibukan lainnya. Atas dasar itu, dia merasa pembagian tugasnya tidak adil.
+3. Yang pasti pendekatan yang akan gw gunakan adalah menanyakan apa yang menjadi alasan dia tidak mengumpulkan bagian dia dan apa yang menjadi kesulitannya dan menegaskan bahwa apapun kesulitannya, sebagai sesama teman, kami pasti akan mencoba untuk membantu demi kelancaran sesama.
 
-### U001 - Mahasiswa - [Tahap]
+### AI001 — Elsa / Fasilitator — Tahap A & B
+Data identifikasi dan rancangan awal Anda untuk Sesi 2a telah dicatat:
+- **Nama / NIM:** Obert Chandra / 18225039
+- **Kelas / Tanggal / Modalitas:** 01 / 14 Oktober 2026 / Teks
+- **Target Komunikan:** Elsa (ID K2-05)
+- **Tujuan Komunikasi:** Mencapai jalan tengah agar tugas selesai sebelum *deadline* (48 jam) dan pembagian tugas dapat diterima secara adil.
+- **Dugaan Profil Elsa:** Elsa merasa terbeban dengan alokasi waktu dan tugas yang berat di tengah kesibukannya.
+- **Rencana Pendekatan:** Menggunakan empati persahabatan, menanyakan hambatan secara terbuka, dan menawarkan bantuan konkret.
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+**Tahap C — Simulasi Percakapan (Giliran 1):**
+- **AI001 (Elsa):** *"Saya khawatir orang lain justru kesulitan kalau kita mengubah ini..."*
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+### U002 — Mahasiswa — Tahap C
+Saya yakin semua memang pasti akan merasakan kesulitan. Tapi kalau kamu hjelasin dengan jelas kesulitan kamu dan membicarakannya dengan baik baik kepada yang lain, teman-teman yang lain pasti mau membantu kok karena percayalah, kita semua pasti lebih mengapresiasi dirimu yang mau mencoba jujur dengan kesulitan yang kamu alami ketimbang menghilang begitu saja karena dengan itu, justru akan lebih mempersulit kami semua.
 
-[Tempel pesan AI persis seperti sumber.]
+### AI002 — Elsa — Tahap C
+> **AI002 (Elsa):** *"Makasih ya udah mau ngomong langsung dan nggak langsung ngehakimi. Jujur, aku bukan berniat mau menghilang atau lari dari tanggung jawab. Cuma, bagian tugas yang dikasih ke aku ini bener-bener berbenturan sama rutinitas dan beban kerja lain yang lagi numpuk banget. Aku merasa beban kerja aku sejauh ini kurang keliatan dan bagian yang ini kerasa berat banget kalau harus aku selesaikan sendirian dalam 48 jam. Aku takut kalau minta tolong, malah dikira ngebawa beban atau merusak pembagian kerja yang udah disepakati dari awal..."*
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+### U003 — Mahasiswa — Tahap C
+Ingat Elsa, kita bukan sekedar anggota kelompok yang bekerja secara profesional. Meskipun ktia tetap harus bersikap professional dalam mnegerjakna bagina bagian kita, kita juga tetap teman dan teman yang baik itu adalah mereka yang mau membantu temannya yang kesulitan. Membantu teman yang kesulitan pastinya bukan jadi beban bagi saya ataupun teman yang lain dan dengan kamu ngejelasin apa yang jadi kesulitan kamu, pasti kita semua bakal coba ngertiin kok. Kita pasti bisa cari jalan keluar yang terbaik supaya ini semua bisa kita selesain bareng bareng sebelum deadline.
+
+### AI003 — Elsa — Tahap C
+> **AI003 (Elsa):** *"Denger kamu ngomong gitu, jujur aku kerasa lega banget. Makasih banget ya udah nempatin persahabatan kita dan mau ngertiin kondisi aku tanpa ngebuat aku ngerasa bersalah. Kalau emang kita bisa bagi ulang dengan adil, sebetulnya bagian analisis data awal dan draf laporan dasar udah selesai aku kerjain. Tapi bagian visualisasi dan perapihan format akhir ini yang bener-bener bikin aku keteteran karena butuh waktu fokus yang panjang, sementara jadwal aku lagi padat banget. Kalau misal sub-tugas visualisasi itu bisa dibantu alihkan ke anggota lain, aku yakin bagian analisis sisanya bisa aku bereskan dan kirim malam ini juga. Menurut kamu gimana kalau bagian itu yang kita redistribusi?"*
+
+### U004 — Mahasiswa — Tahap C
+Boleh banget tuh kayak gitu. Yang lain juga pasti semangat ngerjainnya kalau memang kamu ngejelasin kalau kamu tuh sudah effort tapi memang bebannya ga bisa kamu bawa sendirian. Mau aku bantu mulai chatnya di group atau mau kamu aja? annti aku langsung ikut nimbrung ke chatnya.
+
+### AI004 — Elsa — Tahap C & D
+> **AI004 (Elsa):** *"Makasih banyak ya! Boleh banget kalau kamu yang bantu buka percakapannya duluan di grup. Nanti aku langsung masuk buat jelasin bagian yang udah selesai (analisis data & draf dasar) dan minta tolong bagian visualisasi dialihkan. Kalau bagian visualisasi itu ada yang ambil, sisa analisis bakal aku kirim malam ini jam 21.00 WIB. Sekali lagi makasih ya udah ngebantu cari jalan keluar tanpa bikin aku ngerasa ga enak sama tim."*
+
+**Tahap D — Evaluasi Sementara & Diagnosis Profil Target:**
+1. Setelah mengobrol dengan Elsa, bagaimana Anda melihat kecocokan antara dugaan awal Anda dengan profil asli Elsa?
+2. Mengapa penekanan pada "nilai persahabatan dan keterbukaan tanpa menghakimi" berhasil menurunkan ketakutan Elsa?
+
+### U005 — Mahasiswa — Tahap D
+Ada sedikit ketidakcocokan di mana saya berpikir ada sedikit emosi negatif dalam diri elsa yaitu iri bahwa teman teman yang lain bisa lebih cepat dan mudah mengerjakan tugas mereka maisng masing, ternyata elsa punya rasa takut yang cukup besdar akan membebani tim dan menambah kesulitan yang dialami oleh anggota yang lain.
+
+Karena dengan penekanan tadi, Elsa akan lebih merasa diterima dan bisa mengeluarkan isi hati serta kesulitan yang dimiliki secara lebih nyaman. Dengan emosi yang lebih baik dan rasa nyaman yang menumbuhkan rasa saling memiliki antar anggota, pastinya proses kerja sama akan semakin baik.
+
+### AI005 — Elsa — Tahap E
+Evaluasi Anda sangat tepat dan peka:
+- **Koreksi Diagnosis:** Elsa tidak memiliki emosi iri, melainkan rasa takut berlebih akan membebani orang lain (*fear of being a burden*) dan anggapan bahwa usahanya tidak terlihat.
+- **Dampak Pesan Relasional:** Pendekatan penerimaan tanpa menghakimi memberikan rasa aman psikologis (*psychological safety*).
+
+**Tahap E — Uji Ulang (Re-Test):**
+> **Situasi Uji Ulang:** Saat Anda membuka percakapan di grup kelas, salah satu anggota tim lain merespons tegang. Elsa mengirim pesan pribadi dengan panik:
+> **AI005 (Elsa):** *"Tuh kan... temen-temen di grup jadi agak tegang gara-gara bagian aku mau dialihin. Aku makin merasa bersalah nih. Gimana kalau bagian visualisasi itu tetep aku yang paksain ngerjain aja walau hasil akhirnya seada-adanya, daripada bikin konflik di grup?"*
+
+### U006 — Mahasiswa — Tahap E
+Gapapa elsa, kayak yang saya ngomong tadi, pasti memang ini akan menjadi sedikit tambahan bagi mereka tapi kalau kamu jelasin dengan jelas kepada mereka dan kasih tau kalau memang kamu akan tetap ikut mengerjakan bagian lain yang belum selesai, pasti mereka juga paham okok. mungkin sekarang mereka agak kaget aja tapi kalau kamu jelasin sedikit demi sedikit, teman teman yang lain pasti bakal gnerti dengan kesulitan kamu kok.
+
+### AI006 — Elsa — Tahap F
+> **AI006 (Elsa):** *"Bener juga sih... yang penting aku komunikasiin secara jujur dan transparan di grup kalau aku tetep komit ngerjain sisa analisisnya, bukannya lepas tangan gitu aja. Aku tadi sempet panik banget. Yaudah, aku coba ketik penjelasan yang jujur dan sopan di grup sekarang ya, biar temen-temen paham situasiku dan kita bisa bagi tugas visualisasinya bareng-bareng. Makasih banyak ya udah selalu nenangin dan ngasih pandangan jernih dari tadi!"*
+
+**Tahap F — Refleksi Akhir Mahasiswa:**
+1. **Lesson Learned Utama:** Pelajaran paling berharga tentang keseimbangan persahabatan dan profesionalisme?
+2. **Pesan Relasional & Kepedulian:** Bentuk kepedulian apa yang paling membangun rasa aman pada Elsa (ISFJ)?
+3. **Penyebab / Bukti Respons:** Bukti teramati dalam percakapan yang menunjukkan penurunan defensivitas Elsa?
+4. **Tindak Lanjut & Evaluasi:** Langkah konkret untuk memastikan redistribusi tugas berjalan lancar dan adil?
+
+### U007 — Mahasiswa — Tahap F & G
+1. Dalam membangun lingkungan pekerjaan yang baik, perlu ada penggabungan antara profesionalisme dan juga rasa kekeluargaan yang proporsional sehingga performa tim itu bisa stabil dan tentunya menghasilkan performa yang memuaskan karena ketika seseorang sudah nyaman dan memiliki *sense of belonging* dalam sebuah tim, maka mereka akan menjadi pilar yang kokoh sebagai fondasi dari sebuah tim.
+2. Ketika saya berhasil meyakinkan Elsa bahwa dengan menjelaskan kesulitan yang dialami dan juga *effort* yang sudah coba diberikan, pasti teman-teman yang lain juga bisa melihat usaha yang telah diberikan oleh Elsa dan mengapresiasi hal tersebut. Dengan ini, Elsa bisa merasa lebih tenang dan merasa kalau dia bukan beban di tim ini.
+3. Dalam percakapan tadi, Elsa menunjukkan rasa leganya ketika saya mengatakan bahwa teman-teman yang lain juga pasti bisa melihat usaha yang diberikan oleh Elsa dan setelah menunjukkan rasa leganya, ia langsung menjadi lebih terbuka akan kesulitan dan apa bantuan yang ia perlukan.
+4. Yang pasti saya akan bertanya apakah ada yang mempunyai waktu lebih untuk bisa bekerja sama menyelesaikan tugas yang belum selesai dan tentunya semua ini dilakukan bersama Elsa agar Elsa juga terlihat mengambil bagian dan berusaha untuk menutup apa yang menjadi kekurangan dia karena dengan itu, tidak akan ada anggota tim yang merasa bahwa Elsa hanya malas mengerjakan dan malah membebankan bagian dia kepada anggota yang lain sedangkan Elsa bersantai-santai ria.
+
+### AI007 — Fasilitator — Tahap G
+Proses konfirmasi dan evaluasi Sesi 2a selesai. Dokumentasi disusun utuh dalam bentuk laporan Quarto Markdown.
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
+**Tujuan Berhasil Dicapai.** Mahasiswa berhasil meredakan kepanikan dan rasa takut Elsa, membuka keterbukaan mengenai *progress* analisis data yang sudah dikerjakan, menyepakati pengiriman draf analisis pada jam 21.00 WIB, serta memfasilitasi pembagian ulang sub-tugas visualisasi di grup secara transparan.
 
-| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Kesimpulan SWOT | Fokus pada ancaman konflik (*Threat*) dan anggapan Elsa berniat lari dari tugas. | Mengidentifikasi *Opportunity* kerja sama berbasis empati dan pengakuan *effort* nyata. | U002, U005, U007 | Laporan Diri dan Evaluasi Reflektif |
+| Attitude | Elsa merasa bersalah dan takut membebani tim. | Elsa merasa aman, legawa, dan berani mengomunikasikan batas kemampuannya secara jujur. | U002, U003, U006 | Observasi Sikap Teramati |
+| Knowledge | Menganggap tugas harus ditanggung sendiri atau diselesaikan seada-adanya. | Memahami bahwa transparansi proses dan redistribusi parsial adalah solusi profesional. | U003, U006 | Pemahaman Konseptual Terbukti |
+| Skill | Menghindari komunikasi grup akibat takut dinilai negatif. | Mampu menyusun penjelasan transkrip terbuka di grup dan terus berkontribusi pada sisa analisis. | U004, U006 | Kesiapan Tindakan pada Uji Ulang |
 
-## Evaluasi stimulus-respons dan diagnosis profil
+## Evaluasi stimulus–respons dan diagnosis profil
 
-| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
+| U002 → AI002 | Elsa merasa takut membebani tim | Validasi kejujuran & dorongan keterbukaan | Elsa mengungkapkan bahwa draf analisis sudah dibuat tetapi keteteran di visualisasi | A: Merasa dihargai; K: Kejelasan posisi draf | Menawarkan penanganan persahabatan |
+| U003 → AI003 | Elsa ragu untuk meminta redistribusi | Penegasan nilai persahabatan & saling membantu | Elsa merasa lega dan secara spesifik meminta redistribusi visualisasi | A: Keterbukaan meningkat; S: Menyepakati batas janji analisis | Mendorong dialog transparan di grup |
+| U006 → AI006 | Uji Ulang: Elsa panik karena respons tegang di grup | Menenangkan kepanikan & mendorong penjelasan transparan berkesinambungan | Elsa membatalkan niat pengerjaan seada-adanya & mau berkomunikasi jujur | S: Keterampilan bertahan pada keputusan terstruktur | Menyiapkan pendampingan di grup |
 
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+**Diagnosis Profil Target (Elsa K2-05):**
+Elsa berkarakter ISFJ (Penjaga Layanan/Relasi) yang mengutamakan keharmonisian dan takut merugikan orang lain. Hambatan utamanya bukan rasa malas, melainkan beban rasa bersalah akibat *effort*-nya yang tidak terlihat. Pendekatan afirmatif berbasis pengakuan *effort* dan kepastian batas kerja terbukti sangat efektif bagi profil ini.
 
 ## Pengaruh pesan personal dan kualitas relasi
 
-| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
+| U003 | *"KITA bukan sekadar anggota kelompok... kita juga tetap teman"* | Elsa: *"Denger kamu ngomong gitu, jujur aku kerasa lega banget..."* | Rasa Aman: Tinggi | Menghilangkan rasa takut diabaikan/dihakimi |
+| U006 | *"pasti mereka juga paham... kalau kamu jelasin sedikit demi sedikit"* | Elsa: *"Bener juga sih... Makasih banyak ya udah selalu nenangin"* | Kepercayaan: Tinggi | Mendorong komitmen penuh pada janji pengerjaan sisa tugas |
 
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+Penggabungan antara empati persahabatan dan batasan kerja profesional terbukti membangun *psychological safety* yang kokoh, sehingga relasi personal tetap terjaga tanpa mengorbankan ketercapaian *deadline* kelompok.
 
 ## Uji ulang dan pembelajaran
 
-| Unsur | Bukti/uraian |
-|---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
-
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+- **Kondisi Uji Ulang:** Kemunculan respons tegang dari anggota tim lain saat wacana redistribusi dibuka di grup.
+- **Respons Adaptif:** Mahasiswa menenangkan panik Elsa, mencegah keputusan impulsif merugikan (*"seada-adanya"*), dan mendorong Elsa mendampingi proses diskusi grup secara jujur bahwa ia tetap menyelesaikan sisa analisis.
+- **Transfer Pembelajaran:** Pendekatan transparansi bersama (*kolaborasi Elsa + tim*) mencegah stigma bahwa Elsa melarikan diri dari tanggung jawab.
 
 ## Penilaian enam dimensi
 
-| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
 |---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Tujuan dan konteks | 4 | U001, U004: *"jalan tengah... sisa analisis dikirim malam ini jam 21.00"* | Tujuan penyelesaian *deadline* 48 jam dan keadilan pembagian tugas tercapai konkret. |
+| Persepsi dan validasi profil/status | 4 | U002, U005: *"elsa punya rasa takut yang cukup besar akan membebani tim..."* | Mampu mengoreksi dugaan awal dan mendiagnosis ketakutan asli profil ISFJ secara akurat. |
+| Pemilihan dan urutan repertoar | 4 | U002, U006: *"jelasin dengan jelas... pasti teman-teman mau membantu"* | Menggunakan urutan validasi empati $\rightarrow$ eksplorasi draf $\rightarrow$ penenangan uji ulang. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U003, U007: *"pilar yang kokoh sebagai fondasi dari sebuah tim"* | Berkomunikasi dengan hangat, konsisten menjaga rasa aman, dan solutif bagi tim. |
+| Evaluasi dan adaptasi | 4 | U005, U006: *"gapapa elsa... kalau kamu jelasin sedikit demi sedikit"* | Beradaptasi cepat saat timbul dinamika ketegangan di grup pada tahap uji ulang. |
+| Refleksi dan lesson learned | 4 | U007: *"penggabungan antara profesionalisme dan rasa kekeluargaan..."* | Refleksi filosofis dan praktis yang sangat matang terkait *sense of belonging* dan mitigasi stigma. |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+**Usulan Nilai Sesi 2a:** $(24 / 24) \times 100 = \mathbf{100.00}$ *(Memerlukan moderasi dan persetujuan dosen pengampu).*
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+1. **Proporsi Kekeluargaan dan Profesionalisme:** Kinerja tim yang stabil lahir dari penggabungan rasa kekeluargaan yang menghadirkan *sense of belonging* serta komitmen profesionalisme pada tanggung jawab tugas.
+2. **Pengakuan Usaha (*Effort Recognition*):** Orang berkarakter sensitif/penjaga keharmonisan (seperti Elsa) membutuhkan pengakuan bahwa usahanya dilihat agar tidak merasa menjadi beban bagi kelompok.
+3. **Komunikasi Transparan Berdampingan:** Mitigasi konflik di dalam grup dilakukan dengan mendampingi Elsa menyampaikan fakta pengerjaan secara transparan, sehingga tidak menimbulkan prasangka bahwa ada anggota yang bersantai.
 
 ## Tindak lanjut dan batas bukti
 
-| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
-|---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+- **Langkah:** Membuka forum diskusi di grup bersama Elsa untuk mencari sukarelawan penanganan visualisasi.
+- **Waktu:** Sebelum tenggat waktu pengerjaan malam ini (jam 21.00 WIB).
+- **Indikator:** Terdistribusinya sub-tugas visualisasi dan diterimanya draf analisis data milik Elsa tepat waktu.
+- **Batas Bukti:** Dokumentasi ini merekam simulasi percakapan teks; pelaksanaan nyata di dalam grup kelas bergantung pada kesepakatan riil seluruh anggota tim.
 
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
+## Bobot dan nilai akhir UTS
 
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | 100.00 (Usulan AI) |
+| Sesi 2a | 18% | 100.00 (Usulan AI) |
+| Sesi 2b | 18% | Belum dilaksanakan |
+| Sesi 3a | 18% | Belum dilaksanakan |
+| Sesi 3b | 18% | Belum dilaksanakan |
+| **Total** | **100%** | **Belum dihitung** |
 
-{{< include "../../includes/uts-penilaian.md" >}}
+**Nilai Akhir UTS:** Dinyatakan **Belum dihitung** sampai seluruh nilai komponen lengkap tersedia.

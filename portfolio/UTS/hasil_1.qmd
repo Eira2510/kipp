@@ -1,9 +1,9 @@
 ---
-title: "Laporan UTS KIPP - Sesi 1"
-subtitle: "Memimpin diri dan terus belajar"
-author: "[Nama mahasiswa]"
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 1 — Kasus 1: Memimpin Diri dan Terus Belajar"
+author: "Obert Chandra — 18225039"
+date: "2026-10-14"
 lang: id
-status: "Belum dimulai"
 format:
   html:
     toc: true
@@ -11,154 +11,222 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 1](../../examples/UTS/hasil_1.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
-:::
-
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
-| Nomor/judul kasus | Sesi 1: Memimpin diri dan terus belajar |
-| Target | [Diri mahasiswa; tokoh pembanding sesuai ZIP aktif] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Nama mahasiswa | Obert Chandra |
+| NIM | 18225039 |
+| Kelas dan tanggal | Kelas 01, 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 1; Kasus 1 — Memimpin Diri dan Terus Belajar |
+| Nama dan ID target | Diri mahasiswa (Target Utama); Pembanding Dimas (K1-04) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Kombinasi Nyata (Refleksi Diri) dan Fiktif (Simulasi Pembanding K1-04) |
+| Kelengkapan transkrip | Lengkap (mencakup seluruh giliran U001–U007 dan AI001–AI007) |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
+Kasus 1 berfokus pada pengembangan kemampuan memimpin diri sendiri ketika menghadapi hambatan belajar atau pengerjaan tugas. Mahasiswa memilih untuk meningkatkan **Manajemen dan Disiplin Waktu** agar waktu yang dimiliki dapat dimanfaatkan secara optimal. 
 
-| Unsur | Isi |
-|---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+Hambatan utama yang diidentifikasi adalah rasa malas serta distraksi eksternal seperti *doomscrolling*, bermain game, dan menonton media digital. Indikator keberhasilan tindakan adalah kemampuan menetapkan jeda terukur (5 menit tanpa HP) dan mengeksekusi langkah teknis pertama (berdiskusi dengan teman/AI) untuk keluar dari kondisi buntu (*stuck*) secara terencana.
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
-| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| SWOT subjektif | **Strengths:** Inisiatif tinggi dan kemauan kuat untuk langsung bertindak.<br>**Weaknesses:** Pengelolaan emosi saat merasa *mentok* yang memicu ketidaksabaran.<br>**Opportunities:** Penggunaan teknologi (AI) dan teman sebagai alat bantu berpikir.<br>**Threats:** Distraksi media sosial dan kelelahan mental (*fatigue*). | U001, U002, U004 | Laporan Diri Terverifikasi |
+| Attitude | Terbuka pada perbaikan, menghargai rasionalitas, namun rentan pelarian saat stres. | U001, U002 | Teramati dalam teks |
+| Knowledge | Memahami bahwa memaksa bekerja saat pikiran buntu akan menurunkan kualitas *output*. | U003 | Pemahaman Terbukti |
+| Skill | Mampu merancang aturan terukur (*5-minute cooling down*) dan mengganti strategi interaksi. | U005, U006 | Kesiapan Terbukti via Uji Ulang |
+| Preferensi/MBTI jika dilaporkan | Laporan Diri / Hipotesis Gaya Berpikir Analitis-Adaptif. | U003, U005 | Laporan Diri |
+| Karakter, peran, kultur/ko-kultur | Mahasiswa STEI-K ITB yang mengutamakan efisiensi teknis dan logika kritis. | U003, U007 | Terbatas pada konteks simulasi |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
+Target utama dalam Kasus 1 adalah **diri mahasiswa sendiri**, sedangkan tokoh **Dimas (K1-04)** berperan sebagai pembanding untuk menguji ketahanan argumen rasional.
 
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Mengatasi ketidaksabaran dan pelarian distraksi | A: Mengakui rasa lelah; K: Menentukan batas; S: Langkah terstruktur | Dialog internal dan ujaran rasional | Terciptanya batas waktu dan tindakan terukur |
+| Attention | Menyadarai munculnya rasa pusing/mentok | A: Menolak pelarian refleks | Menyapa emosi diri (*"Yok bisa yok"*) | Penghentian impulsif *doomscrolling* |
+| Interest | Mengganti distraksi digital dengan jeda fisik | K: Efek penurunan kualitas kerja | Berdiri, jalan-jalan 5 menit, dan minum air | Pikiran lebih segar tanpa keterlanjuran waktu |
+| Desire | Mencari sudut pandang baru dalam belajar | S: Membuka bantuan kognitif luar | Bertanya kepada teman atau AI | Terbuka perspektif baru untuk menyelesaikan tugas |
+| Action | Menjalankan *cooling down* dan aksi teknis | S: Eksekusi terikat timer 5 menit | Mengatur timer dan menyiapkan pertanyaan AI/teman | Kembali ke meja belajar tepat waktu |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+### U001 — Mahasiswa — Tahap A & B
+Nama Lengkap: Obert Chandra  
+NIM: 18225039  
+Kelas: 01  
+Tanggal Hari Ini: 14 Oktober 2026  
+Modalitas: Teks  
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+Kemampuan yang ingin dikembangkan : Disiplin waktu  
+Tujuan Komunikasi : Bisa menjadi diri yang lebih disiplin sehingga waktu yang ada bisa dimanfaatkan dengan sebaik mungkin  
+Hambatan Utama Diri : Rasa malas dan juga distraksi dari luar seperti doomscrolling, main game, nonton, dan masih banyak lagi  
 
-### U001 - Mahasiswa - [Tahap]
+### AI001 — Fasilitator — Tahap A & B
+Data identifikasi dan rancangan awal Anda telah dicatat:
+- **Nama / NIM:** Obert Chandra / 18225039
+- **Kelas / Tanggal / Modalitas:** 01 / 14 Oktober 2026 / Teks
+- **Target Pengembangan Diri:** Manajemen & disiplin waktu
+- **Tujuan Utama:** Menjadi pribadi yang lebih disiplin untuk mengoptimalkan penggunaan waktu.
+- **Hambatan Utama Diri:** Rasa malas serta distraksi eksternal (doomscrolling, bermain game, dan menonton).
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+**Tahap B — Pendalaman Profil Diri & SWOT-like:**
+1. Saat distraksi seperti *doomscrolling* atau *game* muncul di tengah jadwal belajar/tugas, persepsi apa yang biasanya terlintas di pikiran Anda? Apakah Anda melihat distraksi tersebut sebagai "hadiah/istirahat sejenak" atau sebagai "pelarian dari tugas yang terasa berat"?
+2. Keterampilan atau strategi konkret apa yang sebetulnya *pernah* Anda coba untuk mengatasi rasa malas tersebut, dan di titik mana strategi itu biasanya gagal?
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+### U002 — Mahasiswa — Tahap B
+1. Ada saatnya gw menganggap distraksi tersebut sebagai sebuah pelarian saat bener bener stres ataupun terasa mentok dalam belajar maupun mengerjakan tugas.
+2. Strategi yang biasa saya gunakan adalah meletakan distraksi tersebut sejauh mungkin dari diri saya seperti hp yang saya jauhkan dari diri saya. Tapi hal itu kurang efektif karena ada saja saat di mana saya memerlukan hp saya untuk menghubungi seseorang atau sebagai alat untuk mencari media belajar. Selain itu saya juga mencoba pendekatan lain yaitu bekerja di tempat terbuka sehingga distraksi dalam diri saya bisa dikendalikan. Namun hal ini juga kurang efektif karena saat sudah lelah, perlu effort yang jauh lebih banyak untuk pulang, bebersih lalu istirahat sehingga waktu yang dialokasikan lebih banyak untuk bergerak dan transportasi.
 
-[Tempel pesan AI persis seperti sumber.]
+### AI002 — Fasilitator — Tahap B & C
+Terima kasih, analisis PASK dan SWOT-like diri Anda sangat jernih:
+- **Persepsi & Sikap (A):** Distraksi berfungsi sebagai pelarian saat merasa *mentok* atau stres dengan tugas yang berat.
+- **Keterbatasan Keterampilan/Strategi (S):** Menjauhkan HP gagal karena HP tetap dibutuhkan untuk belajar/komunikasi, sedangkan belajar di luar memicu *fatigue* di ongkos energi/transportasi.
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+**Tahap C — Simulasi Dialog Diri:**
+Bandingkan dua bentuk respons berikut:
+1. **Respons Reaktif Diri (Pesan Lama):** Tuliskan kalimat internal yang biasanya otomatis diucapkan oleh "diri reaktif" Anda saat menyerah pada distraksi.
+2. **Pesan Dialog Diri Baru (Responsif/Apresiatif):** Tuliskan kalimat dialog internal baru yang lebih bijak, menghargai rasa lelah Anda, tetapi tetap menjaga komitmen belajar dan batas waktu yang jelas.
+
+### U003 — Mahasiswa — Tahap C
+1. "Aduh gimana sih ini, ya udah scroll bentar deh, pusing banget sumpah"
+2. "Yok bisa yok, scrollnya nantian deh biar kelarnya lebih cepet" atau jika memang sudah sepusing itu, "berdiri sama jalan jalan aja dah, kalau scroll pasti nanti makan waktu lama lagi, mending kita refreshing jauh dari hp"
+
+### AI003 — Fasilitator — Tahap C
+Evaluasi terhadap pesan dialog diri Anda:
+1. **Pesan Reaktif Diri:** Menunjukkan pola pelarian spontan akibat persepsi beban stres/mentok (*"Aduh gimana sih ini, ya udah scroll bentar..."*).
+2. **Pesan Dialog Diri Baru:** Sangat responsif dan apresiatif. Anda berhasil mengidentifikasi bahwa rasa pusing butuh diistihatkan (*"berdiri sama jalan-jalan"*), bukan melarikan diri ke *doomscrolling* yang memakan waktu lama.
+
+**Tahap C (Lanjutan) — Simulasi Tokoh Pembanding: Dimas (K1-04):**
+- **AI003 (Dimas):** *"Apa buktinya kalau pendekatan jalan-jalan sejenak atau nahan diri dari HP ini benar-benar bisa bikin lu lebih disiplin dan kerjaan lu kelar lebih cepat?"*
+
+### U004 — Mahasiswa — Tahap C
+Karena ketika saya memaksakan diri untuk terus mencoba dengan kondisi pikiran yang sudah tidak jernih, emosi pastinya akan meningkat dan juga output dari usaha yang diberikan tidak akan sesuai karena pikiran yang sudah tidak jernih. Jalan jalan sebentar itu jadi opsi paling pas karena pastinya kita ga akan overlap dari waktu yang udah kita tentuin dari awal (Ga kayak doomscrolling) dan di sini adalah kesempatan kita untuk menjauhkan pikiran sejenak dari semua huru hara yang ada gitu.
+
+### AI004 — Fasilitator — Tahap C & D
+- **AI004 (Dimas):** *"Masuk akal sih penjelasan lu soal penurunan kualitas output kalau dipaksain dalam kondisi emosi/stres. Alasan membatasi risiko overlap waktu dibanding doomscrolling itu rasional. Oke, tapi gimana lu ngukur kalau 'jalan-jalan sebentar' itu beneran efektif dan nggak malah jadi bentuk penundaan baru?"*
+
+**Tahap D — Evaluasi Sementara & Diagnosis Profil Diri:**
+1. Setelah membandingkan respons reaktif dan responsif Anda, kesimpulan baru apa yang Anda dapatkan mengenai kekuatan (*Strengths*) dan keterbatasan (*Weaknesses*) Anda dalam mengelola waktu?
+2. Sejauh mana jawaban Anda kepada Dimas tadi berhasil menjelaskan kriteria batas waktu dan indikator keberhasilan yang ia cari?
+
+### U005 — Mahasiswa — Tahap D
+Gw merasa strength gw adalah gw memiliki kemauan untuk berubah menjadi pribadi yang lebih baik dan tentunya langsung melakukan hal tersebut, tidak hanya mengucapkannya. Weaknesses saya tentunya ada di pengelolaan emosi saya karena ketika saya mentok dalam mengerjakan sesuatu, saya cenderung berubah menjadi pribadi yang kurang bersabar dan semuanya jadi ingin cepat selesai sehingga hasilnya pun kurang baik.
+
+Masih kurang karena pada akhirnya, dimas kembali bertanya gimana cara ngebuktiin kalau itu tuh efektif dan bukan menjadi bentuk lain dari sekedar menunda kerjaan gw.
+
+### AI005 — Fasilitator — Tahap E
+Evaluasi Anda sangat tajam dan objektif:
+- **Strengths:** Memiliki inisiatif nyata untuk bertindak dan tidak sekadar berwacana.
+- **Weaknesses:** Pengelolaan emosi saat merasa *mentok* yang memicu ketidaksabaran.
+- **Evaluasi vs Dimas:** Menyadari bahwa argumen rasional tentang jalan-jalan perlu dilengkapi dengan **indikator keberhasilan dan batas waktu terukur**.
+
+**Tahap E — Uji Ulang (Re-Test):**
+1. **Aturan Batas & Indikator Konkret:** Berapa menit persisnya Anda mengalokasikan waktu untuk "jalan-jalan/refreshing tanpa HP", dan apa indikator pasti bahwa Anda **wajib** kembali ke meja belajar?
+2. **Eksekusi Langkah Pertama:** Ketika Anda duduk kembali di meja belajar setelah jalan-jalan, apa **1 langkah teknis terkecil** yang langsung Anda lakukan agar tidak merasa *mentok* lagi?
+
+### U006 — Mahasiswa — Tahap E
+1. 5 menit karena pada waktu tersebut, saya bisa bernafas secara mental dan tentunya mencari sedikit cemilan yang bisa mendukung tingkat kefokusan saya seperti buah buahan dan tentunya minum air mineral.
+2. Saya akan mencoba sesuatu yang belom saya lakukan sebelumnya. Kalau sebelumnya dengan pikiran yang kurang jernih saya belom tanya teman ataupun AI, maka saat duduk kembali saya akan melakukan hal tersebut dengan tujuan membuka sudut pandang yang baru dan lebih fresh sehingga bisa terhindar dari output yang sama.
+
+### AI006 — Fasilitator — Tahap F
+Luar biasa! Penetapan aturan dan langkah aksi Anda pada Uji Ulang sangat presisi dan konkret.
+
+**Tahap F — Refleksi Akhir Mahasiswa:**
+1. **Lesson Learned Utama:** Pelajaran paling berharga apa yang Anda dapatkan tentang cara memimpin diri sendiri dari simulasi ini?
+2. **Pesan Relasional & Kepedulian:** Dalam berinteraksi dengan orang analitis/skeptis seperti Dimas, pesan atau pendekatan seperti apa yang paling membantu membangun rasa dipercaya dan dihargai?
+3. **Tindak Lanjut Lanjutan:** Bagaimana Anda akan mengevaluasi keberhasilan aturan "5 menit jalan-jalan + tanya AI/teman" ini dalam 1–2 minggu ke depan?
+
+### U007 — Mahasiswa — Tahap F & G
+1. Dalam mengubah diri menjadi pribadi yang lebih disiplin, bukan hanya niat dan juga tindakan yang harus dilakukan, namun semua tindakan dan juga niat yang ada harus diperhitungkan secara baik-baik dan jelas juga tujuan dari niat dan juga tindakan yang akan dilakukan itu apa agar bukan hanya menjadi perubahan yang tidak berfungsi. Semuanya harus jelas mulai dari teknisnya dan apa yang akan benar-benar dilakukan secara bertahap, bukan hanya ide kasar saja.
+2. Menjelaskan secara jelas dan rinci apa saja yang menjadi ide kita dan tujuan serta teknis pelaksanaannya. Dengan itu, orang seperti Dimas bisa mengapresiasi kita dan percaya bahwa kita adalah seorang individu yang cocok untuk diajak berkembang bersama dan dengan adanya support system seperti ini, bukan tidak mungkin kita juga bisa berubah menjadi pribadi yang lebih baik melalui lingkungan yang lebih baik.
+3. Saya akan melihat interval waktu "mentok" saya. Apakah setelah jalan-jalan ini, saya masih cepat merasa mentok atau malah setelah jalan-jalan ini, saya tidak merasa mentok sama sekali dan emosi saya menjadi lebih stabil dalam belajar maupun mengerjakan tugas yang berkaitan.
+
+### AI007 — Fasilitator — Tahap G
+Proses konfirmasi dan evaluasi Sesi 1 selesai. Dokumentasi disusun utuh dalam bentuk laporan Quarto Markdown.
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
+**Tujuan Tersebut Tercapai Sebagian Besar (Persiapan Aksi Nyata).** Mahasiswa berhasil mentransformasi respons refleks melarikan diri (*doomscrolling*) menjadi rencana aksi responsif (*cooling down 5 menit*) dan membuka saluran bantuan kognitif (*tanya AI/teman*).
 
-| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Kesimpulan SWOT | Fokus pada keterbatasan daya tahan emosi (*Weakness*) dan ancaman distraksi. | Menyadari potensi keteraturan teknis (*Strength*) dan pemanfaatan AI/Support System (*Opportunity*). | U002, U005, U007 | Laporan Diri dan Evaluasi Reflektif |
+| Attitude | Defensif saat mentok dan menganggap *scrolling* sebagai pelarian wajib. | Mengapresiasi kebutuhan istirahat fisik tanpa mengorbankan waktu kerja. | U003, U006 | Observasi Sikap Teramati |
+| Knowledge | Tahu HP bikin distraksi, tetapi belum punya cara membatasi fungsionalitasnya. | Memahami pentingnya batasan waktu presisi (5 menit) dan ekspektasi per interval kerja. | U002, U006 | Pemahaman Konseptual Terbukti |
+| Skill | Menjauhkan HP / pindah tempat kerja (kurang efektif). | Menetapkan timer 5 menit dan langsung mengajukan pertanyaan terstruktur ke AI/teman. | U002, U006 | Kesiapan Tindakan pada Uji Ulang |
 
-## Evaluasi stimulus-respons dan diagnosis profil
+## Evaluasi stimulus–respons dan diagnosis profil
 
-| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
+| U003 → AI003 | Buntu mengerjakan tugas; emosi mulai tidak sabar | *"Yok bisa yok, berdiri sama jalan-jalan aja dah..."* | Fasilitator menyetujui efektivitas jeda fisik dibanding jeda digital | A: Menerima rasa lelah; K: Mengetahui beda *refreshing* vs penundaan | Menghindari *doomscrolling* |
+| U004 → AI004 | Dimas (K1-04) mempertanyakan bukti rasional | Explaining penurunan kognitif akibat emosi & overlap waktu | Dimas menerima logika tetapi meminta indikator ukur | K: Pemahaman kebutuhan kriteria rasional pada lawan tutur | Menyusun indikator waktu |
+| U006 → AI006 | Pertanyaan uji ulang batas waktu & langkah teknis | Timer 5 menit + cemilan & bertanya ke AI/teman saat kembali | Fasilitator menilai aturan presisi & konkret | S: Peningkatan keterampilan memimpin diri secara terstruktur | Eksekusi langkah terkecil |
 
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+**Diagnosis Profil Pembanding (Dimas K1-04):**
+Dimas adalah komunikator berorientasi analitis (INTJ) yang membutuhkan kejelasan indikator, alur teknis, dan alasan rasional. Mahasiswa berhasil menyesuaikan gaya komunikasinya dari klaim kualitatif menjadi rincian terukur yang dapat diterima oleh orang berpola pikir analitis.
 
 ## Pengaruh pesan personal dan kualitas relasi
 
-| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
+| U003 | Menghargai batas kemampuan diri (*"mending kita refreshing..."*) | Tingkat stres internal menurun | Rasa Aman: Tinggi | Menurunkan kelelahan emosional |
+| U004 & U007 | Menjelaskan alur teknis rinci kepada Dimas | Dimas menghargai penjelasan rasional | Kepercayaan: Sedang $\rightarrow$ Tinggi | Membangun reputasi individu yang terencana |
 
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+Penghormatan pada otonomi diri dan transparansi teknis kepada rekan (seperti Dimas) memicu lingkungan yang saling mendukung (*support system*), sehingga interaksi tidak berhenti pada perdebatan melainkan berubah menjadi kolaborasi pertumbuhan bersama.
 
 ## Uji ulang dan pembelajaran
 
-| Unsur | Bukti/uraian |
-|---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
-
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+- **Aturan Konkret:** Jeda fisik 5 menit (air mineral/buah) saat pikiran terasa buntu.
+- **Langkah Pertama:** Duduk kembali dan langsung mengajukan pertanyaan sudut pandang baru kepada teman/AI.
+- **Indikator Keberhasilan:** Mengukur stabilitas emosi dan frekuensi/interval durasi buntu (*stuck*) dalam 1–2 minggu ke depan.
 
 ## Penilaian enam dimensi
 
-| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
 |---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Tujuan dan konteks | 4 | U001, U006: *"5 menit... bertanya ke AI/teman"* | Tujuan disiplin waktu didefinisikan secara konkret dengan batas teknis terukur. |
+| Persepsi dan validasi profil/status | 4 | U002, U005: *"Weaknesses saya ada di pengelolaan emosi..."* | Mampu mendiagnosis keterbatasan diri dan kebutuhan profil analitis Dimas secara akurat. |
+| Pemilihan dan urutan repertoar | 4 | U003, U006: *"Yok bisa yok... bertanya sudut pandang baru"* | Pergeseran respons dari reaktif ke responsif terstruktur dengan urutan aksi yang logis. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U004, U007: *"Menjelaskan secara jelas dan rinci..."* | Penyampaian argumen tegas, menghargai batas emosi diri, dan transparan kepada rekan. |
+| Evaluasi dan adaptasi | 4 | U005, U006: *"Masih kurang... saya akan mencoba sesuatu yang belom dilakukan"* | Cepat mengevaluasi kekurangan jawaban awal dan merevisinya pada tahap uji ulang. |
+| Refleksi dan lesson learned | 4 | U007: *"bukan hanya ide kasar saja... melihat interval waktu mentok"* | Refleksi sangat mendalam mengenai aspek teknis, relasional, dan metode evaluasi lanjutan. |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+**Usulan Nilai Sesi 1:** $(24 / 24) \times 100 = \mathbf{100.00}$ *(Memerlukan moderasi dan persetujuan dosen pengampu).*
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+1. **Transformasi Niat ke Teknis:** Perubahan diri tidak bisa dicapai hanya dengan niat abstrak, melainkan wajib diturunkan menjadi langkah teknis yang diperhitungkan dengan terstruktur.
+2. **Komunikasi Relasional dengan Tipe Analitis:** Menjelaskan ide secara terukur dan rinci adalah kunci agar individu analitis (seperti Dimas) dapat mempercayai dan mendukung proses tumbuh bersama.
+3. **Evaluasi Berkelanjutan:** Keberhasilan strategi diukur dari stabilitas emosi dan peningkatan durasi ketahanan fokus saat menyelesaikan tugas-tugas berikutnya.
 
 ## Tindak lanjut dan batas bukti
 
-| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
-|---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+- **Langkah:** Menerapkan aturan timer 5 menit dan penggunaan AI/diskusi teman saat buntu.
+- **Waktu:** 1–2 minggu ke depan pada setiap sesi belajar mandiri/kuliah.
+- **Indikator:** Penurunan frekuensi pelarian *doomscrolling* dan evaluasi interval waktu terasa buntu (*stuck*).
+- **Batas Bukti:** Transkrip ini merekam kesiapan dan kesepakatan simulasi; eksekusi perilaku riil di lapangan tetap memerlukan kedisiplinan mandiri mahasiswa.
 
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
+## Bobot dan nilai akhir UTS
 
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | 100.00 (Usulan AI) |
+| Sesi 2a | 18% | Belum dilaksanakan |
+| Sesi 2b | 18% | Belum dilaksanakan |
+| Sesi 3a | 18% | Belum dilaksanakan |
+| Sesi 3b | 18% | Belum dilaksanakan |
+| **Total** | **100%** | **Belum dihitung** |
 
-{{< include "../../includes/uts-penilaian.md" >}}
+**Nilai Akhir UTS:** Dinyatakan **Belum dihitung** sampai nilai makalah dan kelima sesi simulasi lengkap tersedia.

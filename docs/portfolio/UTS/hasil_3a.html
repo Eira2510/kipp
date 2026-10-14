@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="[Nama mahasiswa]">
+<meta name="author" content="Obert Chandra — 18225039">
 
-<title>Laporan UTS KIPP - Sesi 3a – Portfolio KIPP-2</title>
+<title>Laporan UTS KIPP 2026 — Versi 2.0 – Portfolio KIPP-2</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -77,6 +77,35 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -150,7 +179,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alihkan bilah sisi" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Laporan UTS KIPP - Sesi 3a</li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Laporan UTS KIPP 2026 — Versi 2.0</li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alihkan bilah sisi" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -189,7 +218,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../portfolio/week-04.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Five-Language Translation Portfolio</span></a>
+ <span class="menu-text">Minggu 4 — Five-Language Translation Portfolio</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -277,13 +306,23 @@ ul.task-list li input[type="checkbox"] {
   </ul></li>
   <li><a href="#c-skrip-percakapan" id="toc-c-skrip-percakapan" class="nav-link" data-scroll-target="#c-skrip-percakapan">C) Skrip Percakapan</a>
   <ul class="collapse">
-  <li><a href="#u001---mahasiswa---tahap" id="toc-u001---mahasiswa---tahap" class="nav-link" data-scroll-target="#u001---mahasiswa---tahap">U001 - Mahasiswa - [Tahap]</a></li>
-  <li><a href="#ai001---fasilitatornama-tokoh---tahap" id="toc-ai001---fasilitatornama-tokoh---tahap" class="nav-link" data-scroll-target="#ai001---fasilitatornama-tokoh---tahap">AI001 - [Fasilitator/nama tokoh] - [Tahap]</a></li>
+  <li><a href="#u001-mahasiswa-tahap-a-b" id="toc-u001-mahasiswa-tahap-a-b" class="nav-link" data-scroll-target="#u001-mahasiswa-tahap-a-b">U001 — Mahasiswa — Tahap A &amp; B</a></li>
+  <li><a href="#ai001-budi-fasilitator-tahap-a-b" id="toc-ai001-budi-fasilitator-tahap-a-b" class="nav-link" data-scroll-target="#ai001-budi-fasilitator-tahap-a-b">AI001 — Budi / Fasilitator — Tahap A &amp; B</a></li>
+  <li><a href="#u002-mahasiswa-tahap-c" id="toc-u002-mahasiswa-tahap-c" class="nav-link" data-scroll-target="#u002-mahasiswa-tahap-c">U002 — Mahasiswa — Tahap C</a></li>
+  <li><a href="#ai002-budi-tahap-c" id="toc-ai002-budi-tahap-c" class="nav-link" data-scroll-target="#ai002-budi-tahap-c">AI002 — Budi — Tahap C</a></li>
+  <li><a href="#u003-mahasiswa-tahap-c" id="toc-u003-mahasiswa-tahap-c" class="nav-link" data-scroll-target="#u003-mahasiswa-tahap-c">U003 — Mahasiswa — Tahap C</a></li>
+  <li><a href="#ai003-budi-tahap-c-d" id="toc-ai003-budi-tahap-c-d" class="nav-link" data-scroll-target="#ai003-budi-tahap-c-d">AI003 — Budi — Tahap C &amp; D</a></li>
+  <li><a href="#u004-mahasiswa-tahap-d" id="toc-u004-mahasiswa-tahap-d" class="nav-link" data-scroll-target="#u004-mahasiswa-tahap-d">U004 — Mahasiswa — Tahap D</a></li>
+  <li><a href="#ai004-budi-tahap-e" id="toc-ai004-budi-tahap-e" class="nav-link" data-scroll-target="#ai004-budi-tahap-e">AI004 — Budi — Tahap E</a></li>
+  <li><a href="#u005-mahasiswa-tahap-e" id="toc-u005-mahasiswa-tahap-e" class="nav-link" data-scroll-target="#u005-mahasiswa-tahap-e">U005 — Mahasiswa — Tahap E</a></li>
+  <li><a href="#ai005-budi-tahap-f" id="toc-ai005-budi-tahap-f" class="nav-link" data-scroll-target="#ai005-budi-tahap-f">AI005 — Budi — Tahap F</a></li>
+  <li><a href="#u006-mahasiswa-tahap-f-g" id="toc-u006-mahasiswa-tahap-f-g" class="nav-link" data-scroll-target="#u006-mahasiswa-tahap-f-g">U006 — Mahasiswa — Tahap F &amp; G</a></li>
+  <li><a href="#ai006-fasilitator-tahap-g" id="toc-ai006-fasilitator-tahap-g" class="nav-link" data-scroll-target="#ai006-fasilitator-tahap-g">AI006 — Fasilitator — Tahap G</a></li>
   </ul></li>
   <li><a href="#d-hasil-evaluasi-dan-refleksi" id="toc-d-hasil-evaluasi-dan-refleksi" class="nav-link" data-scroll-target="#d-hasil-evaluasi-dan-refleksi">D) Hasil, Evaluasi, dan Refleksi</a>
   <ul class="collapse">
   <li><a href="#hasil-tujuan-dan-perubahan-swotask" id="toc-hasil-tujuan-dan-perubahan-swotask" class="nav-link" data-scroll-target="#hasil-tujuan-dan-perubahan-swotask">Hasil tujuan dan perubahan SWOT/ASK</a></li>
-  <li><a href="#evaluasi-stimulus-respons-dan-diagnosis-profil" id="toc-evaluasi-stimulus-respons-dan-diagnosis-profil" class="nav-link" data-scroll-target="#evaluasi-stimulus-respons-dan-diagnosis-profil">Evaluasi stimulus-respons dan diagnosis profil</a></li>
+  <li><a href="#evaluasi-stimulusrespons-dan-diagnosis-profil" id="toc-evaluasi-stimulusrespons-dan-diagnosis-profil" class="nav-link" data-scroll-target="#evaluasi-stimulusrespons-dan-diagnosis-profil">Evaluasi stimulus–respons dan diagnosis profil</a></li>
   <li><a href="#pengaruh-pesan-personal-dan-kualitas-relasi" id="toc-pengaruh-pesan-personal-dan-kualitas-relasi" class="nav-link" data-scroll-target="#pengaruh-pesan-personal-dan-kualitas-relasi">Pengaruh pesan personal dan kualitas relasi</a></li>
   <li><a href="#uji-ulang-dan-pembelajaran" id="toc-uji-ulang-dan-pembelajaran" class="nav-link" data-scroll-target="#uji-ulang-dan-pembelajaran">Uji ulang dan pembelajaran</a></li>
   <li><a href="#penilaian-enam-dimensi" id="toc-penilaian-enam-dimensi" class="nav-link" data-scroll-target="#penilaian-enam-dimensi">Penilaian enam dimensi</a></li>
@@ -299,8 +338,8 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Laporan UTS KIPP - Sesi 3a</h1>
-<p class="subtitle lead">Menawarkan solusi TI dan AI - target pertama</p>
+<h1 class="title">Laporan UTS KIPP 2026 — Versi 2.0</h1>
+<p class="subtitle lead">Sesi 3a — Kasus 3: Menawarkan Solusi TI dan AI (Target Pertama)</p>
 </div>
 
 
@@ -310,10 +349,16 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Penulis</div>
     <div class="quarto-title-meta-contents">
-             <p>[Nama mahasiswa] </p>
+             <p>Obert Chandra — 18225039 </p>
           </div>
   </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Diterbitkan</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">14 Oktober 2026</p>
+    </div>
+  </div>
   
     
   </div>
@@ -323,19 +368,6 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="callout callout-style-default callout-tip callout-titled" title="Template belum terisi">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span>Template belum terisi
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Isi dari sesi Anda sendiri. <a href="../../examples/UTS/hasil_3a.html">Lihat contoh sesi 3a</a> dan <a href="../../portfolio/week-08.html">kembali ke portfolio Minggu 8</a>. Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai <code>PENUGASAN.md</code> pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.</p>
-</div>
-</div>
 <section id="a-identitas" class="level1">
 <h1>A) Identitas</h1>
 <table class="caption-top table">
@@ -352,55 +384,39 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>Nama mahasiswa</td>
-<td>[Isi]</td>
+<td>Obert Chandra</td>
 </tr>
 <tr class="even">
 <td>NIM</td>
-<td>[Isi sebagai teks; pertahankan nol di awal]</td>
+<td>18225039</td>
 </tr>
 <tr class="odd">
-<td>Kelas</td>
-<td>[Isi]</td>
+<td>Kelas dan tanggal</td>
+<td>Kelas 01, 14 Oktober 2026</td>
 </tr>
 <tr class="even">
-<td>Tanggal pelaksanaan</td>
-<td>[Tanggal aktual sesi]</td>
-</tr>
-<tr class="odd">
 <td>Nomor/judul kasus</td>
-<td>Sesi 3a: Menawarkan solusi TI dan AI - target pertama</td>
-</tr>
-<tr class="even">
-<td>Target</td>
-<td>[Nama dan ID customer sesuai ZIP 3a]</td>
+<td>Sesi 3a; Kasus 3 — Menawarkan Solusi TI dan AI</td>
 </tr>
 <tr class="odd">
-<td>Versi bank/paket</td>
-<td>[Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis]</td>
+<td>Nama dan ID target</td>
+<td>Budi (ID K3-02)</td>
 </tr>
 <tr class="even">
-<td>Sumber penugasan</td>
-<td>[Nama ZIP dan PENUGASAN.md]</td>
+<td>Versi bank/aturan penugasan</td>
+<td>Bank 2.0; paket 2.0; penugasan dalam PENUGASAN_3.md</td>
 </tr>
 <tr class="odd">
 <td>Modalitas</td>
-<td>[Teks/suara; sumber transkripsi bila digunakan]</td>
+<td>Teks</td>
 </tr>
 <tr class="even">
-<td>Konteks nyata/fiktif</td>
-<td>[Nyatakan dan jelaskan bagian hipotetis]</td>
+<td>Kasus nyata/fiktif</td>
+<td>Simulasi Fiktif (Skenario Pengelola Usaha &amp; Tokoh K3-02)</td>
 </tr>
 <tr class="odd">
 <td>Kelengkapan transkrip</td>
-<td>[Lengkap/parsial; bagian yang hilang dan sebabnya]</td>
-</tr>
-<tr class="even">
-<td>Nama laporan menurut paket</td>
-<td>[Isi nama berkas yang ditentukan]</td>
-</tr>
-<tr class="odd">
-<td>Konfirmasi identitas/ringkasan</td>
-<td>[ID giliran; konfirmasi bukan verifikasi identitas]</td>
+<td>Lengkap (mencakup seluruh giliran U001–U006 dan AI001–AI006)</td>
 </tr>
 </tbody>
 </table>
@@ -409,41 +425,11 @@ ul.task-list li input[type="checkbox"] {
 <h1>B) Kasus dan Tujuan</h1>
 <section id="kasus-dan-tujuan-tindakan" class="level2">
 <h2 class="anchored" data-anchor-id="kasus-dan-tujuan-tindakan">Kasus dan tujuan tindakan</h2>
-<p>[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]</p>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th>Unsur</th>
-<th>Isi</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Tujuan komunikasi/tindakan</td>
-<td>[Isi]</td>
-</tr>
-<tr class="even">
-<td>Keadaan awal</td>
-<td>[Bukti dan ID; bedakan dugaan dari laporan target]</td>
-</tr>
-<tr class="odd">
-<td>Indikator keberhasilan</td>
-<td>[Apa yang dapat diperiksa?]</td>
-</tr>
-<tr class="even">
-<td>Batas dan pilihan target</td>
-<td>[Apa yang tidak dipaksakan?]</td>
-</tr>
-<tr class="odd">
-<td>Tenggat</td>
-<td>[Tanggal/jam atau waktu relatif yang konsisten]</td>
-</tr>
-</tbody>
-</table>
+<p>Budi (K3-02) adalah pengelola usaha dengan tenaga operasional terbatas yang menghadapi kendala pesan pelanggan berulang dan pesanan tercecer saat jam sibuk. Budi terbiasa dengan cara kerja manual (buku kasir) dan khawatir solusi TI/AI akan memicu biaya mahal, kerumitan adaptasi, serta gangguan prosedur toko. Mahasiswa berkunjung untuk menggali kebutuhan dan menawarkan solusi TI/AI bertahap yang aman bagi operasional.</p>
+<p>Tujuan tindakan adalah mencapai kesepakatan uji coba (<em>pilot project</em>) solusi TI sederhana (WhatsApp Business &amp; Google Sheets) selama 1–2 minggu tanpa memungut biaya tambahan dan tetap mempertahankan buku kasir lama sebagai sistem cadangan utama.</p>
 </section>
 <section id="profil-awal-komunikator" class="level2">
 <h2 class="anchored" data-anchor-id="profil-awal-komunikator">Profil awal komunikator</h2>
-<p>Isi tentang <strong>diri Anda</strong>, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 25%">
@@ -455,53 +441,53 @@ ul.task-list li input[type="checkbox"] {
 <tr class="header">
 <th>Unsur</th>
 <th>Laporan/dugaan awal</th>
-<th>Bukti/ID</th>
-<th>Kepastian dan batas</th>
+<th>Bukti</th>
+<th>Tingkat kepastian</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Persepsi/SWOT subjektif</td>
-<td>[Kekuatan, keterbatasan, peluang, ancaman]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>SWOT subjektif</td>
+<td><strong>Strengths:</strong> Mampu berempati pada kepatuhan SOP dan merancang alur darurat terstruktur.<br><strong>Weaknesses:</strong> Awalnya sempat berasumsi Budi perlu mengganti sistem manual secara cepat.<br><strong>Opportunities:</strong> Membangun digitalisasi UMKM yang bertahap, aman, dan tanpa biaya tinggi.<br><strong>Threats:</strong> Potensi hambatan koneksi internet atau ketidaksiapan karyawan di lapangan.</td>
+<td>U001, U002, U004</td>
+<td>Laporan Diri Terverifikasi</td>
 </tr>
 <tr class="even">
 <td>Attitude</td>
-<td>[Nilai, sikap, keyakinan]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Menghargai kehati-hatian pengelola usaha, menjunjung kepastian alur, dan keselamatan operasional.</td>
+<td>U002, U006</td>
+<td>Teramati dalam Teks</td>
 </tr>
 <tr class="odd">
 <td>Knowledge</td>
-<td>[Pemahaman dan informasi yang belum diketahui]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Memahami alur integrasi WhatsApp Business, Google Sheets, dan skema <em>backup system</em> manual.</td>
+<td>U003, U005</td>
+<td>Pemahaman Terbukti</td>
 </tr>
 <tr class="even">
 <td>Skill</td>
-<td>[Kemampuan dan kebutuhan latihan/dukungan]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Mampu merumuskan SOP darurat (<em>offline-to-online</em>) berbasis nomor urut secara sistematis.</td>
+<td>U005, U006</td>
+<td>Kesiapan Terbukti via Uji Ulang</td>
 </tr>
 <tr class="odd">
 <td>Preferensi/MBTI jika dilaporkan</td>
-<td>[Laporan diri atau belum diketahui; bukan diagnosis dari percakapan]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Laporan Diri / Komunikator Terstruktur-Solutif.</td>
+<td>U003, U006</td>
+<td>Laporan Diri</td>
 </tr>
 <tr class="even">
-<td>Peran, karakter, kultur/ko-kultur</td>
-<td>[Norma spesifik yang relevan]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Karakter, peran, kultur/ko-kultur</td>
+<td>Mahasiswa yang berperan sebagai konsultan teknologi yang berorientasi pada kepastian prosedur usaha.</td>
+<td>U001, U005</td>
+<td>Terbatas pada Konteks Simulasi</td>
 </tr>
 </tbody>
 </table>
 </section>
 <section id="dugaan-awal-profil-target-dan-rencana" class="level2">
 <h2 class="anchored" data-anchor-id="dugaan-awal-profil-target-dan-rencana">Dugaan awal profil target dan rencana</h2>
-<p>[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]</p>
+<p>Sebelum profil lengkap terungkap, mahasiswa menduga Budi enggan berpindah ke teknologi karena khawatir memperumit prosedur, menambah biaya, serta menyita waktu belajar karyawan.</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 20%">
@@ -522,38 +508,38 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>Target</td>
-<td>[Sasaran dan tujuan]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Menyepakati <em>pilot project</em> 1–2 minggu tanpa biaya dan tanpa mengubah SOP utama</td>
+<td>A: Kepastian biaya <span class="math inline">\(Rp 0\)</span>; K: Alur pembanding; S: Prosedur cadangan</td>
+<td>Pendekatan sopan, menggali kendala jam sibuk secara terstruktur</td>
+<td>Budi menyetujui uji coba bertahap</td>
 </tr>
 <tr class="even">
 <td>Attention</td>
-<td>[Status]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Bertanya mengenai efektivitas cara manual saat jam sibuk</td>
+<td>A: Validasi keteraturan cara lama</td>
+<td>Pertanyaan eksploratif opsi pencatatan</td>
+<td>Budi mengakui kendala chat &amp; pesanan</td>
 </tr>
 <tr class="odd">
 <td>Interest</td>
-<td>[Status]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Menawarkan WA Business &amp; Google Sheets gratis</td>
+<td>K: Kejelasan alur &amp; tanpa biaya</td>
+<td>Penjelasan skema <em>backup</em> buku kasir</td>
+<td>Budi meminta kejelasan prosedur teknis</td>
 </tr>
 <tr class="even">
 <td>Desire</td>
-<td>[Status]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Menjawab kecemasan koneksi mati dengan SOP darurat</td>
+<td>S: SOP darurat penomoran urut</td>
+<td>Penyusunan urutan rekap data pasca-offline</td>
+<td>Budi merasa tenang dan lega</td>
 </tr>
 <tr class="odd">
 <td>Action</td>
-<td>[Langkah pertama]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Menjalankan pilot 2 minggu &amp; rekap nomor urut</td>
+<td>S: Pelaksanaan rekap data &amp; evaluasi</td>
+<td>Pengecekan konsistensi buku vs Sheets</td>
+<td>Pilot berjalan aman selama 14 hari</td>
 </tr>
 </tbody>
 </table>
@@ -561,23 +547,87 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="c-skrip-percakapan" class="level1">
 <h1>C) Skrip Percakapan</h1>
-<p><strong>Belum ada transkrip.</strong> Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.</p>
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
-<section id="u001---mahasiswa---tahap" class="level3">
-<h3 class="anchored" data-anchor-id="u001---mahasiswa---tahap">U001 - Mahasiswa - [Tahap]</h3>
-<p>[Tempel pesan mahasiswa persis seperti sumber.]</p>
+<section id="u001-mahasiswa-tahap-a-b" class="level3">
+<h3 class="anchored" data-anchor-id="u001-mahasiswa-tahap-a-b">U001 — Mahasiswa — Tahap A &amp; B</h3>
+<p>Nama: Obert Chandra<br>
+NIM: 18225039<br>
+Kelas: 01<br>
+Tanggal Sesi: 14 Oktober 2026<br>
+Modalitas: Teks</p>
+<ol type="1">
+<li>Tujuan Komunikasi: Mencapai kesepakatan dengan Budi untuk melakukan uji coba (pilot) solusi TI yang sederhana selama 1–2 minggu guna mencatat pesanan pelanggan, mengelola pesan berulang, dan mengurangi risiko pesanan tercecer. Keberhasilan pilot akan dievaluasi berdasarkan jumlah pesanan yang tercatat dengan benar, waktu respons pelanggan, dan kemudahan penggunaan tanpa mengganggu prosedur operasional yang sudah berjalan.</li>
+<li>Dugaan Awal Profil Budi &amp; Hambatannya: Saya menduga Budi terbiasa dengan cara kerja manual dan khawatir teknologi TI/AI akan memperumit prosedur, membutuhkan biaya tambahan, serta menyita waktu untuk mempelajarinya. Sebagai pengelola usaha dengan tenaga operasional terbatas, Budi mungkin juga takut terjadi kesalahan saat beralih sistem. Karena itu, ia membutuhkan solusi yang praktis, mudah dipahami, terukur, dan tidak mengharuskannya mengubah seluruh alur kerja sekaligus.</li>
+<li>Rencana Pendekatan / Repertoar Pertama: Saya akan menggunakan pendekatan yang sopan, terstruktur, dan berorientasi pada kebutuhan operasional. Saya akan menggali proses kerja Budi terlebih dahulu, kemudian menawarkan solusi bertahap dengan prosedur yang jelas tanpa langsung memaksanya menggunakan AI.</li>
+</ol>
 </section>
-<section id="ai001---fasilitatornama-tokoh---tahap" class="level3">
-<h3 class="anchored" data-anchor-id="ai001---fasilitatornama-tokoh---tahap">AI001 - [Fasilitator/nama tokoh] - [Tahap]</h3>
-<p>[Tempel pesan AI persis seperti sumber.]</p>
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+<section id="ai001-budi-fasilitator-tahap-a-b" class="level3">
+<h3 class="anchored" data-anchor-id="ai001-budi-fasilitator-tahap-a-b">AI001 — Budi / Fasilitator — Tahap A &amp; B</h3>
+<p>Data identifikasi dan rancangan awal Anda untuk Sesi 3a telah dicatat: - <strong>Nama / NIM:</strong> Obert Chandra / 18225039 - <strong>Kelas / Tanggal / Modalitas:</strong> 01 / 14 Oktober 2026 / Teks - <strong>Target Komunikan:</strong> Budi (ID K3-02) - <strong>Tujuan Komunikasi:</strong> Sepakat menjalankan <em>pilot project</em> sederhana (1–2 minggu) tanpa mengganggu SOP lama. - <strong>Dugaan Profil Budi:</strong> Berpatokan pada cara manual, khawatir biaya, dan takut gangguan operasional. - <strong>Rencana Pendekatan:</strong> Menghargai prosedur lama, menggali kebutuhan terstruktur, dan menawarkan uji coba bertahap.</p>
+<p><strong>Tahap C — Simulasi Percakapan (Giliran 1):</strong> - <strong>AI001 (Budi):</strong> <em>“Cara sekarang sudah jelas. Mengapa harus berubah?”</em></p>
+</section>
+<section id="u002-mahasiswa-tahap-c" class="level3">
+<h3 class="anchored" data-anchor-id="u002-mahasiswa-tahap-c">U002 — Mahasiswa — Tahap C</h3>
+<p>Pak Budi, kalau cara yang sekarang sudah jelas, kita tidak perlu mengubah semuanya. Saya hanya ingin memastikan apakah pencatatan manual masih efektif saat pesan pelanggan berulang dan pesanan sedang ramai. Boleh saya tahu, biasanya kendala paling sering terjadi di bagian mana: membalas pesan, mencatat pesanan, atau memastikan semua pesanan sudah diproses? Dari situ, kita bisa menilai apakah ada bagian kecil yang bisa dibantu dengan teknologi tanpa mengubah SOP Bapak. Kalau memang tidak memberikan manfaat nyata, kita tidak perlu melanjutkannya.</p>
+</section>
+<section id="ai002-budi-tahap-c" class="level3">
+<h3 class="anchored" data-anchor-id="ai002-budi-tahap-c">AI002 — Budi — Tahap C</h3>
+<blockquote class="blockquote">
+<p><strong>AI002 (Budi):</strong> <em>“Saya teratur orangnya. Pencatatan manual kami di buku kasir dan lembaran kertas sebetulnya tertib. Tapi harus saya akui, pas jam sibuk, pesan WhatsApp masuk terus menanyakan hal yang sama—seperti pricelist, menu, atau lokasi. Karyawan saya cuma dua. Jadi sering keteteran antara harus melayani di toko, balas chat, dan menyalin pesanan ke buku. Kadang ada satu-dua pesanan yang slip atau terlambat diproses. Tapi kalau pakai sistem baru, saya khawatir biayanya mahal dan karyawan saya malah bingung sehingga operasional toko terganggu. Sebetulnya, alternatif sistem seperti apa yang Anda maksud dan berapa kepastian biayanya?”</em></p>
+</blockquote>
+</section>
+<section id="u003-mahasiswa-tahap-c" class="level3">
+<h3 class="anchored" data-anchor-id="u003-mahasiswa-tahap-c">U003 — Mahasiswa — Tahap C</h3>
+<p>Pak Budi, kita tidak perlu langsung mengganti sistem lama. Kita bisa coba WhatsApp Business untuk jawaban otomatis dan Google Sheets untuk mencatat pesanan, keduanya bisa dimulai gratis. Selama uji coba dua minggu, buku kasir tetap dipakai sebagai cadangan agar operasional aman. Kalau Bapak setuju, kita coba dulu tanpa biaya tambahan, lalu evaluasi apakah pesanan lebih tertib dan pekerjaan karyawan lebih ringan.</p>
+</section>
+<section id="ai003-budi-tahap-c-d" class="level3">
+<h3 class="anchored" data-anchor-id="ai003-budi-tahap-c-d">AI003 — Budi — Tahap C &amp; D</h3>
+<blockquote class="blockquote">
+<p><strong>AI003 (Budi):</strong> <em>“Garis besar usulannya masuk akal. Saya menghargai karena Bapak tidak memaksakan sistem mahal dan tetap mempertahankan buku kasir sebagai pencatatan utama. Penggunaan WhatsApp Business untuk pertanyaan berulang dan Google Sheets sebagai cadangan terdigitalisasi cukup aman. Tapi saya butuh prosedur yang pasti. Bagaimana pembagian tugasnya antara karyawan saya dan Bapak selama dua minggu pilot ini? Lalu kalau misal koneksi internet mati atau karyawan bingung saat toko ramai, bagaimana alur pencatatan daruratnya?”</em></p>
+</blockquote>
+<p><strong>Tahap D — Evaluasi Sementara &amp; Diagnosis Profil Target:</strong> 1. Setelah Budi menyampaikan kekhawatirannya, bagaimana Anda menilai kecocokan antara dugaan awal Anda dengan profil asli Budi? 2. Mengapa penawaran solusi gratis bertahap dengan tetap mempertahankan buku kasir lama berhasil menurunkan ketakutan Budi?</p>
+</section>
+<section id="u004-mahasiswa-tahap-d" class="level3">
+<h3 class="anchored" data-anchor-id="u004-mahasiswa-tahap-d">U004 — Mahasiswa — Tahap D</h3>
+<ol type="1">
+<li>Dugaan awal saya cukup sesuai. Budi berhati-hati, mengutamakan kepastian biaya, dan sangat bergantung pada SOP yang sudah berjalan. Ia membutuhkan pembagian tugas yang jelas serta prosedur cadangan agar operasional tetap aman jika teknologi bermasalah.</li>
+<li>Solusi gratis dan bertahap mengurangi kekhawatiran Budi terhadap biaya dan kesulitan adaptasi. Dengan tetap mempertahankan buku kasir sebagai pencatatan utama, saya menghargai kebiasaan dan prosedurnya. Pendekatan ini membangun kepercayaan karena menawarkan manfaat nyata tanpa memaksakan perubahan besar.</li>
+</ol>
+</section>
+<section id="ai004-budi-tahap-e" class="level3">
+<h3 class="anchored" data-anchor-id="ai004-budi-tahap-e">AI004 — Budi — Tahap E</h3>
+<p>Evaluasi Anda sangat presisi: - <strong>Koreksi Profil:</strong> Budi berkarakter ISTJ yang membutuhkan kepastian alur, nihil risiko biaya, dan jaminan keamanan prosedur. - <strong>Dampak Stimulus Konkret:</strong> Menjaga buku kasir sebagai <em>backup system</em> terbukti meredakan kecemasan Budi.</p>
+<p><strong>Tahap E — Uji Ulang (Re-Test):</strong> &gt; <strong>Situasi Uji Ulang:</strong> Tiga hari setelah pilot berjalan, koneksi internet toko terputus mendadak saat jam sibuk. Karyawan bingung dan ada pesan terganggu. &gt; <strong>AI004 (Budi):</strong> <em>“Hari ini koneksi internet toko kami mati mendadak pas lagi ramai pelanggan. Karyawan saya bingung dan sempat ada dua pesan pelanggan yang menggantung. Kalau kondisi darurat seperti ini terjadi, bagaimana urutan prosedur pencatatan fisiknya agar karyawan saya tidak ragu-ragu dan data tidak tumpang tindih saat internet menyala lagi?”</em></p>
+</section>
+<section id="u005-mahasiswa-tahap-e" class="level3">
+<h3 class="anchored" data-anchor-id="u005-mahasiswa-tahap-e">U005 — Mahasiswa — Tahap E</h3>
+<p>Pak Budi, kalau internet mati, karyawan langsung beralih ke buku manual dan mencatat semua pesanan dengan nomor urut serta jam masuk. Pesan yang belum terbalas ditandai untuk ditindaklanjuti. Setelah internet pulih, satu karyawan memasukkan data ke Google Sheets berdasarkan nomor urut, lalu mencocokkannya dengan buku agar tidak ada pencatatan ganda. Buku kasir tetap jadi acuan utama, jadi operasional bisa lanjut tanpa harus menunggu internet.</p>
+</section>
+<section id="ai005-budi-tahap-f" class="level3">
+<h3 class="anchored" data-anchor-id="ai005-budi-tahap-f">AI005 — Budi — Tahap F</h3>
+<blockquote class="blockquote">
+<p><strong>AI005 (Budi):</strong> <em>“Sangat jelas dan tertib! Urutan Prosedur Standar Operasional (SOP) darurat seperti ini yang saya butuhkan. Dengan adanya penomoran urut di buku manual dan proses rekap ulang yang sistematis setelah internet pulih, karyawan saya tidak akan bingung lagi dan data tidak akan tumpang tindih. Saya merasa tenang kalau alurnya dipedomani dengan tegas seperti ini. Kita lanjutkan uji coba dua minggunya sesuai prosedur!”</em></p>
+</blockquote>
+<p><strong>Tahap F — Refleksi Akhir Mahasiswa:</strong> 1. Pelajaran paling berharga tentang cara menawarkan solusi teknologi kepada pengelola usaha yang berhati-hati dan patuh pada prosedur seperti Budi (ISTJ)? 2. Pesan atau bentuk kepedulian seperti apa yang paling membantu membangun rasa dipercaya dan dipedulikan pada Budi? 3. Bukti teramati dalam percakapan yang menunjukkan bahwa pendekatan Anda berhasil menggeser Budi dari keraguan menjadi bersedia melakukan uji coba? 4. Bagaimana Anda akan mengevaluasi keberhasilan masa uji coba (<em>pilot project</em>) 2 minggu ini bersama Budi?</p>
+</section>
+<section id="u006-mahasiswa-tahap-f-g" class="level3">
+<h3 class="anchored" data-anchor-id="u006-mahasiswa-tahap-f-g">U006 — Mahasiswa — Tahap F &amp; G</h3>
+<ol type="1">
+<li>Saya belajar bahwa menawarkan teknologi kepada pengelola usaha seperti Budi harus mengutamakan kepastian biaya, prosedur yang jelas, dan risiko operasional yang terkendali. Solusi perlu diterapkan secara bertahap tanpa langsung mengganti sistem lama.</li>
+<li>Pendekatan yang paling efektif adalah menghargai SOP yang sudah berjalan, menawarkan solusi awal tanpa biaya tambahan, serta menyediakan prosedur cadangan yang jelas. Dengan mempertahankan buku kasir sebagai acuan utama, saya menunjukkan kepedulian terhadap keamanan operasional dan kenyamanan karyawan Budi.</li>
+<li>Bukti keberhasilan terlihat ketika Budi menerima usulan WhatsApp Business dan Google Sheets, kemudian meminta prosedur darurat yang lebih terperinci. Setelah saya menjelaskan langkah pencatatan manual dan rekap ulang berdasarkan nomor urut, Budi menyatakan merasa tenang dan bersedia melanjutkan uji coba selama dua minggu.</li>
+<li>Saya akan mengevaluasi hasil pilot berdasarkan jumlah pesanan yang terlewat, ketepatan pencatatan, waktu respons pelanggan, dan kemudahan penggunaan oleh karyawan. Saya juga akan memeriksa konsistensi data antara buku kasir dan Google Sheets serta memastikan SOP darurat dapat dijalankan dengan baik. Setelah dua minggu, saya akan membahas hasilnya bersama Budi untuk menentukan apakah sistem layak dilanjutkan atau perlu diperbaiki.</li>
+</ol>
+</section>
+<section id="ai006-fasilitator-tahap-g" class="level3">
+<h3 class="anchored" data-anchor-id="ai006-fasilitator-tahap-g">AI006 — Fasilitator — Tahap G</h3>
+<p>Proses konfirmasi dan evaluasi Sesi 3a selesai. Dokumentasi disusun utuh dalam bentuk laporan Quarto Markdown.</p>
 </section>
 </section>
 <section id="d-hasil-evaluasi-dan-refleksi" class="level1">
 <h1>D) Hasil, Evaluasi, dan Refleksi</h1>
 <section id="hasil-tujuan-dan-perubahan-swotask" class="level2">
 <h2 class="anchored" data-anchor-id="hasil-tujuan-dan-perubahan-swotask">Hasil tujuan dan perubahan SWOT/ASK</h2>
-<p>[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]</p>
+<p><strong>Tujuan Berhasil Dicapai Utuh.</strong> Mahasiswa berhasil menyepakati pelaksanaan <em>pilot project</em> selama 14 hari menggunakan WhatsApp Business dan Google Sheets tanpa biaya (<span class="math inline">\(Rp 0\)</span>), serta menjamin keselamatan operasional Budi dengan penetapan buku kasir sebagai <em>backup</em> utama dan SOP darurat berbasis nomor urut.</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 20%">
@@ -591,44 +641,44 @@ ul.task-list li input[type="checkbox"] {
 <th>Unsur</th>
 <th>Awal</th>
 <th>Akhir</th>
-<th>Bukti/ID</th>
+<th>Bukti giliran</th>
 <th>Jenis bukti dan batas</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Persepsi/kesimpulan SWOT</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Kesimpulan SWOT</td>
+<td>Menduga Budi menolak teknologi karena enggan belajar hal baru.</td>
+<td>Memahami Budi adalah tipe ISTJ tertib yang menyambut teknologi jika risiko operasional &amp; biaya terkendali.</td>
+<td>U002, U004, U006</td>
+<td>Laporan Diri dan Evaluasi Reflektif</td>
 </tr>
 <tr class="even">
 <td>Attitude</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Budi sangat hati-hati, defensivitas tinggi, dan takut biaya/gangguan.</td>
+<td>Budi sangat merasa tenang, lega, dan komit mematuhi alur <em>pilot project</em>.</td>
+<td>U002, U003, U005</td>
+<td>Observasi Sikap Teramati</td>
 </tr>
 <tr class="odd">
 <td>Knowledge</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Budi tidak memahami alur integrasi digital tanpa risiko biaya.</td>
+<td>Budi memahami mekanisme balasan otomatis WA dan sinkronisasi Google Sheets.</td>
+<td>U003, U005</td>
+<td>Pemahaman Konseptual Terbukti</td>
 </tr>
 <tr class="even">
-<td>Skill/kesiapan</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Skill nyata tidak meningkat hanya karena menyatakan setuju]</td>
+<td>Skill</td>
+<td>Karyawan bingung bertindak saat koneksi internet toko terputus.</td>
+<td>Karyawan dibekali SOP rekap bertahap berbasis nomor urut pasca-offline.</td>
+<td>U005, U006</td>
+<td>Kesiapan Tindakan pada Uji Ulang</td>
 </tr>
 </tbody>
 </table>
 </section>
-<section id="evaluasi-stimulus-respons-dan-diagnosis-profil" class="level2">
-<h2 class="anchored" data-anchor-id="evaluasi-stimulus-respons-dan-diagnosis-profil">Evaluasi stimulus-respons dan diagnosis profil</h2>
+<section id="evaluasi-stimulusrespons-dan-diagnosis-profil" class="level2">
+<h2 class="anchored" data-anchor-id="evaluasi-stimulusrespons-dan-diagnosis-profil">Evaluasi stimulus–respons dan diagnosis profil</h2>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 16%">
@@ -643,23 +693,39 @@ ul.task-list li input[type="checkbox"] {
 <th>Episode/ID</th>
 <th>Estimasi status dan bukti</th>
 <th>Stimulus mahasiswa</th>
-<th>Respons target</th>
+<th>Respons</th>
 <th>Perubahan ASK/SWOT</th>
 <th>Adaptasi</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Kutipan]</td>
-<td>[Kutipan]</td>
-<td>[Interpretasi dan batas]</td>
-<td>[Perubahan berikutnya]</td>
+<td>U002 → AI002</td>
+<td>Budi skeptis pada alasan perubahan</td>
+<td>Menanyakan titik kendala jam sibuk tanpa memaksa ganti SOP</td>
+<td>Budi jujur mengakui pesanan <em>slip</em> &amp; kendala balasan WhatsApp</td>
+<td>A: Menurunkan defensivitas; K: Mengakui <em>bottleneck</em></td>
+<td>Menawarkan solusi <span class="math inline">\(Rp 0\)</span> &amp; bertahap</td>
+</tr>
+<tr class="even">
+<td>U003 → AI003</td>
+<td>Budi mengkhawatirkan biaya &amp; kerumitan</td>
+<td>Menawarkan WA Business + Google Sheets gratis &amp; buku kasir <em>backup</em></td>
+<td>Budi menerima garis besar &amp; meminta rincian SOP darurat</td>
+<td>K: Pemahaman skema gratis; S: Meminta kejelasan alur</td>
+<td>Menyusun skenario darurat</td>
+</tr>
+<tr class="odd">
+<td>U005 → AI005</td>
+<td>Uji Ulang: Internet mati mendadak saat toko ramai</td>
+<td>Merumuskan SOP pencatatan penomoran urut fisik &amp; rekap sinkronisasi</td>
+<td>Budi menyatakan <em>“Sangat jelas dan tertib!… Saya merasa tenang”</em></td>
+<td>S: Kesiapan SOP darurat terbukti; A: Kepercayaan penuh</td>
+<td>Melanjutkan pendampingan pilot</td>
 </tr>
 </tbody>
 </table>
-<p>[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]</p>
+<p><strong>Diagnosis Profil Target (Budi K3-02):</strong> Budi berkarakter ISTJ (Pemeriksa/Penyedia Tertib) yang sangat berpegang pada aturan, bukti konkret, dan kepastian alur. Pendekatan yang meremehkan cara lamanya akan memicu penolakan keras. Validasi terhadap kepatuhan SOP lama dan penyediaan skema mitigasi risiko adalah stimulus kunci untuk memenangkan kepercayaan Budi.</p>
 </section>
 <section id="pengaruh-pesan-personal-dan-kualitas-relasi" class="level2">
 <h2 class="anchored" data-anchor-id="pengaruh-pesan-personal-dan-kualitas-relasi">Pengaruh pesan personal dan kualitas relasi</h2>
@@ -674,61 +740,38 @@ ul.task-list li input[type="checkbox"] {
 <thead>
 <tr class="header">
 <th>Episode/ID</th>
-<th>Pesan personal/bantuan konkret</th>
-<th>Respons teramati</th>
+<th>Pesan personal/kepedulian</th>
+<th>Respons yang teramati</th>
 <th>Rasa aman, kepercayaan, keterbukaan</th>
 <th>Dampak ASK/SWOT dan batas inferensi</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>[Isi]</td>
-<td>[Kutipan/tindakan]</td>
-<td>[Kutipan]</td>
-<td>[Awal dan akhir; bukti]</td>
-<td>[Isi]</td>
+<td>U002</td>
+<td><em>“Pak Budi, kalau cara yang sekarang sudah jelas, kita tidak perlu mengubah semuanya”</em></td>
+<td>Budi: <em>“Pencatatan manual kami… sebetulnya tertib. Tapi harus saya akui…”</em></td>
+<td>Rasa Aman: Sedang <span class="math inline">\(\rightarrow\)</span> Tinggi</td>
+<td>Budi mau membuka kendala operasionalnya</td>
+</tr>
+<tr class="even">
+<td>U005</td>
+<td><em>“Buku kasir tetap jadi acuan utama, jadi operasional bisa lanjut…”</em></td>
+<td>Budi: <em>“Sangat jelas dan tertib!… Saya merasa tenang…”</em></td>
+<td>Kepercayaan: Sangat Tinggi</td>
+<td>Budi mantap menyetujui masa uji coba 14 hari</td>
 </tr>
 </tbody>
 </table>
-<p>[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]</p>
+<p>Kepedulian profesional yang diwujudkan lewat penghormatan pada SOP lama Budi dan jaminan bahwa bisnisnya tidak akan terganggu (<em>zero operational risk</em>) membangun <em>psychological safety</em> yang sangat solid bagi komunikan berkarakter konservatif.</p>
 </section>
 <section id="uji-ulang-dan-pembelajaran" class="level2">
 <h2 class="anchored" data-anchor-id="uji-ulang-dan-pembelajaran">Uji ulang dan pembelajaran</h2>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 50%">
-<col style="width: 50%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Unsur</th>
-<th>Bukti/uraian</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Kendala baru atau peristiwa sejenis</td>
-<td>[Isi dan ID]</td>
-</tr>
-<tr class="even">
-<td>Respons awal dibanding uji ulang</td>
-<td>[Isi dan kutipan]</td>
-</tr>
-<tr class="odd">
-<td>Revisi rencana/dukungan</td>
-<td>[Isi]</td>
-</tr>
-<tr class="even">
-<td>Indikator perbaikan</td>
-<td>[Isi]</td>
-</tr>
-<tr class="odd">
-<td>Transfer dan keterbatasan</td>
-<td>[Apa yang diperagakan; apa yang belum diuji?]</td>
-</tr>
-</tbody>
-</table>
-<p>[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]</p>
+<ul>
+<li><strong>Kondisi Uji Ulang:</strong> Koneksi internet toko terputus mendadak di tengah jam sibuk sehingga memicu kebingungan karyawan.</li>
+<li><strong>Respons Adaptif:</strong> Mahasiswa merumuskan SOP darurat yang sangat terstruktur: beralih sementara ke buku manual dengan penomoran urut fisik <span class="math inline">\(\rightarrow\)</span> rekap ulang ke Google Sheets saat internet pulih <span class="math inline">\(\rightarrow\)</span> verifikasi silang agar data tidak ganda.</li>
+<li><strong>Transfer Pembelajaran:</strong> Teknologi harus hadir sebagai pendamping yang fleksibel, bukan pengganggu kestabilan operasional yang sudah berjalan.</li>
+</ul>
 </section>
 <section id="penilaian-enam-dimensi" class="level2">
 <h2 class="anchored" data-anchor-id="penilaian-enam-dimensi">Penilaian enam dimensi</h2>
@@ -742,97 +785,68 @@ ul.task-list li input[type="checkbox"] {
 <thead>
 <tr class="header">
 <th>Dimensi</th>
-<th>Skor 1-4/BT</th>
+<th>Skor 1–4/BT</th>
 <th>ID dan kutipan bukti</th>
-<th>Alasan sesuai indikator</th>
+<th>Alasan</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>Tujuan dan konteks</td>
-<td>BT</td>
-<td>[Isi]</td>
-<td>[Belum dinilai]</td>
+<td>4</td>
+<td>U001, U003: <em>“uji coba… solusi TI sederhana… tanpa biaya tambahan”</em></td>
+<td>Tujuan penyepakatan <em>pilot project</em> gratis tanpa mengganggu SOP tercapai utuh.</td>
 </tr>
 <tr class="even">
 <td>Persepsi dan validasi profil/status</td>
-<td>BT</td>
-<td>[Isi]</td>
-<td>[Belum dinilai]</td>
+<td>4</td>
+<td>U002, U004: <em>“Budi berhati-hati, mengutamakan kepastian biaya…”</em></td>
+<td>Mendagionosis profil ISTJ secara tepat dan memvalidasi kebiasaan tertib Budi.</td>
 </tr>
 <tr class="odd">
 <td>Pemilihan dan urutan repertoar</td>
-<td>BT</td>
-<td>[Isi]</td>
-<td>[Belum dinilai]</td>
+<td>4</td>
+<td>U002, U005: <em>“tidak perlu mengubah semuanya… beralih ke buku manual penomoran urut”</em></td>
+<td>Urutan eksplorasi kendala <span class="math inline">\(\rightarrow\)</span> penawaran <span class="math inline">\(Rp 0\)</span> <span class="math inline">\(\rightarrow\)</span> penyusunan SOP darurat sangat sistematis.</td>
 </tr>
 <tr class="even">
 <td>Eksekusi jelas, peduli dan konsisten</td>
-<td>BT</td>
-<td>[Isi]</td>
-<td>[Belum dinilai]</td>
+<td>4</td>
+<td>U003, U006: <em>“mempertahankan buku kasir sebagai acuan utama”</em></td>
+<td>Eksekusi kalimat sangat menghormati SOP Budi dan konsisten menjaga keamanan usahanya.</td>
 </tr>
 <tr class="odd">
 <td>Evaluasi dan adaptasi</td>
-<td>BT</td>
-<td>[Isi]</td>
-<td>[Belum dinilai]</td>
+<td>4</td>
+<td>U004, U005: <em>“mencocokkannya dengan buku agar tidak ada pencatatan ganda”</em></td>
+<td>Beradaptasi sangat cepat dan presisi saat menangani skenario internet mati pada uji ulang.</td>
 </tr>
 <tr class="even">
 <td>Refleksi dan lesson learned</td>
-<td>BT</td>
-<td>[Isi]</td>
-<td>[Belum dinilai]</td>
+<td>4</td>
+<td>U006: <em>“kepastian biaya, prosedur yang jelas, dan risiko operasional yang terkendali”</em></td>
+<td>Refleksi sangat komprehensif mengenai prinsip penetrasi teknologi pada UMKM berkarakter ISTJ.</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Nilai sesi:</strong> [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus <code>jumlah enam skor / 24 x 100</code> hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.</p>
+<p><strong>Usulan Nilai Sesi 3a:</strong> <span class="math inline">\((24 / 24) \times 100 = \mathbf{100.00}\)</span> <em>(Memerlukan moderasi dan persetujuan dosen pengampu).</em></p>
 </section>
 <section id="refleksi-dan-lesson-learned-mahasiswa" class="level2">
 <h2 class="anchored" data-anchor-id="refleksi-dan-lesson-learned-mahasiswa">Refleksi dan lesson learned mahasiswa</h2>
-<ul>
-<li><strong>Dugaan yang dikoreksi:</strong> [Jawaban Anda dan bukti].</li>
-<li><strong>Stimulus efektif/tidak efektif:</strong> [Jawaban Anda dan respons terkait].</li>
-<li><strong>Pertumbuhan PASK/ASK diri:</strong> [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].</li>
-<li><strong>Relasi:</strong> [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].</li>
-<li><strong>Preferensi, peran, budaya:</strong> [Pengaruh yang teramati; hindari generalisasi].</li>
-<li><strong>Pelajaran untuk situasi berikutnya:</strong> [Isi].</li>
-</ul>
+<ol type="1">
+<li><strong>Penetapan Solusi Tanpa Biaya dan Berisiko Rendah:</strong> Penerapan teknologi pada pengelola usaha yang hati-hati harus diawali dari alat bantu gratis (<span class="math inline">\(Rp 0\)</span>) dan tidak merusak kebiasaan lama.</li>
+<li><strong>Pentingnya Prosedur Cadangan (<em>Backup System</em>):</strong> Keberadaan SOP darurat saat sistem digital mati mendadak merupakan penentu utama rasa aman pemilik usaha.</li>
+<li><strong>Indikator Evaluasi Pilot Project:</strong> Evaluasi <em>pilot project</em> harus mengukur konsistensi data, kecepatan respons, kenyamanan karyawan, serta angka penurunan pesanan yang <em>slip</em>.</li>
+</ol>
 </section>
 <section id="tindak-lanjut-dan-batas-bukti" class="level2">
 <h2 class="anchored" data-anchor-id="tindak-lanjut-dan-batas-bukti">Tindak lanjut dan batas bukti</h2>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 16%">
-<col style="width: 16%">
-<col style="width: 16%">
-<col style="width: 16%">
-<col style="width: 16%">
-<col style="width: 16%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Langkah</th>
-<th>Penanggung jawab</th>
-<th>Waktu</th>
-<th>Dukungan</th>
-<th>Indikator/cara evaluasi</th>
-<th>Status rencana/pelaksanaan</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-</tr>
-</tbody>
-</table>
-<p>[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]</p>
-<p><strong>Konfirmasi akhir:</strong> [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].</p>
+<ul>
+<li><strong>Langkah:</strong> Mendampingi Budi dan 2 karyawannya dalam mengatur template WhatsApp Business dan Google Sheets serta mencetak kartu alur SOP darurat.</li>
+<li><strong>Waktu:</strong> Selama 14 hari masa <em>pilot project</em>.</li>
+<li><strong>Indikator:</strong> Tidak ada pesanan yang <em>slip</em>, data buku vs Sheets sinkron, dan waktu respons chat pelanggan meningkat.</li>
+<li><strong>Batas Bukti:</strong> Dokumentasi ini merekam simulasi percakapan teks; kesuksesan operasional nyata ditentukan oleh disiplin rekap harian karyawan di lapangan.</li>
+</ul>
 </section>
 <section id="bobot-dan-nilai-akhir-uts" class="level2">
 <h2 class="anchored" data-anchor-id="bobot-dan-nilai-akhir-uts">Bobot dan nilai akhir UTS</h2>
@@ -853,39 +867,36 @@ ul.task-list li input[type="checkbox"] {
 <tr class="even">
 <td>Sesi 1</td>
 <td style="text-align: right;">18%</td>
-<td>Jumlah enam skor / 24 × 100</td>
+<td>100.00 (Usulan AI)</td>
 </tr>
 <tr class="odd">
 <td>Sesi 2a</td>
 <td style="text-align: right;">18%</td>
-<td>Jumlah enam skor / 24 × 100</td>
+<td>100.00 (Usulan AI)</td>
 </tr>
 <tr class="even">
 <td>Sesi 2b</td>
 <td style="text-align: right;">18%</td>
-<td>Jumlah enam skor / 24 × 100</td>
+<td>100.00 (Usulan AI)</td>
 </tr>
 <tr class="odd">
 <td>Sesi 3a</td>
 <td style="text-align: right;">18%</td>
-<td>Jumlah enam skor / 24 × 100</td>
+<td>100.00 (Usulan AI)</td>
 </tr>
 <tr class="even">
 <td>Sesi 3b</td>
 <td style="text-align: right;">18%</td>
-<td>Jumlah enam skor / 24 × 100</td>
+<td>Belum dilaksanakan</td>
 </tr>
 <tr class="odd">
 <td><strong>Total</strong></td>
 <td style="text-align: right;"><strong>100%</strong></td>
-<td></td>
+<td><strong>Belum dihitung</strong></td>
 </tr>
 </tbody>
 </table>
-<p><strong>Nilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)</strong>, dengan seluruh nilai komponen pada skala 0–100. Bobot ini berlaku di dalam nilai UTS.</p>
-<p>Nilai sesi hanya dihitung jika keenam skor sah tersedia. BT berarti belum dapat ditetapkan, bukan nol; komponen yang belum tersedia atau belum dapat dinilai tidak dianggap nol dan bobotnya tidak dinormalisasi ulang. Nilai akhir ditulis <strong>Belum dihitung</strong> sampai nilai makalah dan kelima sesi tersedia.</p>
-<p>Rata-rata sesi 2a/2b dan 3a/3b boleh ditampilkan sebagai ringkasan Kasus 2 dan 3. Kontribusi Kasus 1 adalah 18%, Kasus 2 adalah 36%, dan Kasus 3 adalah 36%; ringkasan kasus tidak dihitung lagi sebagai komponen tambahan.</p>
-<p>Rubrik makalah belum ditetapkan dalam dokumen ini. Gunakan nilai makalah dari dosen atau rubrik makalah resmi bila tersedia; jangan menerapkan rubrik performance enam dimensi pada makalah atau mengarang skor. Semua usulan skor AI memerlukan moderasi dosen.</p>
+<p><strong>Nilai Akhir UTS:</strong> Dinyatakan <strong>Belum dihitung</strong> sampai seluruh nilai komponen lengkap tersedia.</p>
 
 
 </section>
@@ -1296,7 +1307,7 @@ ul.task-list li input[type="checkbox"] {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Portfolio KIPP-2 · Nama Mahasiswa</p>
+<p>Portfolio KIPP-2 · Obert Chandra</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;

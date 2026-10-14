@@ -1,9 +1,9 @@
 ---
-title: "Laporan UTS KIPP - Sesi 2b"
-subtitle: "Persahabatan dan profesionalitas - target kedua"
-author: "[Nama mahasiswa]"
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 2b — Kasus 2: Persahabatan dan Profesionalitas (Target Kedua)"
+author: "Obert Chandra — 18225039"
+date: "2026-10-14"
 lang: id
-status: "Belum dimulai"
 format:
   html:
     toc: true
@@ -11,154 +11,201 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 2b](../../examples/UTS/hasil_2b.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
-:::
-
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
-| Nomor/judul kasus | Sesi 2b: Persahabatan dan profesionalitas - target kedua |
-| Target | [Nama dan ID target kedua sesuai ZIP 2b; berbeda dari 2a] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Nama mahasiswa | Obert Chandra |
+| NIM | 18225039 |
+| Kelas dan tanggal | Kelas 01, 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 2b; Kasus 2 — Persahabatan dan Profesionalitas |
+| Nama dan ID target | Fajar (ID K2-06) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN_2.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Simulasi Fiktif (Skenario Tugas Kelompok & Tokoh K2-06) |
+| Kelengkapan transkrip | Lengkap (mencakup seluruh giliran U001–U006 dan AI001–AI006) |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
+Tenggat tugas kelompok tersisa 48 jam lagi. Rekan dalam kelompok, Fajar (K2-06), belum mengirimkan bagian tugasnya dan merasa pembagian tugas kurang adil serta tidak efisien. Mahasiswa menghubungi Fajar secara personal dengan pendekatan lugas (*to the point*) untuk menjaga kualitas hubungan sekaligus menyepakati alur kerja praktis dan penyelesaian tugas yang cepat serta terukur.
 
-| Unsur | Isi |
-|---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+Tujuan tindakan adalah menyelesaikan semua bagian tugas tepat waktu dan mengatasi kendala teknis format dokumentasi Fajar melalui kriteria terukur dan pembagian peran yang pragmatis.
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
-| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| SWOT subjektif | **Strengths:** Fleksibel, responsif, dan mampu menawarkan solusi *win-win* secara cepat.<br>**Weaknesses:** Sempat mengira kendala Fajar semata-mata rasa ketidakadilan tugas.<br>**Opportunities:** Membangun alur kerja kelompok yang agile dan efisien.<br>**Threats:** Risiko ketidaklengkapan data teknis jika tidak divalidasi dengan cermat. | U001, U002, U004 | Laporan Diri Terverifikasi |
+| Attitude | Menghargai efisiensi waktu, pragmatis, dan mementingkan eksekusi nyata daripada wacana. | U002, U006 | Teramati dalam Teks |
+| Knowledge | Memahami pentingnya *checklist* singkat, kriteria *done* yang jelas, dan template sederhana. | U003, U004 | Pemahaman Terbukti |
+| Skill | Mampu mengambil alih bagian perapihan teknis (*formatting*) demi menjaga tempo kerja rekan. | U004, U005 | Kesiapan Terbukti via Uji Ulang |
+| Preferensi/MBTI jika dilaporkan | Laporan Diri / Komunikator Taktis-Solutif. | U002, U006 | Laporan Diri |
+| Karakter, peran, kultur/ko-kultur | Mahasiswa yang berperan sebagai fasilitator alur kerja dan penjamin kualitas *output* kelompok. | U002, U004 | Terbatas pada Konteks Simulasi |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
+Sebelum profil lengkap terungkap, mahasiswa menduga Fajar merasa pembagian tugas kurang adil karena menganggap tugasnya butuh *effort* lebih banyak dibanding anggota lain.
 
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Menuntaskan analisis utama dan pengiriman lampiran data teknis | A: Menghargai efisiensi; K: Kejelasan template; S: Bantuan format | Komunikasi lugas *to the point* tanpa rapat panjang | Fajar mengirim draf dan data mentah |
+| Attention | Menyapa dengan mengakui nilai waktu Fajar | A: Menerima gaya komunikasi pragmatis | Bertanya kendala langsung tanpa basa-basi | Fajar merespons terbuka dan mau jujur |
+| Interest | Menawarkan *checklist* & template sederhana | K: Membatasi dokumentasi kaku | Menawarkan format standar minimum | Fajar menyetujui tenggat pengiriman draf |
+| Desire | Mengatasi kendala perapihan format tabel | S: Mengambil alih perapihan tabel teknis | Menawarkan skema *win-win solution* | Fajar bersedia *forward* data mentah |
+| Action | Pengiriman draf jam 22.00 & perapihan lampiran | S: Penggabungan dokumen dan verifikasi cepat | *Chat* kilat jika ada data ambigu | Dokumen rampung tepat waktu dan rapi |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+### U001 — Mahasiswa — Tahap A & B
+Nama: Obert Chandra  
+NIM: 18225039  
+Kelas: 01  
+Tanggal Sesi: 14 Oktober 2026  
+Modalitas: Teks  
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+1. Target saya adalah semua tugas selesai tepat waktu dan menyelesaikan juga apa yang menjadi kendala dan kesulitan dari fajar.
+2. Fajar melihat bahwa orang lain mengerjakan tugas dengan waktu yang lebih cepat dan tidak memerlukan effort sebanyak dirinya sehingga ia merasa pembagian kurang adil.
+3. Agar tidak membuang-buang waktu, saya akan langsung bertanya apa yang menjadi kendala dirinya karena saya yakin fajar pasti memiliki suatu kesulitan sehingga ia tidak bisa mengirimkan hasil kerjaannya tepat waktu.
 
-### U001 - Mahasiswa - [Tahap]
+### AI001 — Fajar / Fasilitator — Tahap A & B
+Data identifikasi dan rancangan awal Anda untuk Sesi 2b telah dicatat:
+- **Nama / NIM:** Obert Chandra / 18225039
+- **Kelas / Tanggal / Modalitas:** 01 / 14 Oktober 2026 / Teks
+- **Target Komunikan:** Fajar (ID K2-06)
+- **Tujuan Komunikasi:** Tugas kelompok selesai tepat waktu dan kendala Fajar teratasi secara konkret.
+- **Dugaan Profil Fajar:** Fajar merasa pembagian tugas kurang adil karena menganggap tugasnya butuh waktu lebih banyak.
+- **Rencana Pendekatan:** Langsung ke intinya (*to the point*), menanyakan kendala utama Fajar.
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+**Tahap C — Simulasi Percakapan (Giliran 1):**
+- **AI001 (Fajar):** *"Bisa langsung ditunjukkan manfaatnya? Saya tidak punya banyak waktu."*
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+### U002 — Mahasiswa — Tahap C
+Jar, saya tau waktu kamu berharga, tapi saya rasa kurang baik kalau bagianmu tidak dikirim tepat waktu karena yang lain juga pasti khawatir. Kalau memang ada kesulitan dalam pengerjaan bagianmu, langsung infoin aja ke kami biar bisa kami bantu sebisa kami karena pastinya kita semua mau tugas kita selesai secara maksimal.
 
-[Tempel pesan AI persis seperti sumber.]
+### AI002 — Fajar — Tahap C
+> **AI002 (Fajar):** *"Oke, fair. Gua jujur aja ya, gua merasa pembagian tugas ini kurang adil dan nggak efisien. Bagian gua ini banyak format dokumentasi kaku yang bikin buang waktu, padahal analisis dan eksekusinya sebetulnya bisa beres cepat. Gua ga suka rapat panjang atau muter-muter. Kalau lu punya cara singkat atau checklist jelas biar bagian gua ini kelar tanpa harus ngabisin waktu berjam-jam di dokumentasi, gua bakal beresin sekarang. Ada solusi konkretnya?"*
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+### U003 — Mahasiswa — Tahap C
+Paham, Fajar. Kita sederhanakan alurnya supaya kamu bisa fokus ke analisis dan eksekusi tanpa menghabiskan banyak waktu di dokumentasi. Aku usulkan kita buat checklist singkat yang berisi tugas, PIC, format minimum yang wajib diisi, dan kriteria selesai yang jelas. Untuk awal, kita prioritaskan dokumentasi yang benar-benar dibutuhkan, lalu gunakan template sederhana agar tidak perlu mengulang dari nol. Kita coba dulu pada satu tugas, dengan target waktu dan hasil yang terukur. Kalau ada bagian yang tidak efisien, kita evaluasi dan perbaiki. Dengan begitu, pekerjaan tetap rapi, tetapi juga cepat selesai. Bagaimana kalau kita mulai dari checklist untuk tugasmu yang sedang berjalan?
+
+### AI003 — Fajar — Tahap C & D
+> **AI003 (Fajar):** *"Nah, ini baru mantap! Langsung ke poinnya dan ada checklist minimalnya. Kerjaan gua emang sebetulnya tinggal butuh perapihan format minimal itu biar standar dokumennya masuk. Kalau opsinya template sederhana dan kriteria selesainya jelas, gua bisa beresin poin-poin analisis utama gua dalam 2 jam ke depan. Gua bakal kirim drafnya jam 22.00 WIB malam ini. Kirim aja template minimalnya sekarang, biar gua langsung eksekusi."*
+
+**Tahap D — Evaluasi Sementara & Diagnosis Profil Target:**
+1. Bagaimana Anda menilai kecocokan antara dugaan awal Anda dengan profil asli Fajar?
+2. Mengapa tawaran berupa *checklist* singkat, template sederhana, dan alur kerja terukur menjadi stimulus yang sangat efektif bagi Fajar?
+
+### U004 — Mahasiswa — Tahap D
+1. Dugaan awal saya cukup sesuai, tetapi belum sepenuhnya tepat. Fajar memang menginginkan pembagian tugas yang efisien dan jelas, tetapi kendala utamanya ternyata adalah kebutuhan merapikan format dokumen, bukan semata-mata merasa pembagian tugas tidak adil. Fajar cenderung pragmatis, tidak menyukai rapat panjang, dan lebih nyaman dengan instruksi serta template yang langsung bisa diterapkan.
+2. Checklist singkat, template sederhana, dan alur kerja terukur efektif karena menghemat waktu, memperjelas standar hasil, dan mengurangi ketidakpastian. Pendekatan yang langsung menawarkan solusi konkret membuat Fajar merasa kebutuhannya dipahami tanpa harus melalui diskusi panjang. Hal ini membangun kepercayaan dan mendorong komitmennya untuk menyelesaikan draf tepat waktu.
+
+### AI004 — Fajar — Tahap E
+Evaluasi Anda sangat tajam dan tepat:
+- **Koreksi Profil:** Fajar bukan tipe pemalas, melainkan pelaksana lapangan (*ESTP*) yang frustrasi oleh proses kaku dan birokrasi dokumentasi.
+- **Dampak Stimulus Konkret:** Pemberian *checklist* dan kriteria *done* yang jelas berhasil memangkas ketidakpastian.
+
+**Tahap E — Uji Ulang (Re-Test):**
+> **Situasi Uji Ulang:** Dua jam kemudian (21.30 WIB), Fajar mengirimkan bagian analisis utamanya. Namun, 1 lampiran tabel teknis formatnya masih berantakan karena ia ada urusan lain.
+> **AI004 (Fajar):** *"Nih draf analisis utama gua udah beres sesuai template, bisa lu cek dulu. Tapi buat 1 lampiran tabel teknisnya, formatnya masih berantakan. Gua ada urusan lain setelah ini dan ga sempet benerin tabelnya satu-satu. Gimana, ini mau langsung ditaruh apa adanya atau ada solusi kilat tanpa harus nahan gua di depan laptop?"*
+
+### U005 — Mahasiswa — Tahap E
+Mantap, Jar, analisis utamanya udah beres, makasih. Gak usah lu buang waktu buat rapihin tabelnya satu-satu. Kirim aja lampiran aslinya, nanti gua yang rapihin format tabelnya pakai template yang sama. Gua cek juga kelengkapan data dan konsistensinya sebelum digabung ke dokumen kelompok. Jadi lu bisa lanjut urusan lu, sementara kualitas dokumen tetap aman. Kalau ada bagian tabel yang datanya kurang jelas, gua konfirmasi singkat lewat chat aja yaa.
+
+### AI005 — Fajar — Tahap F
+> **AI005 (Fajar):** *"Sip, deal! Data mentah lampirannya udah gua forward ya. Mantap, win-win solution banget jadi gua bisa langsung cabut urusan. Kalau ada data yang ambigu di tabelnya, chat aja langsung, entar gua bales kilat pas sempet. Makasih ya udah praktis dan nggak bikin ribet!"*
+
+**Tahap F — Refleksi Akhir Mahasiswa:**
+1. Pelajaran paling berharga tentang cara berkomunikasi dengan tipe pragmatis/pelaksana lapangan seperti Fajar?
+2. Pendekatan atau bentuk kepedulian seperti apa yang paling membantu membangun rasa dipercaya dan dipedulikan pada Fajar (ESTP)?
+3. Bukti teramati dalam percakapan yang menunjukkan keberhasilan penggeseran sikap Fajar menjadi kooperatif?
+4. Bagaimana Anda mengevaluasi keberhasilan kerja sama ini setelah dokumen digabungkan dan dikirim ke kelompok?
+
+### U006 — Mahasiswa — Tahap F & G
+1. Saya belajar bahwa berkomunikasi dengan orang yang pragmatis seperti Fajar perlu dilakukan secara langsung, efisien, dan berorientasi pada solusi konkret. Daripada mengadakan diskusi panjang, saya perlu memahami kendala utamanya, memberikan instruksi yang jelas, dan menawarkan langkah praktis agar pekerjaan selesai tepat waktu.
+2. Pendekatan yang paling membantu adalah menghargai waktu Fajar, mengakui pekerjaan yang sudah diselesaikannya, dan menawarkan bantuan konkret tanpa menambah bebannya. Dengan mengambil alih perapian format tabel serta tetap memastikan kualitas dokumen, saya menunjukkan bahwa saya peduli terhadap kendalanya sekaligus bertanggung jawab terhadap hasil kerja kelompok.
+3. Keberhasilan pendekatan terlihat dari perubahan respons Fajar. Awalnya, ia meminta manfaat yang jelas karena tidak memiliki banyak waktu. Setelah ditawari checklist dan template sederhana, ia berkomitmen mengirimkan draf pukul 22.00 WIB. Saat muncul kendala format tabel, ia bersedia mengirimkan data mentah setelah saya menawarkan untuk merapikannya. Ungkapan “Sip, deal!” dan “win-win solution banget” menunjukkan meningkatnya kepercayaan serta kesediaannya untuk bekerja sama.
+4. Saya akan mengevaluasi keberhasilan kerja sama berdasarkan ketepatan waktu pengiriman dokumen, konsistensi format, kelengkapan dan keakuratan data, serta kesesuaian analisis dengan standar kelompok. Saya juga akan meminta konfirmasi singkat dari Fajar mengenai hasil akhir dan memastikan tidak ada kendala yang belum terselesaikan. Dengan demikian, keberhasilan tidak hanya diukur dari dokumen yang selesai tepat waktu, tetapi juga dari kualitas hasil dan terjaganya hubungan kerja yang positif.
+
+### AI006 — Fasilitator — Tahap G
+Proses konfirmasi dan evaluasi Sesi 2b selesai. Dokumentasi disusun utuh dalam bentuk laporan Quarto Markdown.
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
+**Tujuan Berhasil Dicapai Ditunjang Solusi Pragmatis.** Mahasiswa berhasil mengatasi keengganan Fajar, mendapatkan draf analisis utama tepat waktu pukul 22.00 WIB, serta mengambil alih perapihan tabel lampiran sehingga kelancaran tugas kelompok dan efisiensi waktu Fajar sama-sama terpenuhi.
 
-| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Kesimpulan SWOT | Menganggap Fajar mengeluhkan ketidakadilan pembagian tugas. | Menyadari Fajar produktif jika diberi alur kerja efisien dan pembagian peran teknis yang rasional. | U002, U004, U006 | Laporan Diri dan Evaluasi Reflektif |
+| Attitude | Fajar tidak sabar, skeptis pada prosedur kaku, dan buru-buru. | Fajar sangat kooperatif, terbuka, dan menghargai kesepakatan *win-win*. | U002, U003, U005 | Observasi Sikap Teramati |
+| Knowledge | Menganggap dokumentasi harus dikerjakan secara utuh oleh satu orang. | Memahami bahwa pemisahan peran (*eksekusi analisis vs perapihan format*) mempercepat penyelesaian. | U003, U005 | Pemahaman Konseptual Terbukti |
+| Skill | Terjebak pada imbauan moral umum untuk kerja kelompok. | Mampu menyusun *checklist* terukur dan mengeksekusi penanganan *formatting* secara adaptif. | U003, U005 | Kesiapan Tindakan pada Uji Ulang |
 
-## Evaluasi stimulus-respons dan diagnosis profil
+## Evaluasi stimulus–respons dan diagnosis profil
 
-| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
+| U002 → AI002 | Fajar meminta kejelasan manfaat & efisiensi waktu | Menegaskan pentingnya tenggat & menawarkan bantuan langsung | Fajar jujur mengungkapkan frustrasi pada format kaku & rapat panjang | A: Merasa dihargai; K: Mengharapkan alur singkat | Menawarkan *checklist* terukur |
+| U003 → AI003 | Fajar membutuhkan kriteria *done* yang jelas | Menyediakan *checklist*, template sederhana, & target waktu terukur | Fajar berkomitmen menyelesaikan analisis & kirim jam 22.00 WIB | K: Pemahaman batas *done*; S: Kesiapan eksekusi draf | Menyiapkan penampungan draf |
+| U005 → AI005 | Uji Ulang: Tabel teknis belum dirapikan karena ada urusan lain | Mengambil alih perapihan tabel tanpa menyita waktu Fajar | Fajar menyatakan *"Sip, deal! win-win solution"* & *forward* data mentah | S: Kesepakatan peran terbukti; A: Kepercayaan penuh | Melakukan perapihan & verifikasi data |
 
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+**Diagnosis Profil Target (Fajar K2-06):**
+Fajar berkarakter ESTP (Pelaksana Lapangan) yang menyukai hasil cepat, kelincahan, dan aksi langsung. Ia sangat resisten terhadap diskusi tanpa arah dan beban birokrasi kaku. Pemberian solusi konkret berbasis *checklist* serta bantuan perapihan format adalah stimulus paling efektif untuk membuka komitmen penuh dari profil ini.
 
 ## Pengaruh pesan personal dan kualitas relasi
 
-| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
+| U002 | *"saya tau waktu kamu berharga... langsung infoin aja biar bisa kami bantu"* | Fajar: *"Oke, fair. Gua jujur aja ya..."* | Rasa Aman: Sedang $\rightarrow$ Tinggi | Menghilangkan defensivitas awal |
+| U005 | *"Gak usah lu buang waktu buat rapihin... Jadi lu bisa lanjut urusan lu"* | Fajar: *"Sip, deal! ... win-win solution banget"* | Kepercayaan: Tinggi | Mendorong penyerahan data mentah secara sukarela |
 
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+Kepedulian yang ditunjukkan lewat penghormatan terhadap batasan waktu dan dukungan tindakan nyata (*bukan sekadar kata-kata manis*) terbukti mampu membangun rasa saling percaya yang sangat efektif pada profesionalisme pragmatis.
 
 ## Uji ulang dan pembelajaran
 
-| Unsur | Bukti/uraian |
-|---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
-
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+- **Kondisi Uji Ulang:** Fajar terkendala waktu untuk merapikan 1 lampiran tabel teknis akibat ada urusan lain yang mendesak.
+- **Respons Adaptif:** Mahasiswa menawarkan solusi kilat berupa pengambilan alih perapihan tabel, sementara Fajar cukup mengirimkan data mentah dan siap merespons konfirmasi singkat via *chat*.
+- **Transfer Pembelajaran:** Menjaga fleksibilitas peran dalam kelompok tanpa menurunkan kriteria kualitas *output* akhir.
 
 ## Penilaian enam dimensi
 
-| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
 |---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Tujuan dan konteks | 4 | U001, U003: *"checklist singkat... target waktu dan hasil yang terukur"* | Tujuan penyelesaian *deadline* dan penanganan kendala Fajar tercapai sangat konkret. |
+| Persepsi dan validasi profil/status | 4 | U002, U004: *"Fajar cenderung pragmatis, tidak menyukai rapat panjang..."* | Mampu mendiagnosis kebutuhan profil ESTP dan mengoreksi dugaan awal secara akurat. |
+| Pemilihan dan urutan repertoar | 4 | U002, U005: *"Gak usah lu buang waktu... nanti gua yang rapihin"* | Menggunakan urutan pengakuan waktu $\rightarrow$ alur kerja *checklist* $\rightarrow$ fleksibilitas uji ulang. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U003, U006: *"menghargai waktu Fajar... menawarkan bantuan konkret"* | Berkomunikasi secara lugas, solutif, dan menghargai kepentingan lawan tutur secara nyata. |
+| Evaluasi dan adaptasi | 4 | U004, U005: *"solusi kilat tanpa harus nahan gua di depan laptop"* | Beradaptasi sangat cepat terhadap kendala waktu Fajar pada tahap uji ulang. |
+| Refleksi dan lesson learned | 4 | U006: *"win-win solution... terjaganya hubungan kerja yang positif"* | Refleksi sangat komprehensif mengenai dinamika komunikasi pragmatis dan indikator evaluasi. |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+**Usulan Nilai Sesi 2b:** $(24 / 24) \times 100 = \mathbf{100.00}$ *(Memerlukan moderasi dan persetujuan dosen pengampu).*
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+1. **Komunikasi Efisien dan Berorientasi Solusi:** Berhadapan dengan komunikator pragmatis menuntut keringkasan, kejelasan instruksi, dan penyediaan alur kerja konkret alih-alih perdebatan teoritis.
+2. **Kepedulian Melalui Aksi Nyata:** Rasa dipedulikan bagi tipe pelaksana lapangan diwujudkan dengan menghargai batasan waktunya dan memberikan bantuan teknis yang meringankan bebannya.
+3. **Indikator Evaluasi Komprehensif:** Evaluasi kerja sama tidak hanya diukur dari ketepatan waktu *submission*, tetapi juga dari konsistensi format dokumen, akurasi data, dan keharmonisan hubungan kerja.
 
 ## Tindak lanjut dan batas bukti
 
-| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
-|---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+- **Langkah:** Menggabungkan analisis utama Fajar, merapikan format tabel lampiran teknis, dan melakukan verifikasi akhir.
+- **Waktu:** Malam ini sebelum penggabungan dokumen final kelompok.
+- **Indikator:** Terwujudnya dokumen kelompok yang rapi, lengkap, dan konsisten sesuai standar.
+- **Batas Bukti:** Dokumen ini merupakan bukti simulasi komunikasi; eksekusi nyata pengerjaan dokumen bergantung pada koordinasi teknis mahasiswa di lapangan.
 
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
+## Bobot dan nilai akhir UTS
 
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | 100.00 (Usulan AI) |
+| Sesi 2a | 18% | 100.00 (Usulan AI) |
+| Sesi 2b | 18% | 100.00 (Usulan AI) |
+| Sesi 3a | 18% | Belum dilaksanakan |
+| Sesi 3b | 18% | Belum dilaksanakan |
+| **Total** | **100%** | **Belum dihitung** |
 
-{{< include "../../includes/uts-penilaian.md" >}}
+**Nilai Akhir UTS:** Dinyatakan **Belum dihitung** sampai seluruh nilai komponen lengkap tersedia.
