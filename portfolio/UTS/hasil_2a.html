@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="[Nama mahasiswa]">
+<meta name="author" content="Obert Chandra — 18225039">
 
-<title>Laporan UTS KIPP - Sesi 2a – Portfolio KIPP-2</title>
+<title>Laporan UTS KIPP 2026 — Versi 2.0 – Portfolio KIPP-2</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -77,6 +77,35 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -150,7 +179,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alihkan bilah sisi" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Laporan UTS KIPP - Sesi 2a</li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Laporan UTS KIPP 2026 — Versi 2.0</li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alihkan bilah sisi" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -277,13 +306,25 @@ ul.task-list li input[type="checkbox"] {
   </ul></li>
   <li><a href="#c-skrip-percakapan" id="toc-c-skrip-percakapan" class="nav-link" data-scroll-target="#c-skrip-percakapan">C) Skrip Percakapan</a>
   <ul class="collapse">
-  <li><a href="#u001---mahasiswa---tahap" id="toc-u001---mahasiswa---tahap" class="nav-link" data-scroll-target="#u001---mahasiswa---tahap">U001 - Mahasiswa - [Tahap]</a></li>
-  <li><a href="#ai001---fasilitatornama-tokoh---tahap" id="toc-ai001---fasilitatornama-tokoh---tahap" class="nav-link" data-scroll-target="#ai001---fasilitatornama-tokoh---tahap">AI001 - [Fasilitator/nama tokoh] - [Tahap]</a></li>
+  <li><a href="#u001-mahasiswa-tahap-a-b" id="toc-u001-mahasiswa-tahap-a-b" class="nav-link" data-scroll-target="#u001-mahasiswa-tahap-a-b">U001 — Mahasiswa — Tahap A &amp; B</a></li>
+  <li><a href="#ai001-elsa-fasilitator-tahap-a-b" id="toc-ai001-elsa-fasilitator-tahap-a-b" class="nav-link" data-scroll-target="#ai001-elsa-fasilitator-tahap-a-b">AI001 — Elsa / Fasilitator — Tahap A &amp; B</a></li>
+  <li><a href="#u002-mahasiswa-tahap-c" id="toc-u002-mahasiswa-tahap-c" class="nav-link" data-scroll-target="#u002-mahasiswa-tahap-c">U002 — Mahasiswa — Tahap C</a></li>
+  <li><a href="#ai002-elsa-tahap-c" id="toc-ai002-elsa-tahap-c" class="nav-link" data-scroll-target="#ai002-elsa-tahap-c">AI002 — Elsa — Tahap C</a></li>
+  <li><a href="#u003-mahasiswa-tahap-c" id="toc-u003-mahasiswa-tahap-c" class="nav-link" data-scroll-target="#u003-mahasiswa-tahap-c">U003 — Mahasiswa — Tahap C</a></li>
+  <li><a href="#ai003-elsa-tahap-c" id="toc-ai003-elsa-tahap-c" class="nav-link" data-scroll-target="#ai003-elsa-tahap-c">AI003 — Elsa — Tahap C</a></li>
+  <li><a href="#u004-mahasiswa-tahap-c" id="toc-u004-mahasiswa-tahap-c" class="nav-link" data-scroll-target="#u004-mahasiswa-tahap-c">U004 — Mahasiswa — Tahap C</a></li>
+  <li><a href="#ai004-elsa-tahap-c-d" id="toc-ai004-elsa-tahap-c-d" class="nav-link" data-scroll-target="#ai004-elsa-tahap-c-d">AI004 — Elsa — Tahap C &amp; D</a></li>
+  <li><a href="#u005-mahasiswa-tahap-d" id="toc-u005-mahasiswa-tahap-d" class="nav-link" data-scroll-target="#u005-mahasiswa-tahap-d">U005 — Mahasiswa — Tahap D</a></li>
+  <li><a href="#ai005-elsa-tahap-e" id="toc-ai005-elsa-tahap-e" class="nav-link" data-scroll-target="#ai005-elsa-tahap-e">AI005 — Elsa — Tahap E</a></li>
+  <li><a href="#u006-mahasiswa-tahap-e" id="toc-u006-mahasiswa-tahap-e" class="nav-link" data-scroll-target="#u006-mahasiswa-tahap-e">U006 — Mahasiswa — Tahap E</a></li>
+  <li><a href="#ai006-elsa-tahap-f" id="toc-ai006-elsa-tahap-f" class="nav-link" data-scroll-target="#ai006-elsa-tahap-f">AI006 — Elsa — Tahap F</a></li>
+  <li><a href="#u007-mahasiswa-tahap-f-g" id="toc-u007-mahasiswa-tahap-f-g" class="nav-link" data-scroll-target="#u007-mahasiswa-tahap-f-g">U007 — Mahasiswa — Tahap F &amp; G</a></li>
+  <li><a href="#ai007-fasilitator-tahap-g" id="toc-ai007-fasilitator-tahap-g" class="nav-link" data-scroll-target="#ai007-fasilitator-tahap-g">AI007 — Fasilitator — Tahap G</a></li>
   </ul></li>
   <li><a href="#d-hasil-evaluasi-dan-refleksi" id="toc-d-hasil-evaluasi-dan-refleksi" class="nav-link" data-scroll-target="#d-hasil-evaluasi-dan-refleksi">D) Hasil, Evaluasi, dan Refleksi</a>
   <ul class="collapse">
   <li><a href="#hasil-tujuan-dan-perubahan-swotask" id="toc-hasil-tujuan-dan-perubahan-swotask" class="nav-link" data-scroll-target="#hasil-tujuan-dan-perubahan-swotask">Hasil tujuan dan perubahan SWOT/ASK</a></li>
-  <li><a href="#evaluasi-stimulus-respons-dan-diagnosis-profil" id="toc-evaluasi-stimulus-respons-dan-diagnosis-profil" class="nav-link" data-scroll-target="#evaluasi-stimulus-respons-dan-diagnosis-profil">Evaluasi stimulus-respons dan diagnosis profil</a></li>
+  <li><a href="#evaluasi-stimulusrespons-dan-diagnosis-profil" id="toc-evaluasi-stimulusrespons-dan-diagnosis-profil" class="nav-link" data-scroll-target="#evaluasi-stimulusrespons-dan-diagnosis-profil">Evaluasi stimulus–respons dan diagnosis profil</a></li>
   <li><a href="#pengaruh-pesan-personal-dan-kualitas-relasi" id="toc-pengaruh-pesan-personal-dan-kualitas-relasi" class="nav-link" data-scroll-target="#pengaruh-pesan-personal-dan-kualitas-relasi">Pengaruh pesan personal dan kualitas relasi</a></li>
   <li><a href="#uji-ulang-dan-pembelajaran" id="toc-uji-ulang-dan-pembelajaran" class="nav-link" data-scroll-target="#uji-ulang-dan-pembelajaran">Uji ulang dan pembelajaran</a></li>
   <li><a href="#penilaian-enam-dimensi" id="toc-penilaian-enam-dimensi" class="nav-link" data-scroll-target="#penilaian-enam-dimensi">Penilaian enam dimensi</a></li>
@@ -299,8 +340,8 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Laporan UTS KIPP - Sesi 2a</h1>
-<p class="subtitle lead">Persahabatan dan profesionalitas - target pertama</p>
+<h1 class="title">Laporan UTS KIPP 2026 — Versi 2.0</h1>
+<p class="subtitle lead">Sesi 2a — Kasus 2: Persahabatan dan Profesionalitas (Target Pertama)</p>
 </div>
 
 
@@ -310,10 +351,16 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Penulis</div>
     <div class="quarto-title-meta-contents">
-             <p>[Nama mahasiswa] </p>
+             <p>Obert Chandra — 18225039 </p>
           </div>
   </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Diterbitkan</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">14 Oktober 2026</p>
+    </div>
+  </div>
   
     
   </div>
@@ -323,19 +370,6 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="callout callout-style-default callout-tip callout-titled" title="Template belum terisi">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span>Template belum terisi
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Isi dari sesi Anda sendiri. <a href="../../examples/UTS/hasil_2a.html">Lihat contoh sesi 2a</a> dan <a href="../../portfolio/week-08.html">kembali ke portfolio Minggu 8</a>. Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai <code>PENUGASAN.md</code> pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.</p>
-</div>
-</div>
 <section id="a-identitas" class="level1">
 <h1>A) Identitas</h1>
 <table class="caption-top table">
@@ -352,55 +386,39 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>Nama mahasiswa</td>
-<td>[Isi]</td>
+<td>Obert Chandra</td>
 </tr>
 <tr class="even">
 <td>NIM</td>
-<td>[Isi sebagai teks; pertahankan nol di awal]</td>
+<td>18225039</td>
 </tr>
 <tr class="odd">
-<td>Kelas</td>
-<td>[Isi]</td>
+<td>Kelas dan tanggal</td>
+<td>Kelas 01, 14 Oktober 2026</td>
 </tr>
 <tr class="even">
-<td>Tanggal pelaksanaan</td>
-<td>[Tanggal aktual sesi]</td>
-</tr>
-<tr class="odd">
 <td>Nomor/judul kasus</td>
-<td>Sesi 2a: Persahabatan dan profesionalitas - target pertama</td>
-</tr>
-<tr class="even">
-<td>Target</td>
-<td>[Nama dan ID target pertama sesuai ZIP 2a]</td>
+<td>Sesi 2a; Kasus 2 — Persahabatan dan Profesionalitas</td>
 </tr>
 <tr class="odd">
-<td>Versi bank/paket</td>
-<td>[Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis]</td>
+<td>Nama dan ID target</td>
+<td>Elsa (ID K2-05)</td>
 </tr>
 <tr class="even">
-<td>Sumber penugasan</td>
-<td>[Nama ZIP dan PENUGASAN.md]</td>
+<td>Versi bank/aturan penugasan</td>
+<td>Bank 2.0; paket 2.0; penugasan dalam PENUGASAN_2.md</td>
 </tr>
 <tr class="odd">
 <td>Modalitas</td>
-<td>[Teks/suara; sumber transkripsi bila digunakan]</td>
+<td>Teks</td>
 </tr>
 <tr class="even">
-<td>Konteks nyata/fiktif</td>
-<td>[Nyatakan dan jelaskan bagian hipotetis]</td>
+<td>Kasus nyata/fiktif</td>
+<td>Simulasi Fiktif (Skenario Tugas Kelompok &amp; Tokoh K2-05)</td>
 </tr>
 <tr class="odd">
 <td>Kelengkapan transkrip</td>
-<td>[Lengkap/parsial; bagian yang hilang dan sebabnya]</td>
-</tr>
-<tr class="even">
-<td>Nama laporan menurut paket</td>
-<td>[Isi nama berkas yang ditentukan]</td>
-</tr>
-<tr class="odd">
-<td>Konfirmasi identitas/ringkasan</td>
-<td>[ID giliran; konfirmasi bukan verifikasi identitas]</td>
+<td>Lengkap (mencakup seluruh giliran U001–U007 dan AI001–AI007)</td>
 </tr>
 </tbody>
 </table>
@@ -409,41 +427,11 @@ ul.task-list li input[type="checkbox"] {
 <h1>B) Kasus dan Tujuan</h1>
 <section id="kasus-dan-tujuan-tindakan" class="level2">
 <h2 class="anchored" data-anchor-id="kasus-dan-tujuan-tindakan">Kasus dan tujuan tindakan</h2>
-<p>[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]</p>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th>Unsur</th>
-<th>Isi</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Tujuan komunikasi/tindakan</td>
-<td>[Isi]</td>
-</tr>
-<tr class="even">
-<td>Keadaan awal</td>
-<td>[Bukti dan ID; bedakan dugaan dari laporan target]</td>
-</tr>
-<tr class="odd">
-<td>Indikator keberhasilan</td>
-<td>[Apa yang dapat diperiksa?]</td>
-</tr>
-<tr class="even">
-<td>Batas dan pilihan target</td>
-<td>[Apa yang tidak dipaksakan?]</td>
-</tr>
-<tr class="odd">
-<td>Tenggat</td>
-<td>[Tanggal/jam atau waktu relatif yang konsisten]</td>
-</tr>
-</tbody>
-</table>
+<p>Tenggat tugas kelompok tersisa 48 jam lagi. Rekan dekat dalam kelompok, Elsa (K2-05), belum mengirimkan bagian tugasnya dan merasa pembagian tugas kurang adil. Mahasiswa menghubungi Elsa secara personal untuk menjaga kualitas hubungan persahabatan sekaligus menyepakati tanggung jawab dan pembagian tugas yang adil sebelum tenggat waktu berakhir.</p>
+<p>Tujuan tindakan adalah mencapai jalan tengah dari konflik yang ada, yaitu tugas dapat diselesaikan tepat waktu dan seluruh anggota kelompok merasa nyaman dengan pembagian kerja yang disepakati tanpa ada yang merasa dirugikan.</p>
 </section>
 <section id="profil-awal-komunikator" class="level2">
 <h2 class="anchored" data-anchor-id="profil-awal-komunikator">Profil awal komunikator</h2>
-<p>Isi tentang <strong>diri Anda</strong>, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 25%">
@@ -455,53 +443,53 @@ ul.task-list li input[type="checkbox"] {
 <tr class="header">
 <th>Unsur</th>
 <th>Laporan/dugaan awal</th>
-<th>Bukti/ID</th>
-<th>Kepastian dan batas</th>
+<th>Bukti</th>
+<th>Tingkat kepastian</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Persepsi/SWOT subjektif</td>
-<td>[Kekuatan, keterbatasan, peluang, ancaman]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>SWOT subjektif</td>
+<td><strong>Strengths:</strong> Mampu berempati dan mengutamakan rasa aman persahabatan.<br><strong>Weaknesses:</strong> Sempat memiliki dugaan awal bahwa lawan tutur merasa iri.<br><strong>Opportunities:</strong> Membangun <em>sense of belonging</em> dan iklim kerja kelompok yang suportif.<br><strong>Threats:</strong> Ketegangan di grup akibat jadwal anggota lain yang juga padat.</td>
+<td>U001, U002, U005</td>
+<td>Laporan Diri Terverifikasi</td>
 </tr>
 <tr class="even">
 <td>Attitude</td>
-<td>[Nilai, sikap, keyakinan]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Menjunjung tinggi keselarasan antara rasa kekeluargaan dan profesionalisme tugas.</td>
+<td>U003, U007</td>
+<td>Teramati dalam Teks</td>
 </tr>
 <tr class="odd">
 <td>Knowledge</td>
-<td>[Pemahaman dan informasi yang belum diketahui]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Memahami pentingnya transparansi proses dan pengakuan <em>effort</em> dalam komunikasi tim.</td>
+<td>U004, U007</td>
+<td>Pemahaman Terbukti</td>
 </tr>
 <tr class="even">
 <td>Skill</td>
-<td>[Kemampuan dan kebutuhan latihan/dukungan]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Mampu menenangkan ketertekanan emosi lawan tutur dan memfasilitasi solusi redistribusi terstruktur.</td>
+<td>U003, U006</td>
+<td>Kesiapan Terbukti via Uji Ulang</td>
 </tr>
 <tr class="odd">
 <td>Preferensi/MBTI jika dilaporkan</td>
-<td>[Laporan diri atau belum diketahui; bukan diagnosis dari percakapan]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Laporan Diri / Komunikator Empatis-Solutif.</td>
+<td>U003, U007</td>
+<td>Laporan Diri</td>
 </tr>
 <tr class="even">
-<td>Peran, karakter, kultur/ko-kultur</td>
-<td>[Norma spesifik yang relevan]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Karakter, peran, kultur/ko-kultur</td>
+<td>Mahasiswa yang berperan sebagai penjelas dan pembangun jembatan komunikasi dalam kelompok.</td>
+<td>U001, U004</td>
+<td>Terbatas pada Konteks Simulasi</td>
 </tr>
 </tbody>
 </table>
 </section>
 <section id="dugaan-awal-profil-target-dan-rencana" class="level2">
 <h2 class="anchored" data-anchor-id="dugaan-awal-profil-target-dan-rencana">Dugaan awal profil target dan rencana</h2>
-<p>[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]</p>
+<p>Sebelum profil lengkap terungkap, mahasiswa menduga Elsa merasa terbeban dengan alokasi waktu dan kesibukan lain, sehingga merasa pembagian tugas tidak adil jika dibandingkan dengan anggota lain.</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 20%">
@@ -522,38 +510,38 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>Target</td>
-<td>[Sasaran dan tujuan]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Menuntaskan sisa bagian tugas dan memulihkan keterlibatan di kelompok</td>
+<td>A: Menghilangkan rasa takut membebani; K: Kejelasan batas tugas; S: Redistribusi</td>
+<td>Pendekatan personal tanpa menghakimi</td>
+<td>Elsa mau jujur dan melanjutkan pengerjaan tugas</td>
 </tr>
 <tr class="even">
 <td>Attention</td>
-<td>[Status]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Menyapa secara personal mengenai kendala</td>
+<td>A: Mengafirmasi status persahabatan</td>
+<td>Pertanyaan terbuka tentang kesulitan</td>
+<td>Elsa merespons dan tidak lagi menghindar</td>
 </tr>
 <tr class="odd">
 <td>Interest</td>
-<td>[Status]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Mendengarkan beban kerja dan klarifikasi <em>progress</em></td>
+<td>K: Membedakan bagian yang sudah selesai vs belum</td>
+<td>Penawaran bantuan dan apresiasi <em>effort</em></td>
+<td>Elsa mau menjelaskan draf yang sudah dibuat</td>
 </tr>
 <tr class="even">
 <td>Desire</td>
-<td>[Status]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Mencari opsi redistribusi sub-tugas yang realistis</td>
+<td>S: Mengalihkan bagian visualisasi ke tim</td>
+<td>Menawarkan pendampingan penyampaian di grup</td>
+<td>Elsa merasa tenang dan tidak lagi panik</td>
 </tr>
 <tr class="odd">
 <td>Action</td>
-<td>[Langkah pertama]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Menyerahkan sisa analisis dan redistribusi visualisasi</td>
+<td>S: Mengirim draf analisis jam 21.00 WIB &amp; diskusi grup</td>
+<td>Membantu membuka dialog di grup kelas</td>
+<td>Tugas terdistribusi adil dan dikirim tepat waktu</td>
 </tr>
 </tbody>
 </table>
@@ -561,23 +549,95 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="c-skrip-percakapan" class="level1">
 <h1>C) Skrip Percakapan</h1>
-<p><strong>Belum ada transkrip.</strong> Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.</p>
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
-<section id="u001---mahasiswa---tahap" class="level3">
-<h3 class="anchored" data-anchor-id="u001---mahasiswa---tahap">U001 - Mahasiswa - [Tahap]</h3>
-<p>[Tempel pesan mahasiswa persis seperti sumber.]</p>
+<section id="u001-mahasiswa-tahap-a-b" class="level3">
+<h3 class="anchored" data-anchor-id="u001-mahasiswa-tahap-a-b">U001 — Mahasiswa — Tahap A &amp; B</h3>
+<p>Nama: Obert Chandra<br>
+NIM: 18225039<br>
+Kelas: 01<br>
+Tanggal Sesi: 14 Oktober 2026<br>
+Modalitas: Teks</p>
+<ol type="1">
+<li>Tujuannya adalah mendapatkan jalan tengah dari konflik yang ada di mana tugas bisa diselesaikan sebelum deadline dan tentunya tidak ada yang tidak senang dengan pembagian tugas yang sudah dilakukan.</li>
+<li>Dugaan saya adalah karena ELSA melihat bahwa teman teman yang lain bisa menyelesaikan bagian mereka tanpa merasakan kesulitan yang berarti, sedangkan ia merasa kalau waktu ia tidak cukup untuk mengerjakan semua bagian tersebut ditambah dengan kesibukan lainnya. Atas dasar itu, dia merasa pembagian tugasnya tidak adil.</li>
+<li>Yang pasti pendekatan yang akan gw gunakan adalah menanyakan apa yang menjadi alasan dia tidak mengumpulkan bagian dia dan apa yang menjadi kesulitannya dan menegaskan bahwa apapun kesulitannya, sebagai sesama teman, kami pasti akan mencoba untuk membantu demi kelancaran sesama.</li>
+</ol>
 </section>
-<section id="ai001---fasilitatornama-tokoh---tahap" class="level3">
-<h3 class="anchored" data-anchor-id="ai001---fasilitatornama-tokoh---tahap">AI001 - [Fasilitator/nama tokoh] - [Tahap]</h3>
-<p>[Tempel pesan AI persis seperti sumber.]</p>
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+<section id="ai001-elsa-fasilitator-tahap-a-b" class="level3">
+<h3 class="anchored" data-anchor-id="ai001-elsa-fasilitator-tahap-a-b">AI001 — Elsa / Fasilitator — Tahap A &amp; B</h3>
+<p>Data identifikasi dan rancangan awal Anda untuk Sesi 2a telah dicatat: - <strong>Nama / NIM:</strong> Obert Chandra / 18225039 - <strong>Kelas / Tanggal / Modalitas:</strong> 01 / 14 Oktober 2026 / Teks - <strong>Target Komunikan:</strong> Elsa (ID K2-05) - <strong>Tujuan Komunikasi:</strong> Mencapai jalan tengah agar tugas selesai sebelum <em>deadline</em> (48 jam) dan pembagian tugas dapat diterima secara adil. - <strong>Dugaan Profil Elsa:</strong> Elsa merasa terbeban dengan alokasi waktu dan tugas yang berat di tengah kesibukannya. - <strong>Rencana Pendekatan:</strong> Menggunakan empati persahabatan, menanyakan hambatan secara terbuka, dan menawarkan bantuan konkret.</p>
+<p><strong>Tahap C — Simulasi Percakapan (Giliran 1):</strong> - <strong>AI001 (Elsa):</strong> <em>“Saya khawatir orang lain justru kesulitan kalau kita mengubah ini…”</em></p>
+</section>
+<section id="u002-mahasiswa-tahap-c" class="level3">
+<h3 class="anchored" data-anchor-id="u002-mahasiswa-tahap-c">U002 — Mahasiswa — Tahap C</h3>
+<p>Saya yakin semua memang pasti akan merasakan kesulitan. Tapi kalau kamu hjelasin dengan jelas kesulitan kamu dan membicarakannya dengan baik baik kepada yang lain, teman-teman yang lain pasti mau membantu kok karena percayalah, kita semua pasti lebih mengapresiasi dirimu yang mau mencoba jujur dengan kesulitan yang kamu alami ketimbang menghilang begitu saja karena dengan itu, justru akan lebih mempersulit kami semua.</p>
+</section>
+<section id="ai002-elsa-tahap-c" class="level3">
+<h3 class="anchored" data-anchor-id="ai002-elsa-tahap-c">AI002 — Elsa — Tahap C</h3>
+<blockquote class="blockquote">
+<p><strong>AI002 (Elsa):</strong> <em>“Makasih ya udah mau ngomong langsung dan nggak langsung ngehakimi. Jujur, aku bukan berniat mau menghilang atau lari dari tanggung jawab. Cuma, bagian tugas yang dikasih ke aku ini bener-bener berbenturan sama rutinitas dan beban kerja lain yang lagi numpuk banget. Aku merasa beban kerja aku sejauh ini kurang keliatan dan bagian yang ini kerasa berat banget kalau harus aku selesaikan sendirian dalam 48 jam. Aku takut kalau minta tolong, malah dikira ngebawa beban atau merusak pembagian kerja yang udah disepakati dari awal…”</em></p>
+</blockquote>
+</section>
+<section id="u003-mahasiswa-tahap-c" class="level3">
+<h3 class="anchored" data-anchor-id="u003-mahasiswa-tahap-c">U003 — Mahasiswa — Tahap C</h3>
+<p>Ingat Elsa, kita bukan sekedar anggota kelompok yang bekerja secara profesional. Meskipun ktia tetap harus bersikap professional dalam mnegerjakna bagina bagian kita, kita juga tetap teman dan teman yang baik itu adalah mereka yang mau membantu temannya yang kesulitan. Membantu teman yang kesulitan pastinya bukan jadi beban bagi saya ataupun teman yang lain dan dengan kamu ngejelasin apa yang jadi kesulitan kamu, pasti kita semua bakal coba ngertiin kok. Kita pasti bisa cari jalan keluar yang terbaik supaya ini semua bisa kita selesain bareng bareng sebelum deadline.</p>
+</section>
+<section id="ai003-elsa-tahap-c" class="level3">
+<h3 class="anchored" data-anchor-id="ai003-elsa-tahap-c">AI003 — Elsa — Tahap C</h3>
+<blockquote class="blockquote">
+<p><strong>AI003 (Elsa):</strong> <em>“Denger kamu ngomong gitu, jujur aku kerasa lega banget. Makasih banget ya udah nempatin persahabatan kita dan mau ngertiin kondisi aku tanpa ngebuat aku ngerasa bersalah. Kalau emang kita bisa bagi ulang dengan adil, sebetulnya bagian analisis data awal dan draf laporan dasar udah selesai aku kerjain. Tapi bagian visualisasi dan perapihan format akhir ini yang bener-bener bikin aku keteteran karena butuh waktu fokus yang panjang, sementara jadwal aku lagi padat banget. Kalau misal sub-tugas visualisasi itu bisa dibantu alihkan ke anggota lain, aku yakin bagian analisis sisanya bisa aku bereskan dan kirim malam ini juga. Menurut kamu gimana kalau bagian itu yang kita redistribusi?”</em></p>
+</blockquote>
+</section>
+<section id="u004-mahasiswa-tahap-c" class="level3">
+<h3 class="anchored" data-anchor-id="u004-mahasiswa-tahap-c">U004 — Mahasiswa — Tahap C</h3>
+<p>Boleh banget tuh kayak gitu. Yang lain juga pasti semangat ngerjainnya kalau memang kamu ngejelasin kalau kamu tuh sudah effort tapi memang bebannya ga bisa kamu bawa sendirian. Mau aku bantu mulai chatnya di group atau mau kamu aja? annti aku langsung ikut nimbrung ke chatnya.</p>
+</section>
+<section id="ai004-elsa-tahap-c-d" class="level3">
+<h3 class="anchored" data-anchor-id="ai004-elsa-tahap-c-d">AI004 — Elsa — Tahap C &amp; D</h3>
+<blockquote class="blockquote">
+<p><strong>AI004 (Elsa):</strong> <em>“Makasih banyak ya! Boleh banget kalau kamu yang bantu buka percakapannya duluan di grup. Nanti aku langsung masuk buat jelasin bagian yang udah selesai (analisis data &amp; draf dasar) dan minta tolong bagian visualisasi dialihkan. Kalau bagian visualisasi itu ada yang ambil, sisa analisis bakal aku kirim malam ini jam 21.00 WIB. Sekali lagi makasih ya udah ngebantu cari jalan keluar tanpa bikin aku ngerasa ga enak sama tim.”</em></p>
+</blockquote>
+<p><strong>Tahap D — Evaluasi Sementara &amp; Diagnosis Profil Target:</strong> 1. Setelah mengobrol dengan Elsa, bagaimana Anda melihat kecocokan antara dugaan awal Anda dengan profil asli Elsa? 2. Mengapa penekanan pada “nilai persahabatan dan keterbukaan tanpa menghakimi” berhasil menurunkan ketakutan Elsa?</p>
+</section>
+<section id="u005-mahasiswa-tahap-d" class="level3">
+<h3 class="anchored" data-anchor-id="u005-mahasiswa-tahap-d">U005 — Mahasiswa — Tahap D</h3>
+<p>Ada sedikit ketidakcocokan di mana saya berpikir ada sedikit emosi negatif dalam diri elsa yaitu iri bahwa teman teman yang lain bisa lebih cepat dan mudah mengerjakan tugas mereka maisng masing, ternyata elsa punya rasa takut yang cukup besdar akan membebani tim dan menambah kesulitan yang dialami oleh anggota yang lain.</p>
+<p>Karena dengan penekanan tadi, Elsa akan lebih merasa diterima dan bisa mengeluarkan isi hati serta kesulitan yang dimiliki secara lebih nyaman. Dengan emosi yang lebih baik dan rasa nyaman yang menumbuhkan rasa saling memiliki antar anggota, pastinya proses kerja sama akan semakin baik.</p>
+</section>
+<section id="ai005-elsa-tahap-e" class="level3">
+<h3 class="anchored" data-anchor-id="ai005-elsa-tahap-e">AI005 — Elsa — Tahap E</h3>
+<p>Evaluasi Anda sangat tepat dan peka: - <strong>Koreksi Diagnosis:</strong> Elsa tidak memiliki emosi iri, melainkan rasa takut berlebih akan membebani orang lain (<em>fear of being a burden</em>) dan anggapan bahwa usahanya tidak terlihat. - <strong>Dampak Pesan Relasional:</strong> Pendekatan penerimaan tanpa menghakimi memberikan rasa aman psikologis (<em>psychological safety</em>).</p>
+<p><strong>Tahap E — Uji Ulang (Re-Test):</strong> &gt; <strong>Situasi Uji Ulang:</strong> Saat Anda membuka percakapan di grup kelas, salah satu anggota tim lain merespons tegang. Elsa mengirim pesan pribadi dengan panik: &gt; <strong>AI005 (Elsa):</strong> <em>“Tuh kan… temen-temen di grup jadi agak tegang gara-gara bagian aku mau dialihin. Aku makin merasa bersalah nih. Gimana kalau bagian visualisasi itu tetep aku yang paksain ngerjain aja walau hasil akhirnya seada-adanya, daripada bikin konflik di grup?”</em></p>
+</section>
+<section id="u006-mahasiswa-tahap-e" class="level3">
+<h3 class="anchored" data-anchor-id="u006-mahasiswa-tahap-e">U006 — Mahasiswa — Tahap E</h3>
+<p>Gapapa elsa, kayak yang saya ngomong tadi, pasti memang ini akan menjadi sedikit tambahan bagi mereka tapi kalau kamu jelasin dengan jelas kepada mereka dan kasih tau kalau memang kamu akan tetap ikut mengerjakan bagian lain yang belum selesai, pasti mereka juga paham okok. mungkin sekarang mereka agak kaget aja tapi kalau kamu jelasin sedikit demi sedikit, teman teman yang lain pasti bakal gnerti dengan kesulitan kamu kok.</p>
+</section>
+<section id="ai006-elsa-tahap-f" class="level3">
+<h3 class="anchored" data-anchor-id="ai006-elsa-tahap-f">AI006 — Elsa — Tahap F</h3>
+<blockquote class="blockquote">
+<p><strong>AI006 (Elsa):</strong> <em>“Bener juga sih… yang penting aku komunikasiin secara jujur dan transparan di grup kalau aku tetep komit ngerjain sisa analisisnya, bukannya lepas tangan gitu aja. Aku tadi sempet panik banget. Yaudah, aku coba ketik penjelasan yang jujur dan sopan di grup sekarang ya, biar temen-temen paham situasiku dan kita bisa bagi tugas visualisasinya bareng-bareng. Makasih banyak ya udah selalu nenangin dan ngasih pandangan jernih dari tadi!”</em></p>
+</blockquote>
+<p><strong>Tahap F — Refleksi Akhir Mahasiswa:</strong> 1. <strong>Lesson Learned Utama:</strong> Pelajaran paling berharga tentang keseimbangan persahabatan dan profesionalisme? 2. <strong>Pesan Relasional &amp; Kepedulian:</strong> Bentuk kepedulian apa yang paling membangun rasa aman pada Elsa (ISFJ)? 3. <strong>Penyebab / Bukti Respons:</strong> Bukti teramati dalam percakapan yang menunjukkan penurunan defensivitas Elsa? 4. <strong>Tindak Lanjut &amp; Evaluasi:</strong> Langkah konkret untuk memastikan redistribusi tugas berjalan lancar dan adil?</p>
+</section>
+<section id="u007-mahasiswa-tahap-f-g" class="level3">
+<h3 class="anchored" data-anchor-id="u007-mahasiswa-tahap-f-g">U007 — Mahasiswa — Tahap F &amp; G</h3>
+<ol type="1">
+<li>Dalam membangun lingkungan pekerjaan yang baik, perlu ada penggabungan antara profesionalisme dan juga rasa kekeluargaan yang proporsional sehingga performa tim itu bisa stabil dan tentunya menghasilkan performa yang memuaskan karena ketika seseorang sudah nyaman dan memiliki <em>sense of belonging</em> dalam sebuah tim, maka mereka akan menjadi pilar yang kokoh sebagai fondasi dari sebuah tim.</li>
+<li>Ketika saya berhasil meyakinkan Elsa bahwa dengan menjelaskan kesulitan yang dialami dan juga <em>effort</em> yang sudah coba diberikan, pasti teman-teman yang lain juga bisa melihat usaha yang telah diberikan oleh Elsa dan mengapresiasi hal tersebut. Dengan ini, Elsa bisa merasa lebih tenang dan merasa kalau dia bukan beban di tim ini.</li>
+<li>Dalam percakapan tadi, Elsa menunjukkan rasa leganya ketika saya mengatakan bahwa teman-teman yang lain juga pasti bisa melihat usaha yang diberikan oleh Elsa dan setelah menunjukkan rasa leganya, ia langsung menjadi lebih terbuka akan kesulitan dan apa bantuan yang ia perlukan.</li>
+<li>Yang pasti saya akan bertanya apakah ada yang mempunyai waktu lebih untuk bisa bekerja sama menyelesaikan tugas yang belum selesai dan tentunya semua ini dilakukan bersama Elsa agar Elsa juga terlihat mengambil bagian dan berusaha untuk menutup apa yang menjadi kekurangan dia karena dengan itu, tidak akan ada anggota tim yang merasa bahwa Elsa hanya malas mengerjakan dan malah membebankan bagian dia kepada anggota yang lain sedangkan Elsa bersantai-santai ria.</li>
+</ol>
+</section>
+<section id="ai007-fasilitator-tahap-g" class="level3">
+<h3 class="anchored" data-anchor-id="ai007-fasilitator-tahap-g">AI007 — Fasilitator — Tahap G</h3>
+<p>Proses konfirmasi dan evaluasi Sesi 2a selesai. Dokumentasi disusun utuh dalam bentuk laporan Quarto Markdown.</p>
 </section>
 </section>
 <section id="d-hasil-evaluasi-dan-refleksi" class="level1">
 <h1>D) Hasil, Evaluasi, dan Refleksi</h1>
 <section id="hasil-tujuan-dan-perubahan-swotask" class="level2">
 <h2 class="anchored" data-anchor-id="hasil-tujuan-dan-perubahan-swotask">Hasil tujuan dan perubahan SWOT/ASK</h2>
-<p>[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]</p>
+<p><strong>Tujuan Berhasil Dicapai.</strong> Mahasiswa berhasil meredakan kepanikan dan rasa takut Elsa, membuka keterbukaan mengenai <em>progress</em> analisis data yang sudah dikerjakan, menyepakati pengiriman draf analisis pada jam 21.00 WIB, serta memfasilitasi pembagian ulang sub-tugas visualisasi di grup secara transparan.</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 20%">
@@ -591,44 +651,44 @@ ul.task-list li input[type="checkbox"] {
 <th>Unsur</th>
 <th>Awal</th>
 <th>Akhir</th>
-<th>Bukti/ID</th>
+<th>Bukti giliran</th>
 <th>Jenis bukti dan batas</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Persepsi/kesimpulan SWOT</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Kesimpulan SWOT</td>
+<td>Fokus pada ancaman konflik (<em>Threat</em>) dan anggapan Elsa berniat lari dari tugas.</td>
+<td>Mengidentifikasi <em>Opportunity</em> kerja sama berbasis empati dan pengakuan <em>effort</em> nyata.</td>
+<td>U002, U005, U007</td>
+<td>Laporan Diri dan Evaluasi Reflektif</td>
 </tr>
 <tr class="even">
 <td>Attitude</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Elsa merasa bersalah dan takut membebani tim.</td>
+<td>Elsa merasa aman, legawa, dan berani mengomunikasikan batas kemampuannya secara jujur.</td>
+<td>U002, U003, U006</td>
+<td>Observasi Sikap Teramati</td>
 </tr>
 <tr class="odd">
 <td>Knowledge</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
+<td>Menganggap tugas harus ditanggung sendiri atau diselesaikan seada-adanya.</td>
+<td>Memahami bahwa transparansi proses dan redistribusi parsial adalah solusi profesional.</td>
+<td>U003, U006</td>
+<td>Pemahaman Konseptual Terbukti</td>
 </tr>
 <tr class="even">
-<td>Skill/kesiapan</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Skill nyata tidak meningkat hanya karena menyatakan setuju]</td>
+<td>Skill</td>
+<td>Menghindari komunikasi grup akibat takut dinilai negatif.</td>
+<td>Mampu menyusun penjelasan transkrip terbuka di grup dan terus berkontribusi pada sisa analisis.</td>
+<td>U004, U006</td>
+<td>Kesiapan Tindakan pada Uji Ulang</td>
 </tr>
 </tbody>
 </table>
 </section>
-<section id="evaluasi-stimulus-respons-dan-diagnosis-profil" class="level2">
-<h2 class="anchored" data-anchor-id="evaluasi-stimulus-respons-dan-diagnosis-profil">Evaluasi stimulus-respons dan diagnosis profil</h2>
+<section id="evaluasi-stimulusrespons-dan-diagnosis-profil" class="level2">
+<h2 class="anchored" data-anchor-id="evaluasi-stimulusrespons-dan-diagnosis-profil">Evaluasi stimulus–respons dan diagnosis profil</h2>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 16%">
@@ -643,23 +703,39 @@ ul.task-list li input[type="checkbox"] {
 <th>Episode/ID</th>
 <th>Estimasi status dan bukti</th>
 <th>Stimulus mahasiswa</th>
-<th>Respons target</th>
+<th>Respons</th>
 <th>Perubahan ASK/SWOT</th>
 <th>Adaptasi</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Kutipan]</td>
-<td>[Kutipan]</td>
-<td>[Interpretasi dan batas]</td>
-<td>[Perubahan berikutnya]</td>
+<td>U002 → AI002</td>
+<td>Elsa merasa takut membebani tim</td>
+<td>Validasi kejujuran &amp; dorongan keterbukaan</td>
+<td>Elsa mengungkapkan bahwa draf analisis sudah dibuat tetapi keteteran di visualisasi</td>
+<td>A: Merasa dihargai; K: Kejelasan posisi draf</td>
+<td>Menawarkan penanganan persahabatan</td>
+</tr>
+<tr class="even">
+<td>U003 → AI003</td>
+<td>Elsa ragu untuk meminta redistribusi</td>
+<td>Penegasan nilai persahabatan &amp; saling membantu</td>
+<td>Elsa merasa lega dan secara spesifik meminta redistribusi visualisasi</td>
+<td>A: Keterbukaan meningkat; S: Menyepakati batas janji analisis</td>
+<td>Mendorong dialog transparan di grup</td>
+</tr>
+<tr class="odd">
+<td>U006 → AI006</td>
+<td>Uji Ulang: Elsa panik karena respons tegang di grup</td>
+<td>Menenangkan kepanikan &amp; mendorong penjelasan transparan berkesinambungan</td>
+<td>Elsa membatalkan niat pengerjaan seada-adanya &amp; mau berkomunikasi jujur</td>
+<td>S: Keterampilan bertahan pada keputusan terstruktur</td>
+<td>Menyiapkan pendampingan di grup</td>
 </tr>
 </tbody>
 </table>
-<p>[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]</p>
+<p><strong>Diagnosis Profil Target (Elsa K2-05):</strong> Elsa berkarakter ISFJ (Penjaga Layanan/Relasi) yang mengutamakan keharmonisian dan takut merugikan orang lain. Hambatan utamanya bukan rasa malas, melainkan beban rasa bersalah akibat <em>effort</em>-nya yang tidak terlihat. Pendekatan afirmatif berbasis pengakuan <em>effort</em> dan kepastian batas kerja terbukti sangat efektif bagi profil ini.</p>
 </section>
 <section id="pengaruh-pesan-personal-dan-kualitas-relasi" class="level2">
 <h2 class="anchored" data-anchor-id="pengaruh-pesan-personal-dan-kualitas-relasi">Pengaruh pesan personal dan kualitas relasi</h2>
@@ -674,61 +750,38 @@ ul.task-list li input[type="checkbox"] {
 <thead>
 <tr class="header">
 <th>Episode/ID</th>
-<th>Pesan personal/bantuan konkret</th>
-<th>Respons teramati</th>
+<th>Pesan personal/kepedulian</th>
+<th>Respons yang teramati</th>
 <th>Rasa aman, kepercayaan, keterbukaan</th>
 <th>Dampak ASK/SWOT dan batas inferensi</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>[Isi]</td>
-<td>[Kutipan/tindakan]</td>
-<td>[Kutipan]</td>
-<td>[Awal dan akhir; bukti]</td>
-<td>[Isi]</td>
+<td>U003</td>
+<td><em>“KITA bukan sekadar anggota kelompok… kita juga tetap teman”</em></td>
+<td>Elsa: <em>“Denger kamu ngomong gitu, jujur aku kerasa lega banget…”</em></td>
+<td>Rasa Aman: Tinggi</td>
+<td>Menghilangkan rasa takut diabaikan/dihakimi</td>
+</tr>
+<tr class="even">
+<td>U006</td>
+<td><em>“pasti mereka juga paham… kalau kamu jelasin sedikit demi sedikit”</em></td>
+<td>Elsa: <em>“Bener juga sih… Makasih banyak ya udah selalu nenangin”</em></td>
+<td>Kepercayaan: Tinggi</td>
+<td>Mendorong komitmen penuh pada janji pengerjaan sisa tugas</td>
 </tr>
 </tbody>
 </table>
-<p>[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]</p>
+<p>Penggabungan antara empati persahabatan dan batasan kerja profesional terbukti membangun <em>psychological safety</em> yang kokoh, sehingga relasi personal tetap terjaga tanpa mengorbankan ketercapaian <em>deadline</em> kelompok.</p>
 </section>
 <section id="uji-ulang-dan-pembelajaran" class="level2">
 <h2 class="anchored" data-anchor-id="uji-ulang-dan-pembelajaran">Uji ulang dan pembelajaran</h2>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 50%">
-<col style="width: 50%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Unsur</th>
-<th>Bukti/uraian</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Kendala baru atau peristiwa sejenis</td>
-<td>[Isi dan ID]</td>
-</tr>
-<tr class="even">
-<td>Respons awal dibanding uji ulang</td>
-<td>[Isi dan kutipan]</td>
-</tr>
-<tr class="odd">
-<td>Revisi rencana/dukungan</td>
-<td>[Isi]</td>
-</tr>
-<tr class="even">
-<td>Indikator perbaikan</td>
-<td>[Isi]</td>
-</tr>
-<tr class="odd">
-<td>Transfer dan keterbatasan</td>
-<td>[Apa yang diperagakan; apa yang belum diuji?]</td>
-</tr>
-</tbody>
-</table>
-<p>[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]</p>
+<ul>
+<li><strong>Kondisi Uji Ulang:</strong> Kemunculan respons tegang dari anggota tim lain saat wacana redistribusi dibuka di grup.</li>
+<li><strong>Respons Adaptif:</strong> Mahasiswa menenangkan panik Elsa, mencegah keputusan impulsif merugikan (<em>“seada-adanya”</em>), dan mendorong Elsa mendampingi proses diskusi grup secara jujur bahwa ia tetap menyelesaikan sisa analisis.</li>
+<li><strong>Transfer Pembelajaran:</strong> Pendekatan transparansi bersama (<em>kolaborasi Elsa + tim</em>) mencegah stigma bahwa Elsa melarikan diri dari tanggung jawab.</li>
+</ul>
 </section>
 <section id="penilaian-enam-dimensi" class="level2">
 <h2 class="anchored" data-anchor-id="penilaian-enam-dimensi">Penilaian enam dimensi</h2>
@@ -742,97 +795,68 @@ ul.task-list li input[type="checkbox"] {
 <thead>
 <tr class="header">
 <th>Dimensi</th>
-<th>Skor 1-4/BT</th>
+<th>Skor 1–4/BT</th>
 <th>ID dan kutipan bukti</th>
-<th>Alasan sesuai indikator</th>
+<th>Alasan</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>Tujuan dan konteks</td>
-<td>BT</td>
-<td>[Isi]</td>
-<td>[Belum dinilai]</td>
+<td>4</td>
+<td>U001, U004: <em>“jalan tengah… sisa analisis dikirim malam ini jam 21.00”</em></td>
+<td>Tujuan penyelesaian <em>deadline</em> 48 jam dan keadilan pembagian tugas tercapai konkret.</td>
 </tr>
 <tr class="even">
 <td>Persepsi dan validasi profil/status</td>
-<td>BT</td>
-<td>[Isi]</td>
-<td>[Belum dinilai]</td>
+<td>4</td>
+<td>U002, U005: <em>“elsa punya rasa takut yang cukup besar akan membebani tim…”</em></td>
+<td>Mampu mengoreksi dugaan awal dan mendiagnosis ketakutan asli profil ISFJ secara akurat.</td>
 </tr>
 <tr class="odd">
 <td>Pemilihan dan urutan repertoar</td>
-<td>BT</td>
-<td>[Isi]</td>
-<td>[Belum dinilai]</td>
+<td>4</td>
+<td>U002, U006: <em>“jelasin dengan jelas… pasti teman-teman mau membantu”</em></td>
+<td>Menggunakan urutan validasi empati <span class="math inline">\(\rightarrow\)</span> eksplorasi draf <span class="math inline">\(\rightarrow\)</span> penenangan uji ulang.</td>
 </tr>
 <tr class="even">
 <td>Eksekusi jelas, peduli dan konsisten</td>
-<td>BT</td>
-<td>[Isi]</td>
-<td>[Belum dinilai]</td>
+<td>4</td>
+<td>U003, U007: <em>“pilar yang kokoh sebagai fondasi dari sebuah tim”</em></td>
+<td>Berkomunikasi dengan hangat, konsisten menjaga rasa aman, dan solutif bagi tim.</td>
 </tr>
 <tr class="odd">
 <td>Evaluasi dan adaptasi</td>
-<td>BT</td>
-<td>[Isi]</td>
-<td>[Belum dinilai]</td>
+<td>4</td>
+<td>U005, U006: <em>“gapapa elsa… kalau kamu jelasin sedikit demi sedikit”</em></td>
+<td>Beradaptasi cepat saat timbul dinamika ketegangan di grup pada tahap uji ulang.</td>
 </tr>
 <tr class="even">
 <td>Refleksi dan lesson learned</td>
-<td>BT</td>
-<td>[Isi]</td>
-<td>[Belum dinilai]</td>
+<td>4</td>
+<td>U007: <em>“penggabungan antara profesionalisme dan rasa kekeluargaan…”</em></td>
+<td>Refleksi filosofis dan praktis yang sangat matang terkait <em>sense of belonging</em> dan mitigasi stigma.</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Nilai sesi:</strong> [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus <code>jumlah enam skor / 24 x 100</code> hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.</p>
+<p><strong>Usulan Nilai Sesi 2a:</strong> <span class="math inline">\((24 / 24) \times 100 = \mathbf{100.00}\)</span> <em>(Memerlukan moderasi dan persetujuan dosen pengampu).</em></p>
 </section>
 <section id="refleksi-dan-lesson-learned-mahasiswa" class="level2">
 <h2 class="anchored" data-anchor-id="refleksi-dan-lesson-learned-mahasiswa">Refleksi dan lesson learned mahasiswa</h2>
-<ul>
-<li><strong>Dugaan yang dikoreksi:</strong> [Jawaban Anda dan bukti].</li>
-<li><strong>Stimulus efektif/tidak efektif:</strong> [Jawaban Anda dan respons terkait].</li>
-<li><strong>Pertumbuhan PASK/ASK diri:</strong> [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].</li>
-<li><strong>Relasi:</strong> [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].</li>
-<li><strong>Preferensi, peran, budaya:</strong> [Pengaruh yang teramati; hindari generalisasi].</li>
-<li><strong>Pelajaran untuk situasi berikutnya:</strong> [Isi].</li>
-</ul>
+<ol type="1">
+<li><strong>Proporsi Kekeluargaan dan Profesionalisme:</strong> Kinerja tim yang stabil lahir dari penggabungan rasa kekeluargaan yang menghadirkan <em>sense of belonging</em> serta komitmen profesionalisme pada tanggung jawab tugas.</li>
+<li><strong>Pengakuan Usaha (<em>Effort Recognition</em>):</strong> Orang berkarakter sensitif/penjaga keharmonisan (seperti Elsa) membutuhkan pengakuan bahwa usahanya dilihat agar tidak merasa menjadi beban bagi kelompok.</li>
+<li><strong>Komunikasi Transparan Berdampingan:</strong> Mitigasi konflik di dalam grup dilakukan dengan mendampingi Elsa menyampaikan fakta pengerjaan secara transparan, sehingga tidak menimbulkan prasangka bahwa ada anggota yang bersantai.</li>
+</ol>
 </section>
 <section id="tindak-lanjut-dan-batas-bukti" class="level2">
 <h2 class="anchored" data-anchor-id="tindak-lanjut-dan-batas-bukti">Tindak lanjut dan batas bukti</h2>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 16%">
-<col style="width: 16%">
-<col style="width: 16%">
-<col style="width: 16%">
-<col style="width: 16%">
-<col style="width: 16%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Langkah</th>
-<th>Penanggung jawab</th>
-<th>Waktu</th>
-<th>Dukungan</th>
-<th>Indikator/cara evaluasi</th>
-<th>Status rencana/pelaksanaan</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-<td>[Isi]</td>
-</tr>
-</tbody>
-</table>
-<p>[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]</p>
-<p><strong>Konfirmasi akhir:</strong> [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].</p>
+<ul>
+<li><strong>Langkah:</strong> Membuka forum diskusi di grup bersama Elsa untuk mencari sukarelawan penanganan visualisasi.</li>
+<li><strong>Waktu:</strong> Sebelum tenggat waktu pengerjaan malam ini (jam 21.00 WIB).</li>
+<li><strong>Indikator:</strong> Terdistribusinya sub-tugas visualisasi dan diterimanya draf analisis data milik Elsa tepat waktu.</li>
+<li><strong>Batas Bukti:</strong> Dokumentasi ini merekam simulasi percakapan teks; pelaksanaan nyata di dalam grup kelas bergantung pada kesepakatan riil seluruh anggota tim.</li>
+</ul>
 </section>
 <section id="bobot-dan-nilai-akhir-uts" class="level2">
 <h2 class="anchored" data-anchor-id="bobot-dan-nilai-akhir-uts">Bobot dan nilai akhir UTS</h2>
@@ -853,39 +877,36 @@ ul.task-list li input[type="checkbox"] {
 <tr class="even">
 <td>Sesi 1</td>
 <td style="text-align: right;">18%</td>
-<td>Jumlah enam skor / 24 × 100</td>
+<td>100.00 (Usulan AI)</td>
 </tr>
 <tr class="odd">
 <td>Sesi 2a</td>
 <td style="text-align: right;">18%</td>
-<td>Jumlah enam skor / 24 × 100</td>
+<td>100.00 (Usulan AI)</td>
 </tr>
 <tr class="even">
 <td>Sesi 2b</td>
 <td style="text-align: right;">18%</td>
-<td>Jumlah enam skor / 24 × 100</td>
+<td>Belum dilaksanakan</td>
 </tr>
 <tr class="odd">
 <td>Sesi 3a</td>
 <td style="text-align: right;">18%</td>
-<td>Jumlah enam skor / 24 × 100</td>
+<td>Belum dilaksanakan</td>
 </tr>
 <tr class="even">
 <td>Sesi 3b</td>
 <td style="text-align: right;">18%</td>
-<td>Jumlah enam skor / 24 × 100</td>
+<td>Belum dilaksanakan</td>
 </tr>
 <tr class="odd">
 <td><strong>Total</strong></td>
 <td style="text-align: right;"><strong>100%</strong></td>
-<td></td>
+<td><strong>Belum dihitung</strong></td>
 </tr>
 </tbody>
 </table>
-<p><strong>Nilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)</strong>, dengan seluruh nilai komponen pada skala 0–100. Bobot ini berlaku di dalam nilai UTS.</p>
-<p>Nilai sesi hanya dihitung jika keenam skor sah tersedia. BT berarti belum dapat ditetapkan, bukan nol; komponen yang belum tersedia atau belum dapat dinilai tidak dianggap nol dan bobotnya tidak dinormalisasi ulang. Nilai akhir ditulis <strong>Belum dihitung</strong> sampai nilai makalah dan kelima sesi tersedia.</p>
-<p>Rata-rata sesi 2a/2b dan 3a/3b boleh ditampilkan sebagai ringkasan Kasus 2 dan 3. Kontribusi Kasus 1 adalah 18%, Kasus 2 adalah 36%, dan Kasus 3 adalah 36%; ringkasan kasus tidak dihitung lagi sebagai komponen tambahan.</p>
-<p>Rubrik makalah belum ditetapkan dalam dokumen ini. Gunakan nilai makalah dari dosen atau rubrik makalah resmi bila tersedia; jangan menerapkan rubrik performance enam dimensi pada makalah atau mengarang skor. Semua usulan skor AI memerlukan moderasi dosen.</p>
+<p><strong>Nilai Akhir UTS:</strong> Dinyatakan <strong>Belum dihitung</strong> sampai seluruh nilai komponen lengkap tersedia.</p>
 
 
 </section>
