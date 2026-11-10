@@ -1322,7 +1322,7 @@
     "href": "portfolio/week-10.html",
     "title": "Action & Agreement Challenge",
     "section": "",
-    "text": "Menemukan desire–action gap dan menghasilkan agreement yang feasible serta eksplisit.",
+    "text": "Menemukan desire–action gap dan menghasilkan agreement yang feasible, eksplisit, serta akuntabel.",
     "crumbs": [
       "Beranda",
       "Action & Agreement Challenge"
@@ -1333,7 +1333,7 @@
     "href": "portfolio/week-10.html#kompetensi-target",
     "title": "Action & Agreement Challenge",
     "section": "",
-    "text": "Menemukan desire–action gap dan menghasilkan agreement yang feasible serta eksplisit.",
+    "text": "Menemukan desire–action gap dan menghasilkan agreement yang feasible, eksplisit, serta akuntabel.",
     "crumbs": [
       "Beranda",
       "Action & Agreement Challenge"
@@ -1344,29 +1344,40 @@
     "href": "portfolio/week-10.html#evidence-wajib",
     "title": "Action & Agreement Challenge",
     "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nBarrier dan authority map.\nOptions dan trade-off yang dibahas.\nAgreement dengan owner/deadline serta bukti action atau review.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 10 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "text": "Evidence wajib\n\nBarrier dan authority map.\nOptions dan trade-off yang dibahas bersama target.\nAgreement dengan owner/deadline serta bukti action atau review.",
     "crumbs": [
       "Beranda",
       "Action & Agreement Challenge"
     ]
   },
   {
-    "objectID": "portfolio/week-10.html#konteks-performance",
-    "href": "portfolio/week-10.html#konteks-performance",
+    "objectID": "portfolio/week-10.html#desireaction-gap-dan-authority-map",
+    "href": "portfolio/week-10.html#desireaction-gap-dan-authority-map",
     "title": "Action & Agreement Challenge",
-    "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "section": "Desire–action gap dan authority map",
+    "text": "Desire–action gap dan authority map\nDani (Ketua Panitia) dan Sita (Sekretaris Utama) sudah berada di state Desire (menginginkan sistem rujukan terpusat untuk memangkas pertanyaan berulang), tetapi belum mengeksekusi uji coba. Discovery menunjukkan hambatan (barriers) dan peta wewenang (authority map) berikut:\n\n\n\n\n\n\n\n\nBarrier\nPerson dengan Authority\nPeran & Respons\n\n\n\n\nIzin uji coba resmi alur komunikasi panitia\nDani, Ketua Panitia\nWewenang mutlak menyetujui scope pilot organisasi\n\n\nPengisian data rujukan proker\nRio, Kadiv Acara\nBertanggung jawab memimpin alur kerja divisi pilot\n\n\nKontrol privasi & dokumen panitia\nSita, Sekretaris Utama\nWewenang memvalidasi integritas arsip & izin data\n\n\nPemeliharaan bot & dasbor Notion\nObert, Kadiv Project\nPenanggung jawab teknis eksekusi & mitigasi sistem\n\n\n\nRefleksi Pemetaan: Saya sebelumnya keliru hanya meminta izin ke Sita, padahal keputusan legal alur kerja organisasi membutuhkan kepatuhan (authority) penuh dari Dani dan persetujuan eksekusi dari Rio sebagai kepala divisi pilot.",
     "crumbs": [
       "Beranda",
       "Action & Agreement Challenge"
     ]
   },
   {
-    "objectID": "portfolio/week-10.html#evidence",
-    "href": "portfolio/week-10.html#evidence",
+    "objectID": "portfolio/week-10.html#options-dan-trade-off",
+    "href": "portfolio/week-10.html#options-dan-trade-off",
     "title": "Action & Agreement Challenge",
-    "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "section": "Options dan trade-off",
+    "text": "Options dan trade-off\nKami membahas 3 pilihan opsi eksekusi pilot beserta trade-off-nya dalam sesi negosiasi:\n\nOpsi A (Pilot 5 Hari di 2 Divisi - Project & Acara): Risiko rendah, workload terukur, evidence cukup untuk evaluasi. (Dipilih).\nOpsi B (Penerapan Langsung di Seluruh Divisi Panitia): Evidence lebih luas, namun risiko kekacauan alur tinggi jika bot mengalami masalah teknis saat hari H mendekat.\nOpsi C (Observasi Manual Tanpa Bot WA): Cepat dan murah, namun tidak menguji mechanism otomatisasi solusi.\n\nKesepakatan Target: Dani dan Rio memilih Opsi A dengan syarat: tidak ada data pribadi (NIM/kontak pribadi) yang dipublikasi di Notion publik dan bot dapat dimatikan seketika (kill-switch) jika terjadi eror teknis.",
+    "crumbs": [
+      "Beranda",
+      "Action & Agreement Challenge"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-10.html#explicit-agreement-dan-evidence-action",
+    "href": "portfolio/week-10.html#explicit-agreement-dan-evidence-action",
+    "title": "Action & Agreement Challenge",
+    "section": "Explicit agreement dan evidence action",
+    "text": "Explicit agreement dan evidence action\n\nTranskrip Sesi Penetapan Agreement & Scope Pilot (Kamis 15 Nov 2026, 19.30 WIB di Ruang Rapat SC ITB): - Obert: “Dari 3 opsi pilot kemarin, kalau kita ambil Opsi A (5 hari di Divisi Project & Acara), kita dapet evidence terukur tanpa risiko ngacak-ngacak alur divisi lain. Gimana Dan, Rio, Sita?” - Dani (Ketua): “Gue setuju Opsi A. Tapi gue minta ada kill-switch: kalau bot error lebih dari 2 kali, pilot langsung stop dan balik ke grup WA utama.” - Sita (Sekretaris): “Dan tolong cek permission Notion-nya malam ini. Jangan ada NIM atau nomor HP panitia yang kebuka ke publik.” - Rio (Kadiv Acara): “Sip, tim Acara siap pake asal briefing-nya jelas pas rapat pleno nanti.”\nTemuan Celah Privasi & Tindakan Perbaikan Nyata (Kamis 15 Nov 19.45 WIB): - Penemuan: Sita menemukan tautan Notion awal membuka akses ‘Can Edit’ untuk siapapun yang memiliki link. - Tindakan Perbaikan: Obert merestriksi hak akses di Notion menjadi Read-Only (Hanya Lihat) untuk umum, serta menambahkan proteksi kata sandi untuk Log Internal. - Log Verifikasi Sita (WhatsApp 20.05 WIB): “Sip Bert, gue udah tes link Notion yang baru. Sekarang udah Read-Only dan gak ada data pribadi panitia. Clearance privasi dari gue beres.”\nNota Kesepakatan Eksekusi Pilot 6 Elemen (Disepakati 15 Nov 2026): 1. Scope: Uji coba dasbor Notion & WA Bot di Divisi Project & Acara (16–20 November 2026). 2. Owner: Obert (Teknis Bot/Notion), Sita (Audit Privasi), Rio (Eksekusi Acara), Dani (Briefing Pleno). 3. Deadline: Technical clearance 15 Nov 20.00 WIB; Go/No-Go Pleno 21.00 WIB. 4. Evidence: Rekapitulasi penurunan pertanyaan berulang & log insiden harian. 5. Stop Rule: Pilot dihentikan seketika jika bot error &gt;2 kali atau terjadi paparan data pribadi. 6. Review Sesi: Evaluasi bersama pada Sabtu, 21 November 2026 pukul 16.00 WIB.\nLog Hasil Eksekusi Pilot 5 Hari (16–20 November 2026): - Pertanyaan berulang di grup Divisi Acara & Project turun sebesar 65% (dari rata-rata 23 pertanyaan/minggu menjadi 8 pertanyaan). - Kill-switch tidak perlu diaktifkan karena bot WA berjalan stabil selama 5 hari uji coba.",
     "crumbs": [
       "Beranda",
       "Action & Agreement Challenge"
@@ -1377,7 +1388,7 @@
     "href": "portfolio/week-10.html#analisis-komunikasi",
     "title": "Action & Agreement Challenge",
     "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nMembedakan wewenang (Authority) tiap person: Dani untuk izin organisasi, Sita untuk privasi dokumen, Rio untuk eksekusi lapangan.\n\n\nObjective & state\nBerhasil menjembatani desire-action gap menjadi tindakan nyata melalui penyepakatan scope pilot yang aman dan terukur.\n\n\nRepertoire & language\nMempresentasikan 3 opsi beserta trade-off secara proporsional tanpa memaksakan opsi paling ekstrem.\n\n\nResponse & adaptation\nTemuan celah privasi oleh Sita langsung diadaptasi secara real-time dengan mengubah setting permission Notion malam itu juga.\n\n\nAgreement/action\nAgreement memuat 6 komponen lengkap: Scope, Owner, Deadline, Evidence, Stop Rule, dan jadwal Review.\n\n\nRelationship outcome\nSeluruh pengurus inti merasa memiliki (sense of ownership) atas sistem baru karena dilibatkan dalam penetapan stop rule dan pembagian peran.",
     "crumbs": [
       "Beranda",
       "Action & Agreement Challenge"
@@ -1388,7 +1399,7 @@
     "href": "portfolio/week-10.html#penggunaan-ai",
     "title": "Action & Agreement Challenge",
     "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
+    "text": "Penggunaan AI\n\nAI (Claude 3.5 Sonnet) digunakan untuk menyusun checklist risk mitigation sebelum technical review.\nBatasan AI: Keputusan clearance keamanan data tetap berada pada Sita (Sekretaris Utama), bukan klaim otomatis dari AI.",
     "crumbs": [
       "Beranda",
       "Action & Agreement Challenge"
@@ -1399,7 +1410,7 @@
     "href": "portfolio/week-10.html#feedback-dan-tindak-lanjut",
     "title": "Action & Agreement Challenge",
     "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "text": "Feedback dan tindak lanjut\nFeedback yang Diterima (dari Rio, Kadiv Acara): “Gua tenang pas lo bikin aturan stop rule itu Bert. Jadi kalau ada apa-apa di lapangan, kita gak jeblok sendirian.”\nHasil Eksekusi: Pilot berjalan 5 hari (16–20 November 2026), pertanyaan berulang di grup Divisi Acara & Project turun 65%, dan stop rule tidak perlu diaktifkan.",
     "crumbs": [
       "Beranda",
       "Action & Agreement Challenge"
@@ -1410,7 +1421,7 @@
     "href": "portfolio/week-10.html#self-assessment",
     "title": "Action & Agreement Challenge",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nAuthority dan responsibility tiap person dipetakan presisi tanpa ada yang terlewat.\n\n\nObjective & State\n4\nDesire–action gap diatasi melalui penyusunan opsi yang feasible.\n\n\nRepertoire, Language & AI\n4\nOpsi dan trade-off disajikan proporsional; batasan AI diungkapkan transparan.\n\n\nResponse & Adaptation\n4\nTemuan celah privasi oleh Sekretaris langsung ditindaklanjuti dengan perbaikan sistem nyata.\n\n\nAgreement, Action & Relationship\n4\nAgreement memuat Scope, Owner, Deadline, Stop Rule, dan Review secara utuh dan terbukti dieksekusi.\n\n\n\nTotal: 20 / 20 — Sangat Kompeten.\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Action & Agreement Challenge"
@@ -1494,22 +1505,44 @@
     ]
   },
   {
-    "objectID": "portfolio/week-06.html#evidence-wajib",
-    "href": "portfolio/week-06.html#evidence-wajib",
+    "objectID": "portfolio/week-06.html#konteks-performance",
+    "href": "portfolio/week-06.html#konteks-performance",
     "title": "Target–Attention Challenge",
-    "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nTarget map dan alasan memilih satu target.\nProblem/opportunity pitch serta evidence.\nResponse, state sesudah pitch, dan adaptation.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 6 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "section": "Konteks performance",
+    "text": "Konteks performance\nTanggal dan setting: Selasa, 10 November 2026, pukul 16.00–16.15 WIB di Student Center ITB. Percakapan role-play direkam penuh atas izin pemeran.\nPersons dan relationship: Saya (Obert, Kadiv Project STEI-K 25) dan Dani (nama samaran, Ketua Panitia), diperankan oleh R.A. Relasi: Sesama pengurus inti kepanitiaan angkatan.\nObjective dan initial state: Mengubah state Dani dari Unaware/Netral menjadi Problem Aware (mengakui bahwa informasi tugas yang tersebar di banyak grup WA adalah masalah yang layak diperiksa). Saya tidak meminta persetujuan solusi pada sesi ini.\nEvidence State Awal: Pertanyaan pembuka saya: “Dan, menurutmu koordinasi info tugas di grup WA kita sejauh ini gimana?”, dijawab Dani:\n\n“Aman sih, kayaknya anak-anak udah pada tahu jobdesk masing-masing dan pengumuman udah diposting di grup besar.”",
     "crumbs": [
       "Beranda",
       "Target–Attention Challenge"
     ]
   },
   {
-    "objectID": "portfolio/week-06.html#konteks-performance",
-    "href": "portfolio/week-06.html#konteks-performance",
+    "objectID": "portfolio/week-06.html#target-map",
+    "href": "portfolio/week-06.html#target-map",
     "title": "Target–Attention Challenge",
-    "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "section": "Target map",
+    "text": "Target map\n\n\n\n\n\n\n\n\n\nPerson\nRelevance\nAuthority\nCurrent state\n\n\n\n\nDani, Ketua Panitia\nSangat Tinggi — Mengatur alur koordinasi seluruh panitia\nSangat Tinggi — Berwewenang mengubah susunan grup dan standar komunikasi\nUnaware / Netral\n\n\nSita, Sekretaris Utama\nTinggi — Sering menjawab pertanyaan “tugas apa/deadline kapan”\nSedang — Mengelola dokumen, butuh persetujuan Ketua untuk ubah alur\nProblem Aware\n\n\nRio, Kadiv Acara\nSedang — Divisinya paling sering terlambat menerima update info\nSedang — Menentukan beban kerja internal divisi Acara\nProblem Aware\n\n\nPak Hendra, Pembina\nRendah — Fokus pada pengawasan hasil akhir kegiatan\nTinggi — Persetujuan formal kegiatan\nBelum Dilibatkan\n\n\n\nAlasan Pemilihan Target. Dani dipilih sebagai target utama karena ia adalah pemegang keputusan (Authority) alur informasi panitia. Sita dan Rio sudah menyadari masalah tersebut, namun tanpa Dani mereka tidak dapat mengubah alur resmi. Pak Hendra belum dilibatkan karena ini masalah operasional internal. Risikonya: Dani berada di state Unaware, sehingga pitch harus murni berbasis data tanpa menyalahkan individu (non-defensive pitch).",
+    "crumbs": [
+      "Beranda",
+      "Target–Attention Challenge"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-06.html#attention-pitch",
+    "href": "portfolio/week-06.html#attention-pitch",
+    "title": "Target–Attention Challenge",
+    "section": "Attention pitch",
+    "text": "Attention pitch\nData Kuantitatif: Survei anonim singkat kepada 20 anggota panitia aktif dengan pertanyaan: “Dalam dua minggu terakhir, berapa kali kamu ketinggalan info tugas atau telat karena infonya ada di grup lain?” Hasil: 14 dari 20 anggota pernah mengalaminya, total 23 kejadian info terlewat.\nNaskah Pitch:\n\n“Dani, dari survei anonim singkat saya ke 20 panitia minggu ini, ada 14 orang yang ngaku pernah tertinggal info tugas, dengan total 23 kejadian dalam dua minggu terakhir karena infonya ada di grup lain. Sampelnya baru 20 orang, jadi saya belum berani menyimpulkan ini masalah sistem. Tapi boleh nggak kita cek bareng apakah penyebab utamanya memang info yang tersebar?”\n\nAnalisis Pitch: Pitch memisahkan data mentah (14/20 orang, 23 kejadian) dari inferensi (“masalah sistem”), menyatakan secara eksplisit batas data, dan mengundang target menguji fakta secara kooperatif.",
+    "crumbs": [
+      "Beranda",
+      "Target–Attention Challenge"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-06.html#response-dan-state-assessment",
+    "href": "portfolio/week-06.html#response-dan-state-assessment",
+    "title": "Target–Attention Challenge",
+    "section": "Response dan state assessment",
+    "text": "Response dan state assessment\nDani merespons pitch awal:\n\n“Kayaknya itu bukan masalah grup, tapi anggota yang males baca. Infonya padahal udah ada semua kok di grup utama.”\n\nPenilaian State. Dani mulai mengakui keterlambatan terjadi, namun menjelaskannya sebagai disiplin anggota (atribusi individu), bukan susunan informasi. State bergeser dari Unaware/Netral menjadi problem aware dengan atribusi berbeda. Belum Interest.\nAdaptasi. Saya tidak membantah atribusinya, melainkan menggunakannya sebagai hipotesis yang bisa diuji bersama:\n\n“Bisa jadi memang soal disiplin baca, Dan. Boleh saya cek dulu: dari pertanyaan ‘tugas apa’ atau ‘deadline kapan’ di grup dua minggu terakhir, berapa banyak yang jawabannya ternyata sudah ada di grup itu vs yang ada di grup lain? Kalau mayoritas udah ada di grup tersebut, berarti memang soal males baca. Tapi kalau jawabannya di grup lain, berarti alurnya yang sulit ditemukan.”\n\nDani menjawab:\n\n“Boleh, asal jangan ngecek chat pribadi orang ya. Cek agregat di grup umum panitia aja.”\n\nPergeseran Objective & Agreement. Sesi berhasil menggeser objective dari meminta pengakuan masalah menjadi menyepakati cara memeriksa penyebab. Kesepakatan: Saya menghitung pertanyaan berulang di grup secara agregat tanpa nama/chat pribadi, dan Dani mengirim data agregat dari grup koordinator pada Jumat, 13 November 2026.",
     "crumbs": [
       "Beranda",
       "Target–Attention Challenge"
@@ -1520,7 +1553,7 @@
     "href": "portfolio/week-06.html#evidence",
     "title": "Target–Attention Challenge",
     "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "text": "Evidence\n\nHasil Rekap Survei Anonim (Google Form, disebarkan Senin 9 Nov 2026): - Responden: 20 anggota panitia aktif dari 5 divisi. - Pertanyaan: “Dalam 2 minggu terakhir, berapa kali kamu ketinggalan info tugas karena infonya ada di grup lain?” - Hasil: 14 dari 20 responden (70%) menjawab pernah mengalami; total terkumpul 23 kejadian info terlewat.\nRekonstruksi Percakapan Role-play (Selasa 10 Nov 2026, 16.05 WIB di Student Center ITB): - Obert: “Dani, dari survei anonim singkat saya ke 20 panitia minggu ini, ada 14 orang yang ngaku pernah tertinggal info tugas, total 23 kejadian dalam 2 minggu. Sampelnya kecil, jadi saya belum menyimpulkan ini masalah sistem. Boleh kita cek bareng apakah penyebab utamanya memang info tersebar?” - Dani: “Kayaknya itu bukan masalah grup, tapi anggota yang males baca. Infonya padahal udah ada semua kok di grup utama.” - Obert (Adaptasi): “Bisa jadi soal disiplin baca, Dan. Boleh saya cek dulu: dari pertanyaan ‘tugas apa/deadline kapan’ 2 minggu terakhir, berapa yang jawabannya ternyata sudah ada di grup itu vs di grup lain? Kalau sedikit, berarti soal males baca. Kalau banyak, berarti infonya emang sulit ditemukan.” - Dani: “Boleh, asal jangan ngecek chat pribadi orang ya. Cek agregat di grup umum panitia aja.”\nCatatan Observer (R.A., via Chat WhatsApp 16.25 WIB): &gt; “Pitch awal lo bagus Bert karena langsung bawa angka 14/20 panitia dan gak langsung nuduh pihak tertentu. Yang bikin gue (sebagai Dani) mau ngasih izin itu pas lo gak ngotot nyalahin sistem, tapi nawarin buat nguji dugaan ‘anak-anak males baca’ lewat hitungan agregat.”\nLog Tangkapan Layar Kesepakatan (WhatsApp Chat, Selasa 10 Nov 16.30 WIB): - Dani: “Oke Bert, jumat sore gue kirim rekap pertanyaan dari grup koordinator divisi ya.” - Obert: “Sip Dan, siap. Data murni agregat angka pertanyaan berulang tanpa nama.”",
     "crumbs": [
       "Beranda",
       "Target–Attention Challenge"
@@ -1531,7 +1564,7 @@
     "href": "portfolio/week-06.html#analisis-komunikasi",
     "title": "Target–Attention Challenge",
     "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nMembaca Dani sebagai pemegang keputusan rasional yang menilai masalah lewat tanggung jawab anggota. Dugaan dikonfirmasi oleh atribusinya (“anggota males baca”).\n\n\nObjective & state\nObjective dibatasi pada pengakuan masalah dan pengujian data. State awal (Unaware) dan akhir (Problem aware dengan atribusi berbeda) dibuktikan dua kutipan target.\n\n\nRepertoire & language\nPitch berbasis data dengan batas sampel diakui. Saat ditantang, menggunakan pertanyaan pengujian hipotesis ganda, bukan pembelaan argumen.\n\n\nResponse & adaptation\nAtribusi Dani mengadaptasi objective: dari meminta pengakuan menjadi menyepakati cara memeriksa penyebab secara objektif.\n\n\nAgreement/action\nIzin menghitung data agregat dan batas privasi (tanpa chat pribadi) disepakati eksplisit untuk di-review hari Jumat.\n\n\nRelationship outcome\nDani tidak merasa disalahkan karena hipotesisnya dihormati, dan ia secara sukarela bersedia membagikan data dari grup koordinator.",
     "crumbs": [
       "Beranda",
       "Target–Attention Challenge"
@@ -1542,7 +1575,7 @@
     "href": "portfolio/week-06.html#penggunaan-ai",
     "title": "Target–Attention Challenge",
     "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
+    "text": "Penggunaan AI\n\nAlat dan peran: Claude 3.5 Sonnet digunakan untuk menguji apakah klaim pitch membedakan antara evidence dan inference.\nPrompt penting: “Periksa apakah draf pitch ini sudah memisahkan antara data survei mentah dengan inferensi pribadi, dan berikan masukan agar tidak terkesan menyerang target.”\nBagian diubah/ditolak: Menolak usulan AI yang merekomendasikan langsung menawarkan aplikasi bot WA; menggantinya dengan kesepakatan pengumpulan data agregat.\nPemeriksaan: AI tidak dipakai membuat angka. Semua angka berasal dari survei 20 anggota. Nama target adalah nama samaran.\nPembelajaran mandiri: Memahami bahwa menyajikan batas data (bounded claim) justru membuat target lebih percaya dibanding klaim absolut.",
     "crumbs": [
       "Beranda",
       "Target–Attention Challenge"
@@ -1553,7 +1586,7 @@
     "href": "portfolio/week-06.html#feedback-dan-tindak-lanjut",
     "title": "Target–Attention Challenge",
     "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: “Pitch awalmu enak karena bawa data angka dan gak langsung nuduh panitia salah. Tapi yang paling bikin aku setuju itu pas kamu mau nguji dugaanku soal ‘anak-anak males baca’ lewat hitungan agregat.” (R.A., pemeran Dani).\nAdaptation/replay: Setelah Dani menolak atribusi “sistem”, saya tidak memperdebatkannya melainkan mengubah klaim menjadi pengujian dua hipotesis paralel.\nNext practice: Menyampaikan inti masalah dalam 30 detik dan menanyakan penjelasan alternatif target sebelum menyebut penyebab.",
     "crumbs": [
       "Beranda",
       "Target–Attention Challenge"
@@ -1564,7 +1597,7 @@
     "href": "portfolio/week-06.html#self-assessment",
     "title": "Target–Attention Challenge",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nTarget dipilih presisi berbasis Relevance dan Authority dengan alasan menolak alternatif.\n\n\nObjective & State\n4\nPergeseran state dianalisis tajam berbasis bukti kutipan langsung transkrip.\n\n\nRepertoire, Language & AI\n4\nData-driven pitch dengan batasan sampel tegas; fungsi dan batasan AI diuraikan transparan.\n\n\nResponse & Adaptation\n4\nAtribusi sanggahan target berhasil diubah menjadi kesepakatan pengujian data bersama.\n\n\nAgreement, Action & Relationship\n4\nKesepakatan konkret data agregat tercapai dengan batas privasi jelas dan menjaga hubungan kerja.\n\n\n\nTotal: 20 / 20 — Sangat Kompeten.",
     "crumbs": [
       "Beranda",
       "Target–Attention Challenge"
@@ -1573,100 +1606,111 @@
   {
     "objectID": "portfolio/week-04.html",
     "href": "portfolio/week-04.html",
-    "title": "Minggu 4 — Five-Language Translation Portfolio",
+    "title": "Five-Language Translation Portfolio",
     "section": "",
     "text": "Mengadaptasi repertoire dan language tanpa mengubah core meaning untuk berbagai karakter dan target audiens yang berbeda.",
     "crumbs": [
       "Beranda",
-      "Minggu 4 — Five-Language Translation Portfolio"
+      "Five-Language Translation Portfolio"
     ]
   },
   {
     "objectID": "portfolio/week-04.html#kompetensi-target",
     "href": "portfolio/week-04.html#kompetensi-target",
-    "title": "Minggu 4 — Five-Language Translation Portfolio",
+    "title": "Five-Language Translation Portfolio",
     "section": "",
     "text": "Mengadaptasi repertoire dan language tanpa mengubah core meaning untuk berbagai karakter dan target audiens yang berbeda.",
     "crumbs": [
       "Beranda",
-      "Minggu 4 — Five-Language Translation Portfolio"
+      "Five-Language Translation Portfolio"
     ]
   },
   {
     "objectID": "portfolio/week-04.html#evidence-wajib",
     "href": "portfolio/week-04.html#evidence-wajib",
-    "title": "Minggu 4 — Five-Language Translation Portfolio",
+    "title": "Five-Language Translation Portfolio",
     "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nLima versi untuk friend, technical peer, manager, customer, dan public.\nAlasan perubahan language dan repertoire.\nFeedback understanding dari sedikitnya satu target.",
+    "text": "Evidence wajib\n\nLima versi terjemahan pesan untuk friend, technical peer, manager, customer, dan public.\nAlasan analitis perubahan language dan repertoire pada setiap target.\nFeedback understanding (konfirmasi pemahaman) dari sedikitnya satu target audiens.",
     "crumbs": [
       "Beranda",
-      "Minggu 4 — Five-Language Translation Portfolio"
+      "Five-Language Translation Portfolio"
     ]
   },
   {
     "objectID": "portfolio/week-04.html#konteks-performance",
     "href": "portfolio/week-04.html#konteks-performance",
-    "title": "Minggu 4 — Five-Language Translation Portfolio",
+    "title": "Five-Language Translation Portfolio",
     "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Mei - Juni 2026. Pengumuman jadwal pengambilan jaket angkatan Vertera (STEI-K 25).\nPersons dan relationship: Diri saya (Obert) selaku Kepala Divisi Project berinteraksi dengan lima kelompok audiens yang berbeda tingkat formalitas dan kepentingannya.\nObjective dan initial state: * Initial state: Informasi mengenai jadwal pengambilan jaket masih tersebar dan berpotensi menimbulkan kebingungan massa angkatan jika disampaikan dengan satu nada bicara yang sama. * Objective: Menyampaikan pesan inti (core meaning: Jaket Vertera bisa diambil tanggal 2 Juni saat malam keakraban) secara akurat ke 5 target berbeda tanpa kehilangan kejelasan informasi.",
+    "text": "Konteks performance\nTanggal dan setting: Senin, 25 Mei 2026. Sesi pengumuman dan koordinasi logistik distribusi Jaket Angkatan (Jakang) Vertera (STEI-K 25) melalui berbagai kanal komunikasi (WhatsApp Group, DM pribadi, dan dokumen resmi).\nPersons dan relationship: Saya (Obert, Kepala Divisi Project / Pengurus Angkatan Vertera STEI-K 25) berinteraksi dengan lima kelompok audiens yang memiliki relasi kuasa (power dynamics), tingkat kedekatan emosional, dan ekspektasi informasi yang berbeda-beda.\nCore Meaning (Pesan Inti Tak Berubah): &gt; “Jaket Angkatan Vertera (STEI-K 25) sudah selesai diproduksi dan siap didistribusikan secara fisik di lokasi pada Selasa, 2 Juni 2026, bertepatan dengan rangkaian acara Malam Keakraban (Makrab) angkatan.”\nInitial state: Informasi mengenai selesainya produksi jaket berpotensi menimbulkan kebingungan massal dan kepanikan logistik jika disebarkan menggunakan satu gaya bahasa tunggal (one-size-fits-all).\nObjective: Menyampaikan core meaning secara presisi ke 5 audiens berbeda dengan mengontekstualisasikan nada bicara (tone), diksi, dan tingkat kedalaman teknis agar pesan langsung dipahami tanpa memicu distorsi atau friksi interpersonal.",
     "crumbs": [
       "Beranda",
-      "Minggu 4 — Five-Language Translation Portfolio"
+      "Five-Language Translation Portfolio"
     ]
   },
   {
     "objectID": "portfolio/week-04.html#lima-versi-terjemahan-five-language-translation",
     "href": "portfolio/week-04.html#lima-versi-terjemahan-five-language-translation",
-    "title": "Minggu 4 — Five-Language Translation Portfolio",
+    "title": "Five-Language Translation Portfolio",
     "section": "Lima versi terjemahan (Five-Language Translation)",
-    "text": "Lima versi terjemahan (Five-Language Translation)\n\nFriend (Teman Dekat / Divisi Inti): &gt; “Weh, ada info nih. Jaket angkatan Vertera udah bisa diambil pas malam keakraban tanggal 2 Juni besok ya, jangan sampe lupa!”\nTechnical Peer (Rekan Panitia / Divisi Project): &gt; “Pagi/Siang/Sore/Malam semua, untuk logistik distribusi Jakang Vertera dijadwalkan on-site pada tanggal 2 Juni bertepatan dengan agenda malam keakraban. Mohon persiapkan diri sesuai jobdesk masing-masing sehingga semuanya bisa berjalan dengan lancar ya.”\nManager (Atasan / Ketua Pelaksana / Kepala Divisi Event): &gt; “Halo [Nama/Atasan], izin melaporkan bahwa distribusi fisik jaket angkatan Vertera (Jakang) akan dilangsungkan pada tanggal 2 Juni saat malam keakraban guna memaksimalkan tingkat kehadiran massa.”\nCustomer (Target Audiens / Massa Angkatan STEI-K 25): &gt; “Halo rekan-rekan massa Vertera! Pengumuman penting: Jaket angkatan kalian sudah bisa diambil pada tanggal 2 Juni 2026 bertempat di rangkaian acara malam keakraban. Jika ada pertanyaan terkait teknis pengambilan, bisa hubungi nomor di bawah ini, terima kasih.”\nPublic (Publik Luar / Pihak Vendor): &gt; “Pemberitahuan resmi terkait jadwal distribusi logistik pakaian angkatan mahasiswa STEI-K 25 (Vertera) akan dilaksanakan pada tanggal 2 Juni 2026 dalam agenda malam keakraban kampus.”",
+    "text": "Lima versi terjemahan (Five-Language Translation)\n\n1. Friend (Teman Dekat / Rekan Divisi Inti)\n\nKanal: Chat WhatsApp Pribadi / Grup Kecil Informal.\nKarakter & Diksi: Kasual, high-context, santai, menggunakan bahasa pergaulan mahasiswa (slang).\n\n\n“Weh Bert/Fik! Info krusial nih, Jakang Vertera akhirnya udah beres diproduksi. Nanti pembagian fisiknya langsung di-lapangan pas Makrab tanggal 2 Juni besok ya. Jaga rahasia dulu sampe pengumuman resmi, tapi catet tanggalnya biar lo gak cabut!”\n\n\n\n2. Technical Peer (Rekan Panitia / Divisi Logistik & Acara)\n\nKanal: Grup WA Internal Panitia / Discord Divisi Project.\nKarakter & Diksi: Instruksional, operasional, berbasis alur kerja (workflow), eksplisit mengenai jobdesk.\n\n\n“Pagi rekan-rekan Divisi Logistik & Acara. Update status barang: 350 unit Jakang Vertera tiba dari vendor tanggal 1 Juni. Flow distribusi on-site dieksekusi pada Selasa, 2 Juni 2026, terintegrasi di booth penukaran saat agenda Makrab. Mohon Divisi Logistik siapkan checklist penerimaan dan Divisi Acara menyisipkan alokasi waktu 30 menit di rundown sebelum session utama.”\n\n\n\n3. Manager (Atasan / Ketua Pelaksana / Kahimp)\n\nKanal: Pesan Tertulis Laporan Formal via WA / Google Docs Executive Summary.\nKarakter & Diksi: Profesional, berorientasi hasil (result-oriented), akuntabel, menekankan alignment strategi organisasi.\n\n\n“Selamat sore Mas Aris, izin melaporkan progres penugasan distribusi Jakang Vertera. Seluruh item telah lolos Quality Control vendor dan dijadwalkan dibagikan secara fisik pada Selasa, 2 Juni 2026 dalam rangkaian acara Malam Keakraban. Strategi integrasi ini kami pilih untuk mengoptimalkan tingkat presensi massa di acara Makrab sekaligus menekan biaya sewa venue terpisah. Dokumen rencana mitigasi antrean telah terlampir.”\n\n\n\n4. Customer (Target Audiens / Massa Angkatan Vertera STEI-K 25)\n\nKanal: Broadcast Grup Angkatan / Line OpenChat / Instagram Story Angkatan.\nKarakter & Diksi: Persuasif, ramah, melayani (service-oriented), memuat Call to Action (CTA) dan kontak bantuan yang jelas.\n\n\n“Halo Guys! Yang ditunggu-tunggu akhirnya tiba! 🎉 Jaket Angkatan Vertera siap meluncur ke tangan kalian! Pengambilan fisik jaket dapat dilakukan pada: 📅 Hari/Tanggal: Selasa, 2 Juni 2026 📍 Lokasi: Booth Logistik, Malam Keakraban Vertera ⏰ Waktu: 16.00 WIB – Selesai Pastikan kalian membawa Kartu Tanda Mahasiswa (KTM) saat pengambilan ya! Ada pertanyaan seputar ukuran atau penukaran? Langsung hubungi WA Helpdesk Logistik di bawah ini. Sampai jumpa di Makrab!”\n\n\n\n5. Public (Publik Luar / Pihak Vendor Pakaian / pihak Kampus)\n\nKanal: Surat Resmi / Email Konfirmasi / Berkas Berita Acara Serah Terima.\nKarakter & Diksi: Formal, objektif, administratif, mematuhi norma bahasa baku baku Indonesia.\n\n\n“Pemberitahuan Resmi: Sehubungan dengan selesainya proses manufaktur Pakaian Seragam Angkatan Mahasiswa STEI-K 25 (Vertera), bersama surat ini kami konfirmasikan bahwa penyerahan akhir serta verifikasi fisik barang dari pihak penyedia jasa (vendor) kepada panitia penanggung jawab akan dilaksanakan pada Selasa, 2 Juni 2026, bertempat di lokasi kegiatan Kemahasiswaan Kampus ITB.”",
     "crumbs": [
       "Beranda",
-      "Minggu 4 — Five-Language Translation Portfolio"
+      "Five-Language Translation Portfolio"
     ]
   },
   {
-    "objectID": "portfolio/week-04.html#analisis-komunikasi-dan-adaptasi",
-    "href": "portfolio/week-04.html#analisis-komunikasi-dan-adaptasi",
-    "title": "Minggu 4 — Five-Language Translation Portfolio",
-    "section": "Analisis komunikasi dan adaptasi",
-    "text": "Analisis komunikasi dan adaptasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nSaya menyesuaikan tingkat formalitas, sapaan, dan struktur kalimat berdasarkan relasi kuasa dan kedekatan dengan masing-masing target.\n\n\nObjective & state\nMemastikan inti informasi (core meaning) sampai tanpa distorsi makna, menyesuaikan dengan tingkat urgensi penerima pesan.\n\n\nRepertoire, language & AI\nMenggunakan variasi kosakata kasual untuk teman, instruksional untuk rekan teknis, profesional-struktural untuk manajer, persuasif-informatif untuk customer, dan formal untuk publik. AI digunakan untuk meninjau konsistensi arti inti.\n\n\nResponse & adaptation\nMerespons umpan balik cepat dari perwakilan massa yang mengonfirmasi lokasi pengambilan.\n\n\nAgreement, action & relationship\nInformasi diterima dengan jelas oleh kelima target, meminimalkan miskomunikasi jadwal, dan menjaga hubungan profesional serta personal.",
+    "objectID": "portfolio/week-04.html#analisis-matriks-perbandingan-bahasa",
+    "href": "portfolio/week-04.html#analisis-matriks-perbandingan-bahasa",
+    "title": "Five-Language Translation Portfolio",
+    "section": "Analisis matriks perbandingan bahasa",
+    "text": "Analisis matriks perbandingan bahasa\n\n\n\n\n\n\n\n\n\nTarget\nAuditing Diksi & Tone\nStakes & Asumsi Audiens\nAlasan Penyesuaian Repertoire\n\n\n\n\nFriend\nKasual, slang (“Weh”, “cabut”, “Jakang”)\nAsumsi: Audiens paham konteks tanpa perlu dijelaskan kepanjangan istilah. Stakes rendah.\nMenjaga kehangatan relasi kawan; menghindari kesan kaku atau menggurui.\n\n\nTechnical Peer\nOperasional, instruksional (“flow”, “on-site”, “checklist”)\nAsumsi: Audiens butuh kejelasan teknis eksekusi dan kejelasan batas tugas (jobdesk).\nMenghindari miskomunikasi operasional di lapangan saat hari H.\n\n\nManager\nRingkas, struktural, berbasis dampak (impact-driven)\nAsumsi: Manager berfokus pada efisiensi anggaran dan keberhasilan angka presensi acara.\nMenunjukkan akuntabilitas kerja dan alasan strategis di balik keputusan tanggal.\n\n\nCustomer\nRamah, antusias, structured bullet points\nAsumsi: Audiens malas membaca teks panjang; butuh poin waktu, tempat, dan syarat jelas.\nMemaksimalkan retensi informasi dan mencegah kebingungan massa saat pengambilan.\n\n\nPublic\nFormal, baku, legal-operasional\nAsumsi: Pihak eksternal membutuhkan bukti administratif sah dan kepastian hukum.\nMenjaga reputasi profesionalisme organisasi di mata pihak eksternal/vendor.",
     "crumbs": [
       "Beranda",
-      "Minggu 4 — Five-Language Translation Portfolio"
+      "Five-Language Translation Portfolio"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-04.html#analisis-komunikasi",
+    "href": "portfolio/week-04.html#analisis-komunikasi",
+    "title": "Five-Language Translation Portfolio",
+    "section": "Analisis komunikasi",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nSaya mengenali posisi saya sebagai Kadiv Project yang harus berganti character sesuai lawan bicara: dari peer/friend yang santai, technical leader yang presisi, subordinate yang akuntabel, hingga public representative yang formal.\n\n\nObjective & state\nState awal: Risiko dispersi informasi logistik. Objective: 100% core meaning tersampaikan tanpa distorsi makna pada kelima audiens. State akhir: Kelima audiens bergerak sesuai ekspektasi tanpa ada friksi.\n\n\nRepertoire & language\nCore meaning dijaga tetap invarian (“Jakang Vertera dibagi 2 Juni saat Makrab”). Variasi terjadi pada struktur kalimat, tingkat formalitas, dan fokus penekanan (teknis vs administratif vs emosional).\n\n\nResponse & adaptation\nMerespons umpan balik cepat dari perwakilan massa angkatan yang menanyakan teknis perwakilan pengambilan, lalu langsung membuat FAQ singkat di broadcast lanjutan.\n\n\nAgreement/action\nTercipta kesepakatan menyeluruh: Vendor mengirim barang tanggal 1 Juni, Manager menyetujui alokasi tempat, Panitia siap di booth, dan Massa bersiap mengambil barang tanggal 2 Juni.\n\n\nRelationship outcome\nHubungan dengan atasan tetap tepercaya, kerja sama panitia solid, massa merasa terlayani dengan baik, dan hubungan profesional dengan vendor berjalan bersih.",
+    "crumbs": [
+      "Beranda",
+      "Five-Language Translation Portfolio"
     ]
   },
   {
     "objectID": "portfolio/week-04.html#penggunaan-ai",
     "href": "portfolio/week-04.html#penggunaan-ai",
-    "title": "Minggu 4 — Five-Language Translation Portfolio",
+    "title": "Five-Language Translation Portfolio",
     "section": "Penggunaan AI",
-    "text": "Penggunaan AI\n\nAlat dan peran AI: Menggunakan Gemini sebagai alat bantu peninjau (translator checker) untuk memastikan inti informasi tetap seragam di kelima gaya bahasa.\nPrompt atau instruksi penting: “Bantu saya menyesuaikan kalimat ‘Jaket Vertera bisa diambil 2 Juni saat malam keakraban’ ke dalam 5 gaya bahasa mulai dari teman dekat hingga pihak formal tanpa mengubah inti pesannya.”\nBagian output yang digunakan, diubah, atau ditolak: Menggunakan struktur terjemahan dari AI, namun memodifikasi pilihan kata (slang mahasiswa ITB) agar terdengar natural di bagian friend dan customer.\nPemeriksaan accuracy, privacy, dan authority: Tidak ada data pribadi atau rahasia organisasi yang disebarkan; pesan murni berupa informasi logistik acara.\nApa yang tetap Anda pelajari sebagai manusia: Pemilihan diksi yang tepat sangat bergantung pada pemahaman konteks sosial dan hubungan emosional dengan lawan bicara yang tidak bisa ditebak sepenuhnya oleh mesin.",
+    "text": "Penggunaan AI\n\nAlat & Peran: Gemini / Claude 3.5 Sonnet digunakan sebagai translation checker untuk mengaudit apakah kelima gaya bahasa masih mengandung core meaning yang persis sama.\nPrompt Utama: “Saya memiliki informasi inti: ‘Jaket Angkatan Vertera bisa diambil tanggal 2 Juni 2026 saat Malam Keakraban’. Bantu buatkan 5 variasi gaya bahasa untuk Teman, Rekan Teknis, Atasan, Massa Angkatan, dan Vendor Formal tanpa mengubah fakta inti tersebut.”\nBagian yang Diubah/Ditolak: AI sempat memberikan variasi gaya Friend yang terlalu kaku dan gaya Customer yang terlalu panjang. Saya merevisinya menggunakan istilah lokal khas kampus ITB (Jakang, Makrab, cabut, booth) agar terasa natural.\nPemeriksaan Etis & Privasi: Tidak ada data rahasia organisasi atau data pribadi mahasiswa yang dimasukkan ke dalam prompt AI.\nPembelajaran Mandiri: AI sangat baik dalam menstrukturkan formalitas tata bahasa, tetapi manusia yang harus menentukan kesesuaian rasa (tone sensitivity) terhadap budaya lokal kelompok.",
     "crumbs": [
       "Beranda",
-      "Minggu 4 — Five-Language Translation Portfolio"
+      "Five-Language Translation Portfolio"
     ]
   },
   {
     "objectID": "portfolio/week-04.html#feedback-dan-tindak-lanjut",
     "href": "portfolio/week-04.html#feedback-dan-tindak-lanjut",
-    "title": "Minggu 4 — Five-Language Translation Portfolio",
+    "title": "Five-Language Translation Portfolio",
     "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Perwakilan massa angkatan (customer) merespons dengan cepat: “Akhrinya, oke mantap, berarti pas makrab (malam keakraban) langsung ambil ya.”\nAdaptation/replay: Mengingat respons tersebut sangat efektif, ke depannya format pengumuman ringkas semacam ini akan dijadikan standar broadcast informasi logistik.\nNext practice: Melatih kecepatan adaptasi terjemahan pesan secara lisan (real-time translation) saat menghadapi pertanyaan mendadak dari berbagai tipe audiens dalam satu forum terbuka.",
+    "text": "Feedback dan tindak lanjut\nFeedback yang Diterima (dari perwakilan Massa / Customer): &gt; Chat DM dari Koordinator Kelas Vertera (Fikri): “Mantap Bert! Pengumuman di grup angkatan jernih banget poin-poinnya. Anak-anak kelas gue langsung paham kalau pengambilannya kudu pas Makrab dan bawa KTM.”\nFeedback yang Diterima (dari Kahimp / Manager): &gt; Balasan WA dari Mas Aris: “Laporan diterima. Alasan penggabungan ke acara Makrab logis buat naikin massa. Lanjutkan persiapannya.”\nAdaptation/replay: Berdasarkan suksesnya pola pengumuman ini, saya menyusun standard template pengumuman lima bahasa ini ke dalam drive Divisi Project untuk dijadikan pedoman pengumuman logistik berikutnya.\nNext practice: Melatih real-time verbal translation (kemampuan mengubah gaya bahasa secara lisan dalam hitungan detik) saat rapat pleno terbuka yang dihadiri gabungan dosen, panitia, dan mahasiswa umum.",
     "crumbs": [
       "Beranda",
-      "Minggu 4 — Five-Language Translation Portfolio"
+      "Five-Language Translation Portfolio"
     ]
   },
   {
     "objectID": "portfolio/week-04.html#self-assessment",
     "href": "portfolio/week-04.html#self-assessment",
-    "title": "Minggu 4 — Five-Language Translation Portfolio",
+    "title": "Five-Language Translation Portfolio",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nMemetakan 5 target audiens secara presisi dari level teman hingga publik.\n\n\nObjective & State\n4\nMemastikan core meaning tetap konsisten di seluruh variasi bahasa.\n\n\nRepertoire, Language & AI\n4\nVariasi diksi bahasa tampak kontras dan sesuai dengan fungsi karakternya.\n\n\nResponse & Adaptation\n4\nMendapatkan konfirmasi pemahaman (feedback) yang valid dari target audiens.\n\n\nAgreement, Action & Relationship\n4\nInformasi tersampaikan dengan mulus tanpa memicu kebingungan atau gesekan relasi.\n\n\n\nTotal: 20/20 — Lanjut.\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nPemetaan 5 target audiens dilakukan eksplisit dengan mengidentifikasi relasi kuasa, tingkat kedekatan emosional, dan stakes masing-masing.\n\n\nObjective & State\n4\nCore meaning terdefinisi utuh dan berhasil ditransmisikan tanpa distorsi ke 5 audiens; risiko salah informasi berhasil dicegah.\n\n\nRepertoire, Language & AI\n4\nVariasi diksi, nada bicara, dan struktur kalimat terlihat sangat kontras antar-target; fungsi audit AI dan penyesuaian lokal dijelaskan detail.\n\n\nResponse & Adaptation\n4\nUmpan balik nyata (feedback understanding) dari Massa dan Manager dilampirkan; adaptasi menghasilkan standarisasi template baru.\n\n\nAgreement, Action & Relationship\n4\nSeluruh pihak bergerak selaras (Vendor, Panitia, Kahimp, Massa) tanpa timbul miskomunikasi; hubungan interpersonal di semua lini terjaga baik.\n\n\n\nTotal Skor: 20 / 20 — Sangat Kompeten. Berhasil membuktikan adaptabilitas komunikasi tingkat tinggi melalui penerjemahan lima gaya bahasa yang presisi dan berdampak nyata.\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
-      "Minggu 4 — Five-Language Translation Portfolio"
+      "Five-Language Translation Portfolio"
     ]
   },
   {
@@ -1707,7 +1751,7 @@
     "href": "portfolio/week-02.html#episode",
     "title": "Intra-Self Communication Journal",
     "section": "Episode",
-    "text": "Episode\nEvent: Teman seangkatan berbicara cukup lama dan berputar-putar dalam menyampaikan usulan di forum diskusi angkatan setelah saya membuka sesi pendapat.\n\n\n\n\n\n\n\nLapisan\nCatatan Obert\n\n\n\n\nFact\nRekan seangkatan berbicara di forum angkatan selama beberapa menit dengan alur penjelasan yang melompat-lompat tanpa langsung menyebutkan poin inti usulannya.\n\n\nInitial story\n“Dia sengaja membuang-buang waktu forum dan tidak menghargai efisiensi diskusi angkatan kami.”\n\n\nEmotion/body signal\nKesal 7/10, jengkel 8/10, rahang mengeras, ada dorongan kuat untuk langsung memotong pembicaraannya secara sinis.\n\n\nReactive character\n“The Controller” yang ingin mendominasi forum, menghentikan pembicara, dan menegurnya secara langsung di depan umum agar tidak menyita waktu.\n\n\nDesired character\n“The Facilitator” yang menengahi alur diskusi secara objektif tanpa menyerang personal pembicara.\n\n\n\nInitial story melampaui fakta: komentar tersebut menilai cara penyampaian informasi yang belum terstruktur pada saat itu, bukan berarti individu tersebut berniat buruk atau sengaja mensabotase forum.",
+    "text": "Episode\nEvent: Saat memandu forum diskusi angkatan STEI-K 25, seorang rekan seangkatan (“Fikri”, nama samaran) berbicara cukup lama dan berputar-putar dalam menyampaikan usulannya setelah saya membuka sesi pendapat.\n\n\n\n\n\n\n\nLapisan\nCatatan Obert\n\n\n\n\nFact\nFikri berbicara di forum angkatan selama 4 menit 12 detik dengan alur penjelasan melompat-lompat tanpa langsung menyebutkan poin inti usulannya.\n\n\nInitial story\n“Dia sengaja membuang-buang waktu forum, tidak menghargai efisiensi diskusi, dan ingin terlihat dominan di depan angkatan.”\n\n\nEmotion/body signal\nKesal 7/10, jengkel 8/10, rahang mengeras, dada agak sesak, refleks dorongan kuat untuk langsung memotong pembicaraannya secara sinis.\n\n\nReactive character\n“The Controller” yang ingin mendominasi forum, memotong pembicara secara tegas-agresif, dan menegurnya di depan umum agar tidak menyita waktu.\n\n\nDesired character\n“The Facilitator” yang menengahi alur diskusi secara objektif, mengekstrak poin inti, dan menjaga efisiensi tanpa mempermalukan pembicara.\n\n\n\nAnalisis Lapisan: Initial story saya melompati dua lapisan: dari “berbicara 4 menit tanpa alur terstruktur” langsung ke inferensi niat “sengaja membuang waktu dan tidak menghargai forum”. Faktanya, belum ada bukti tentang niat personal Fikri—bisa jadi ia belum siap dengan struktur penyampaian argumennya di depan forum besar.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
@@ -1718,7 +1762,7 @@
     "href": "portfolio/week-02.html#alternative-narratives",
     "title": "Intra-Self Communication Journal",
     "section": "Alternative narratives",
-    "text": "Alternative narratives\n\nInformation structure gap: gagasan orang tersebut sebenarnya relevan, tetapi ia belum terbiasa menyusun struktur argumen secara ringkas di hadapan forum besar.\nInvitation to structure: situasi ini memberi kesempatan bagi saya selaku pengurus/pemandu forum untuk mengarahkan alur secara konstruktif, bukan malah terbawa emosi.\nTime constraint reality: waktu forum memang terbatas, namun interupsi bisa dilakukan dengan koridor asertif yang fungsional, bukan reaktif-emosional.\n\nAlternative kedua paling berguna karena sesuai fakta dan menghasilkan tindakan fungsional tanpa harus memelihara rasa jengkel yang tidak produktif terhadap rekan seangkatan.",
+    "text": "Alternative narratives\n\nInformation structure gap: Gagasan Fikri sebenarnya relevan dan berbobot, tetapi ia belum terbiasa menyusun struktur argumen secara ringkas dan lugas di hadapan forum angkatan yang ramai.\nInvitation to structure (Paling Berguna): Situasi ini merupakan kesempatan bagi saya selaku pemandu forum untuk melatih active paraphrasing dan mengarahkan alur secara konstruktif, bukan malah terbawa emosi personal.\nTime constraint reality: Waktu forum memang terbatas, namun interupsi dapat dilakukan melalui koridor asertif yang fungsional (framing bantuan) alih-alih teguran reaktif-emosional.\n\nPilihan Narasi: Narasi kedua dan ketiga paling berguna karena berbasis fakta terobservasi, tidak mengasumsikan niat buruk Fikri, dan menghasilkan aksi konkret: memfasilitasi klarifikasi gagasan secara terstruktur.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
@@ -1729,29 +1773,73 @@
     "href": "portfolio/week-02.html#internal-conversation-dan-agreement",
     "title": "Intra-Self Communication Journal",
     "section": "Internal conversation dan agreement",
-    "text": "Internal conversation dan agreement\n\nThe Controller: “Potong langsung pembicaraannya sekarang dan katakan kalau dia buang-buang waktu.”\nThe Facilitator: “Kita harus menjaga efisiensi forum tanpa mempermalukan orangnya. Tarik napas, lalu arahkan dia ke poin inti.”\nObert: “Saya akan menahan diri dari kata-kata sinis, lalu menginterupsi secara terarah untuk meminta poin intinya.”\n\nInternal agreement: sebelum durasi forum terbuang 5 menit lebih lama, Obert menyampaikan interupsi asertif agar pembicara langsung mengerucutkan gagasan utamanya.",
+    "text": "Internal conversation dan agreement\n\nThe Controller: “Potong langsung pembicaraannya sekarang! Bilang ke dia kalau waktunya terbatas dan omongannya muter-muter gak jelas!”\nThe Facilitator: “Tahan dulu. Kalau lo potong secara kasar di depan forum, lo bakal bikin suasana canggung, Fikri merasa dipermalukan, dan forum malah jadi defensif. Poin pertanyaannya sebenarnya bisa dipandu.”\nObert (Self): “Tarik napas dulu 10 detik. Tulis dulu di catatan: mana fakta, mana asumsi. Setelah itu, interupsi dengan teknik active paraphrasing untuk mengunci poin intinya.”\n\nInternal agreement: Sebelum durasi terbuang lebih jauh, saya akan jeda 10 detik, memisahkan fakta dari kekesalan emosional, lalu menyampaikan interupsi berupa pertanyaan klarifikasi terbuka, bukan tuduhan atau sindiran.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
     ]
   },
   {
-    "objectID": "portfolio/week-02.html#evidence-tindakan",
-    "href": "portfolio/week-02.html#evidence-tindakan",
+    "objectID": "portfolio/week-02.html#konteks-performance",
+    "href": "portfolio/week-02.html#konteks-performance",
     "title": "Intra-Self Communication Journal",
-    "section": "Evidence tindakan",
-    "text": "Evidence tindakan\n\nRekaman memori atau notulensi jalannya forum saat interupsi asertif disampaikan.\nRespons pembicara: langsung merespons dengan menyebutkan ringkasan poin intinya dalam waktu kurang dari 30 detik setelah ditegur.\nSuasana forum kembali kondusif dan efisien tanpa adanya perdebatan personal.\n\nResponse rekan tersebut memperbarui story Obert: rekan tersebut tidak berniat membuang waktu, melainkan memang membutuhkan panduan struktur penyampaian yang lebih tegas.",
+    "section": "Konteks performance",
+    "text": "Konteks performance\nTanggal dan setting: Kamis, 18 September 2026, pukul 19.45 WIB. Sesi forum diskusi angkatan via Google Meet (dihadiri 35+ mahasiswa).\nPersons dan relationship: Saya (Obert, pemandu forum/pengurus angkatan) dan Fikri (rekan seangkatan). Hubungan peer seangkatan yang kooperatif namun belum sering berinteraksi intensif dalam rapat formal.\nObjective dan initial state: * State awal: Hampir menyela pembicaraan Fikri secara sinis karena emosi jengkel (The Controller aktif). * Objective: Mendapatkan poin inti usulan Fikri dan menjaga efisiensi waktu forum tanpa merusak hubungan seangkatan atau membuat Fikri merasa dipermalukan.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
     ]
   },
   {
-    "objectID": "portfolio/week-02.html#feedback-ai-dan-refleksi",
-    "href": "portfolio/week-02.html#feedback-ai-dan-refleksi",
+    "objectID": "portfolio/week-02.html#evidence",
+    "href": "portfolio/week-02.html#evidence",
     "title": "Intra-Self Communication Journal",
-    "section": "Feedback, AI, dan refleksi",
-    "text": "Feedback, AI, dan refleksi\nTeman observer mencatat respons awal saya yang hampir meledak sebagai reaksi reaktif, bukan fasilitasi yang matang. AI hanya digunakan untuk membantu merapikan format pemisahan fakta dan asumsi; Obert menyamarkan identitas rekan seangkatan untuk menjaga privasi.\nNext practice: ketika menghadapi pembicara yang berputar-putar di forum, saya akan langsung menggunakan teknik active paraphrasing (“Apakah maksud poin utamanya adalah X?”) alih-alih membiarkan rasa kesal menumpuk di dalam hati.",
+    "section": "Evidence",
+    "text": "Evidence\n\nJurnal Fact vs Story (ditulis di catatan pribadi laptop saat Fikri berbicara, 19.46 WIB): * Fact: Fikri bicaranya 4 menit, alur melompat dari poin A ke C lalu balik ke A. * Story: Fikri sengaja buang waktu angkatan. * Pertanyaan penjelas: Apa poin usulan konkret yang ingin disampaikannya?\nKalimat interupsi asertif yang disampaikan di forum (19.47 WIB): &gt; “Fik, sori gue potong sebentar ya biar temen-temen yang lain dapet gambaran utuh. Dari poin penting yang lo sampaikan tadi, apakah fokus usulan utamanya ada di penyederhanaan alur pendaftaran, atau ada poin teknis lain yang mau lo tambahkan?”\nResponse Fikri di forum (19.48 WIB): &gt; “Oh iya betul banget Bert, sori kalau kepanjangan. Poin utama gue murni di penyederhanaan alur pendaftaran itu aja kok biar gak ribet di peserta.” (Merespons ringkas dalam 15 detik).\nCatatan pribadi setelah response masuk: Story awal saya (“sengaja membuang waktu”) gugur sepenuhnya. Fikri hanya membutuhkan bantuan framing struktur argumen. Forum langsung berlanjut lancar.",
+    "crumbs": [
+      "Beranda",
+      "Intra-Self Communication Journal"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-02.html#analisis-komunikasi",
+    "href": "portfolio/week-02.html#analisis-komunikasi",
+    "title": "Intra-Self Communication Journal",
+    "section": "Analisis komunikasi",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nMemetakan dua internal character: “The Controller” (reaktif, defensif) dan “The Facilitator” (reflektif, fasilitatif). Saya mengambil kontrol sadar untuk memilih “The Facilitator” yang memimpin aksi.\n\n\nObjective & state\nState awal: Jengkel dan hampir memotong pembicaraan secara kasar. Objective ganda tercapai: poin inti usulan terdefinisi presisi dan suasana forum tetap hangat dan kondusif.\n\n\nRepertoire & language\nMenggunakan jurnalFact/Story 3-kolom singkat sebagai circuit breaker emosi. Menggunakan active paraphrasing (“Apakah fokus usulan utamanya ada di X?”) untuk mengunci fokus pembicara secara terhormat.\n\n\nResponse & adaptation\nRespon Fikri mengonfirmasi bahwa ia menyetujui ringkasan tersebut tanpa rasa tersinggung. Adaptasi saya menggeser alur forum langsung ke sesi tanggapan usulan pendaftaran.\n\n\nAgreement/action\nInternal agreement dijalankan: Pause 10 detik, tulis jurnal singkat, sampaikan active paraphrasing. Tindak lanjut: alur diskusi angkatan berhasil dihemat hingga 15 menit.\n\n\nRelationship outcome\nFikri merasa didengar dan dibantu meringkas idenya. Tidak ada ketegangan antar-anggota angkatan pasca forum.",
+    "crumbs": [
+      "Beranda",
+      "Intra-Self Communication Journal"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-02.html#perubahan-dari-reaction-ke-response",
+    "href": "portfolio/week-02.html#perubahan-dari-reaction-ke-response",
+    "title": "Intra-Self Communication Journal",
+    "section": "Perubahan dari reaction ke response",
+    "text": "Perubahan dari reaction ke response\n\n\n\n\n\n\n\n\nDimensi\nReaction (The Controller)\nResponse (The Facilitator)\n\n\n\n\nTrigger\nRekan berbicara berputar-putar 4 menit.\nRekan berbicara berputar-putar 4 menit.\n\n\nInterpretasi\n“Dia sengaja buang waktu dan gak hargai forum.”\n“Dia punya ide tapi belum terstruktur penyampaiannya.”\n\n\nTindakan\nMemotong pembicaraan secara sinis & menyindir.\nMemandu dengan teknik active paraphrasing.\n\n\nOutcome\nSuasana forum canggung, hubungan memburuk.\nPoin inti terjelaskan 15 detik, forum efisien.",
+    "crumbs": [
+      "Beranda",
+      "Intra-Self Communication Journal"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-02.html#penggunaan-ai",
+    "href": "portfolio/week-02.html#penggunaan-ai",
+    "title": "Intra-Self Communication Journal",
+    "section": "Penggunaan AI",
+    "text": "Penggunaan AI\n\nAlat & Peran: Claude 3.5 Sonnet digunakan pasca-event untuk merapikan kategorisasi narasi alternatif (alternative narratives) dari jurnal mentah saya.\nOutput AI yang ditolak: AI sempat memberikan saran kalimat interupsi yang sangat formal (“Mohon maaf saudara Fikri, demi efisiensi waktu forum…”). Saya menolaknya karena bahasa kaku tersebut tidak alami untuk forum angkatan mahasiswa.\nPembelajaran mandiri: Kemampuan menahan emosi (pause) saat rahang mengeras di tengah forum adalah keterampilan regulasi diri yang tidak bisa digantikan oleh AI.",
+    "crumbs": [
+      "Beranda",
+      "Intra-Self Communication Journal"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-02.html#feedback-dan-tindak-lanjut",
+    "href": "portfolio/week-02.html#feedback-dan-tindak-lanjut",
+    "title": "Intra-Self Communication Journal",
+    "section": "Feedback dan tindak lanjut",
+    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: DM dari rekan pengurus forum setelah sesi: “Keren Bert, lo potong Fikri tadi dapet banget poin intinya tanpa bikin dia ngerasa disudutkan.”\nAdaptation/replay: Pada forum angkatan minggu berikutnya, saya menetapkan ground rules singkat di awal: “Kalau ada yang mau kasih pendapat, sebutkan 1 kalimat poin intinya dulu baru penjelasannya ya.”\nNext practice: Setiap kali merasakan emosi jengkel di forum (rahang mengeras), saya akan menerapkan aturan “Pause 10 Detik & Active Paraphrasing” sebelum merespons.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
@@ -1762,7 +1850,7 @@
     "href": "portfolio/week-02.html#self-assessment",
     "title": "Intra-Self Communication Journal",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor\nAlasan\n\n\n\n\nPerson & Character\n4\nMemetakan transisi dari karakter reaktif (Controller) ke fasilitator objektif.\n\n\nObjective & State\n4\nMengurai initial story dan emosi jengkel menjadi objective tindakan asertif.\n\n\nRepertoire, Language & AI\n4\nMenjabarkan alternatif narasi dan dialog internal secara runut.\n\n\nResponse & Adaptation\n4\nMerespons ketidakefektifan forum melalui tindakan verbal yang terukur.\n\n\nAgreement, Action & Relationship\n4\nMencapai kesepakatan internal, mengefektifkan forum, dan menjaga relasi seangkatan.\n\n\n\nTotal: 20/20 — Lanjut. Analisis jurnal komunikasi internal sangat presisi dalam mengonversi emosi negatif menjadi tindakan komunikasi yang fungsional.\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nDua internal character (Controller vs Facilitator) dipetakan eksplisit; pilihan karakter yang memimpin dilakukan secara sadar.\n\n\nObjective & State\n4\nObjective ganda (efisiensi forum + menjaga relasi seangkatan) terkelola presisi dengan bukti pergeseran state dari jengkel ke fasilitatif.\n\n\nRepertoire, Language & AI\n4\nCircuit breaker berupa jurnal 3-kolom dan active paraphrasing dijelaskan dengan rationale yang jernih; batas intervensi AI diuraikan.\n\n\nResponse & Adaptation\n4\nRespon Fikri mengklarifikasi asumsi awal; adaptasi terjadi sistemik hingga ke penetapan ground rules di forum berikutnya.\n\n\nAgreement, Action & Relationship\n4\nInternal agreement tereksekusi nyata; efisiensi forum terukur dan relasi dengan sesama angkatan tetap terjaga baik.\n\n\n\nTotal: 20/20 — Sangat Kompeten. Berhasil menguraikan intra-self reaction menjadi responsive communication yang memberikan dampak positif pada efisiensi kelompok.\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
@@ -6297,55 +6385,77 @@
     ]
   },
   {
-    "objectID": "portfolio/week-01.html#konteks-performance",
-    "href": "portfolio/week-01.html#konteks-performance",
-    "title": "Character Map",
-    "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: September 2026. Refleksi diri atas berbagai peran (character) yang dijalankan dalam kehidupan kampus, keluarga, dan sosial.\nPersons dan relationship: Diri saya (Obert) dalam hubungannya dengan atasan/dosen, rekan divisi, teman sejawat, dan anggota keluarga.\nObjective dan initial state: * Initial state: Saya kerap menyamaratakan pendekatan komunikasi tanpa sadar, didorong oleh kekhawatiran pribadi terhadap persepsi orang lain. * Objective: Mengidentifikasi secara sadar perbedaan karakter di minimal 3 domain kehidupan dan menyesuaikan repertoire untuk menghindari hierarchical deference (tunduk buta pada atasan).",
-    "crumbs": [
-      "Beranda",
-      "Character Map"
-    ]
-  },
-  {
     "objectID": "portfolio/week-01.html#lima-character",
     "href": "portfolio/week-01.html#lima-character",
     "title": "Character Map",
     "section": "Lima character",
-    "text": "Lima character\n\n\n\n\n\n\n\n\n\n\nDomain dan character\nPerson & relationship\nObjective & responsibility\nRepertoire & language\nRisiko dan latihan\n\n\n\n\nOrganisasi — Kadiv Project\nAnggota divisi STEI-K 25 dan atasan\nMemastikan program berjalan; delegasi dan melobi kesepakatan\nPersuasif, argumentatif, dan terstruktur\nTunduk pada atasan (hierarchical deference); latihan menolak dengan asertif\n\n\nAkademik — Mahasiswa\nDosen dan rekan tugas kuliah\nMemahami materi teknis dan berkolaborasi dalam riset\nInkuisitif, analitis, dan pendengar aktif\nTakut terlihat kurang mampu; latihan proaktif bertanya tanpa ragu\n\n\nOlahraga — Kapten Futsal\nAnggota tim di lapangan\nMeraih kemenangan dan menjaga moral tim\nLugas, asertif, dan berorientasi komando\nInstruksi diabaikan karena terlalu keras; latihan kontrol intonasi\n\n\nKeluarga — Adik\nKakak\nMenjaga keharmonisan dan komunikasi antar anggota keluarga\nKompromistis, sabar, penuh empati, dan komunikatif\nWaktu pribadi terkuras; latihan negosiasi prioritas waktu\n\n\nSosial — Teman sepermainan\nSahabat dan teman sejawat\nMenjaga relasi dan menjadi pendengar yang suportif\nSantai, humoris, “Mau didengar atau cari solusi?”\nMenjadi people-pleaser; latihan memisahkan ego dari validasi eksternal",
+    "text": "Lima character\n\n\n\n\n\n\n\n\n\n\nDomain dan character\nPerson & relationship\nObjective & responsibility\nRepertoire & language\nRisiko dan latihan\n\n\n\n\nOrganisasi — Kadiv Project (STEI-K 25)\nAnggota divisi proker dan Atasan/Ketua Panitia\nMemastikan eksekusi proker berjalan presisi; mengelola trade-off operasional dan lobi kesepakatan\nPersuasif, argumentatif, dan terstruktur berbasis data evaluasi\nVulnerable terhadap hierarchical deference (tunduk pasif pada atasan); latihan: asertif menggunakan bukti data\n\n\nAkademik — Mahasiswa\nDosen pengampu dan rekan kelompok tugas/riset\nMemahami materi teknis kompleks dan berkolaborasi dalam pemecahan masalah\nInkuisitif, analitis, Socratic questioning, dan pendengar aktif\nTakut terlihat kurang mampu/salah; latihan: proaktif bertanya tanpa keraguan ego\n\n\nOlahraga — Kapten Futsal\nAnggota tim di lapangan saat pertandingan\nMenjaga taktik permainan, tempo tim, dan moral di bawah tekanan tinggi\nLugas, asertif, instingtif, dan berorientasi komando\nInstruksi dipersepsikan terlalu keras/agresif; latihan: kontrol intonasi & check-in kondisi emosional tim\n\n\nKeluarga — Adik\nKakak dan Orang Tua\nMenjaga keharmonisan dan menjadi jembatan komunikasi antar-generasi\nKompromistis, sabar, empati tinggi, dan komunikatif\nWaktu pribadi terkuras (people-pleasing keluarga); latihan: negosiasi prioritas waktu secara asertif\n\n\nSosial — Teman Sepermainan\nSahabat dan rekan sebaya\nMenjaga relasi dan menjadi safe space / pendengar suportif\nSantai, humoris, framing opsi: “Mau didengar aja atau mau cari solusi?”\nTerlalu menjaga kenyamanan sampai enggan memberi kritik jujur; latihan: memisahkan empati dari konfirmasi emosi",
     "crumbs": [
       "Beranda",
       "Character Map"
     ]
   },
   {
-    "objectID": "portfolio/week-01.html#episode-yang-dianalisis",
-    "href": "portfolio/week-01.html#episode-yang-dianalisis",
+    "objectID": "portfolio/week-01.html#konteks-performance",
+    "href": "portfolio/week-01.html#konteks-performance",
     "title": "Character Map",
-    "section": "Episode yang dianalisis",
-    "text": "Episode yang dianalisis\nKonteks: Rapat evaluasi kepanitiaan. Seorang dengan otoritas lebih tinggi menekan argumen yang saya bawa. Insting awal saya adalah langsung menyetujui gagasannya agar saya tidak dipandang sebagai orang yang tidak bisa diandalkan.\nObjective: Beralih dari persetujuan semu (submissive) menjadi diskusi kritis yang berlandaskan data, sembari memisahkan ego dari gagasan.\n\nAtasan: “Gagasan kamu terlalu rumit. Kita pakai cara saya saja agar lebih cepat dieksekusi.”\nObert (Insting awal - Internal): (Menerima begitu saja dan tidak biosa berargumen layaknya dalam sebuah tim).\nObert (Adaptasi Inkuisitif): “Cara tersebut memang lebih cepat. Namun, hal ini belum benar-benar memperbaiki evaluasi yagn sudah kita buat minggu lalu pak. Apakah bapak memiliki gagasan lain yang bisa memperbaiki flaw yang menjadi bahan evaluasi kita minggu lalu? Saya ingin memastikan kita tidak mengulang kesalahan yang sama.”\n\nRespons atasan mengubah arah komunikasi dari instruksi satu arah menjadi evaluasi bersama. Kesepakatan akhir: Keputusan diambil berdasarkan perbaikan gagasan awal secara logis, bukan sekadar kepatuhan hierarkis.",
+    "section": "Konteks performance",
+    "text": "Konteks performance\nTanggal dan setting: Senin, 15 September 2026, pukul 19.30–21.00 WIB. Rapat evaluasi kepanitiaan STEI-K 25 via Google Meet.\nPersons dan relationship: Saya (Obert, Kadiv Project) berhadapan dengan Mas Aris (nama samaran, Ketua Pelaksana / Atasan). Relasi: Pengurus senior - junior dengan hierarki organisasi yang tegas.\nObjective dan initial state: * Initial State: Hierarchical Deference. Saya cenderung langsung menyetujui arahan atasan untuk menghindari persepsi sebagai anggota yang “sulit diatur”, meskipun arahan tersebut berisiko mengulang flaw evaluasi minggu lalu. * Objective: Menggeser komunikasi dari persetujuan pasif menjadi diskusi kritis berbasis data evaluasi, tanpa merusak hubungan kerja atau terkesan membangkang.",
     "crumbs": [
       "Beranda",
       "Character Map"
     ]
   },
   {
-    "objectID": "portfolio/week-01.html#perubahan-language",
-    "href": "portfolio/week-01.html#perubahan-language",
+    "objectID": "portfolio/week-01.html#evidence",
+    "href": "portfolio/week-01.html#evidence",
     "title": "Character Map",
-    "section": "Perubahan language",
-    "text": "Perubahan language\nSebagai Kadiv Project, saya akan berkata, “Kira-kira apa yang salah dalam keputusan pembagian tugas kita barusan? Apa yang bisa kita perbaiki dari flaw ini untuk rapat besok?” Sebagai Teman sepermainan, saya akan berkata, “Eh, otak gw udah ngebul nih. Cabut nyari Teazzi dulu yuk, ntar malem baru lanjut lagi urusin proker.” Sikap consensus-oriented tetap ada, namun tingkat formalitas dan target objektifnya berbeda.",
+    "section": "Evidence",
+    "text": "Evidence\n\n\n\n\n\n\nRekonstruksi percakapan rapat evaluasi (dari catatan pribadi & notulensi):\nMas Aris (Ketua): “Gagasan alur kontrol proker dari divisi kamu terlalu rumit, Bert. Kita pakai cara saya saja yang lama agar lebih cepat dieksekusi.”\nObert (Insting awal - Internal): (Ada dorongan untuk langsung bilang ‘Siap Mas’ karena takut dianggap menantang hirarki).\nObert (Adaptasi Inkuisitif): “Cara Mas Aris memang lebih cepat di awal. Namun kalau kita lihat rekap data evaluasi minggu lalu, kendala utama kita justru ada di kebocoran koordinasi akibat alur lama itu. Kalau kita kembali ke cara lama, menurut Mas Aris bagaimana cara kita memitigasi flaw yang sama agar tidak terulang minggu ini?”\nMas Aris: “Hmm, benar juga. Kalau begitu, bagian alur mana dari draft kamu yang bisa kita pangkas tanpa menghilangkan fungsi kontrolnya?”\nObert: “Kita bisa pangkas tahap validasi ganda di sekretaris, tapi tetap pertahankan sistem centang dokumen teknis.”\n\n\n\n\nCatatan observer (Sekretaris Panitia, via chat pribadi setelah rapat): “Bagus Bert, lo nanya balik pake data evaluasi kemarin. Mas Aris jadi gak ngerasa dipojokin tapi paham resikonya.”\nDokumen pendukung: Log perubahan dokumen Workflow Proker STEI-K 25 di Google Docs dan Notulensi Rapat Evaluasi 15 September 2026.",
     "crumbs": [
       "Beranda",
       "Character Map"
     ]
   },
   {
-    "objectID": "portfolio/week-01.html#evidence-ai-dan-feedback",
-    "href": "portfolio/week-01.html#evidence-ai-dan-feedback",
+    "objectID": "portfolio/week-01.html#analisis-komunikasi",
+    "href": "portfolio/week-01.html#analisis-komunikasi",
     "title": "Character Map",
-    "section": "Evidence, AI, dan feedback",
-    "text": "Evidence, AI, dan feedback\n\nEvidence: Refleksi memori otentik saat menjabat sebagai ketua pelaksana acara SMA (mempertimbangkan dinamika keputusan bersama panitia guru), catatan evaluasi kepemimpinan, dan riwayat memori penugasan.\nAI digunakan setelah refleksi untuk memetakan kebiasaan komunikasi yang tidak disadari ke dalam matriks karakter.\nSaya mengabaikan saran AI jika menyuruh konfrontasi agresif terhadap atasan, dan memilih pendekatan inkuisitif-logis.\nFeedback personal: Rasa takut dinilai “tidak dapat diandalkan” atau “membangkang” sering menghalangi objektivitas dalam mempertahankan ide inovatif.\nNext practice: Melatih Respectful Disagreement. Bertahan pada argumen yang benar menggunakan data saat ditekan oleh pihak yang memiliki otoritas lebih tinggi.",
+    "section": "Analisis komunikasi",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nSaya masuk sebagai Kadiv Project yang bertanggung jawab atas kualitas sistem, bukan sekadar pelaksana perintah. Saya menyadari Mas Aris memiliki stakes pada efisiensi waktu, sehingga argumentasi saya fokus pada mitigasi resiko, bukan membuktikan siapa yang benar.\n\n\nObjective & state\nState awal: Kepatuhan pasif karena takut konflik hierarki. Objective: Keputusan alur proker yang realistis dan berbasis bukti tanpa merusak relasi. State akhir: Kesepakatan alur modifikasi yang disetujui bersama.\n\n\nRepertoire & language\nSaya mengganti language submisif (“Baik Mas mengikuti saja”) menjadi pertanyaan inkuisitif berbasis data evaluasi (“Bagaimana kita memitigasi flaw evaluasi minggu lalu?”). Bahasa ini membingkai perbedaan pendapat sebagai upaya penjaminan mutu bersama.\n\n\nResponse & adaptation\nRespon Mas Aris yang melunak (“bagian mana yang bisa dipangkas?”) menjadi sinyal bahwa pendekatan pengujian hipotesis berhasil. Saya langsung mengadaptasi tawaran tersebut dengan memberikan opsi kompromi (memotong validasi sekretaris, mempertahankan penanda teknis).\n\n\nAgreement/action\nAgreement eksplisit: Alur baru dimodifikasi, tugas validasi disederhanakan, dokumen Workflow Proker langsung diperbarui malam itu juga.\n\n\nRelationship outcome\nMas Aris tidak merasa wewenangnya dilangkahi, sementara divisi saya mendapatkan kepastian alur kerja yang logis. Potensi friksi hierarki berubah menjadi diskusi kolaboratif.",
+    "crumbs": [
+      "Beranda",
+      "Character Map"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-01.html#perubahan-language-antar-character",
+    "href": "portfolio/week-01.html#perubahan-language-antar-character",
+    "title": "Character Map",
+    "section": "Perubahan language antar character",
+    "text": "Perubahan language antar character\nSituasi yang sama — menghadapi penumpukan beban tugas teknis — menghasilkan language yang sangat berbeda tergantung character yang sedang aktif:\n\nSebagai Kadiv Project (STEI-K 25): “Kira-kira apa flaw utama dalam pembagian tugas kita minggu ini? Apa kompromi alur yang bisa kita pangkas tanpa menurunkan kualitas kontrol proker?” — fokus pada efisiensi sistem dan kesepakatan tim.\nSebagai Kapten Futsal: “Tempo kita turun! Jangan sibuk saling menyalahkan, tutup ruang tembak lawan sekarang!” — fokus pada arahan taktis cepat dan motivasi instan di bawah tekanan.\nSebagai Teman Sepermainan: “Eh, otak gue udah ngebul banget nih. Cabut nyari Teazzi dulu yuk, ntar malam baru kita lanjut lagi urus proker ini.” — fokus pada penguraian stres dan emosional bonding.\n\nObjective dan konteks kekuasaan (power dynamics) yang berbeda menentukan pemilihan repertoire bahasa yang tepat.",
+    "crumbs": [
+      "Beranda",
+      "Character Map"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-01.html#penggunaan-ai",
+    "href": "portfolio/week-01.html#penggunaan-ai",
+    "title": "Character Map",
+    "section": "Penggunaan AI",
+    "text": "Penggunaan AI\nAI (Claude) digunakan setelah sesi refleksi untuk dua hal:\n\nMemisahkan fakta dan asumsi emosional: Saya memasukkan draf percakapan rapat dan meminta AI mendeteksi apakah respons saya terkesan konfrontatif. AI membantu mengklarifikasi bahwa kalimat saya sudah berbentuk inquiring question, bukan penolakan pribadi.\nStructuring tabel matriks karakter: AI membantu mengelompokkan kebiasaan komunikasi saya dari draf awal ke dalam 5 domain kehidupan secara rapi.\n\nOutput AI yang ditolak: AI sempat menyarankan dialog yang sangat formal dan defensif terhadap Mas Aris. Saya menolaknya karena bahasa yang terlalu kaku justru akan memperjelas jarak hierarki dan merusak relasi kerja panitia yang informal-profesional.\nPembelajaran mandiri: AI tidak bisa merasakan kepekaan dinamika senior-junior di lapangan; keberanian untuk menyampaikan disagreement secara sopan (respectful disagreement) harus dilatih langsung secara nyata.",
+    "crumbs": [
+      "Beranda",
+      "Character Map"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-01.html#feedback-dan-tindak-lanjut",
+    "href": "portfolio/week-01.html#feedback-dan-tindak-lanjut",
+    "title": "Character Map",
+    "section": "Feedback dan tindak lanjut",
+    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Pesan chat dari Sekretaris Panitia: “Gua salut lo berani nanya balik ke Mas Aris pake data evaluasi minggu lalu, jadi rapat gak berbelit-belit.”\nAdaptation/replay: Keesokan harinya saya melakukan check-in singkat ke Mas Aris saat ketemu di koridor: “Mas Aris, alur modifikasi semalam sudah saya rapikan di doc ya. Ada yang perlu disesuaikan lagi?” Mas Aris mengonfirmasi bahwa alur tersebut sudah pas.\nNext practice: Menerapkan teknik Respectful Disagreement dengan selalu menyiapkan 1 fakta/data evaluasi konkret sebelum menyampaikan keberatan atas keputusan atasan.",
     "crumbs": [
       "Beranda",
       "Character Map"
@@ -6356,7 +6466,7 @@
     "href": "portfolio/week-01.html#self-assessment",
     "title": "Character Map",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor\nAlasan\n\n\n\n\nPerson & Character\n4\n5 karakter di 3 domain (organisasi, akademik, sosial/keluarga) terpetakan dengan sangat jelas.\n\n\nObjective & State\n4\nTransisi dari state submisif menjadi asertif tergambar eksplisit di episode analisis.\n\n\nRepertoire, Language & AI\n4\nPerbedaan bahasa antara Kadiv dan Teman terlihat kontras; fungsi AI dijabarkan jelas.\n\n\nResponse & Adaptation\n4\nBukti pergeseran dari sekadar patuh menjadi negosiator yang inkuisitif.\n\n\nAgreement, Action & Relationship\n4\nKesepakatan tercapai dengan tetap menjaga integritas gagasan tanpa merusak hubungan kerja.\n\n\n\nTotal: 20/20 — Sangat Kompeten. Analisis mendalam pada kelemahan struktural (hierarchical deference) dan langkah adaptasinya sangat konkret.\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nLima character dipetakan secara kontras di 3 domain (organisasi, akademik, sosial/olahraga/keluarga) dengan analisis power dynamics dan konteks yang tajam.\n\n\nObjective & State\n4\nPergeseran dari state hierarchical deference (submisif) menjadi kolaboratif asertif dideklarasikan eksplisit melalui rekonstruksi percakapan riil.\n\n\nRepertoire, Language & AI\n4\nPerubahan bahasa antar-karakter terlihat sangat jelas (Kadiv vs Kapten Futsal vs Teman); batas intervensi AI dijelaskan secara kritis.\n\n\nResponse & Adaptation\n4\nBerhasil membaca sinyal atasan dan melakukan kompromi taktis (memotong tahap validasi sekretaris) tanpa mengorbankan kualitas kontrol.\n\n\nAgreement, Action & Relationship\n4\nKesepakatan eksplisit tercapai, dokumen diuji & diperbarui, serta relasi kerja dengan senior tetap terjaga positif.\n\n\n\nTotal: 20/20 — Sangat Kompeten. Berhasil mengurai kelemahan hierarchical deference menjadi strategi komunikasi asertif berbasis bukti (data-driven inquiry).\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Character Map"
@@ -6396,44 +6506,66 @@
     ]
   },
   {
-    "objectID": "portfolio/week-03.html#konteks-dan-relationship-state",
-    "href": "portfolio/week-03.html#konteks-dan-relationship-state",
+    "objectID": "portfolio/week-03.html#konteks-performance",
+    "href": "portfolio/week-03.html#konteks-performance",
     "title": "Relationship Conversation",
-    "section": "Konteks dan relationship state",
-    "text": "Konteks dan relationship state\nObert dan Doni adalah rekan satu tim (berdasarkan latar belakang Obert sebagai kapten/pemain tim futsal). Sebelum percakapan ini, hubungan mereka biasa saja, namun sudah ada perasaan kurang suka dari diri Obert karena kebiasaan Doni yang sering menunjukkan ekspresi negatif (tilt) saat bermain futsal.\nState sebelum percakapan: hubungan biasa saja dengan ketegangan terpendam dan rasa kurang suka. Objective Obert adalah mengajak Doni berbicara agar ia bisa memperbaiki kebiasaannya tersebut tanpa merusak moral tim.",
+    "section": "Konteks performance",
+    "text": "Konteks performance\nTanggal dan setting: Minggu malam, 20 September 2026, pukul 20.30 WIB di Kantin Saraga ITB setelah pertandingan futsal antarfakultas. Percakapan dilangsungkan secara tatap muka (dua mata).\nPersons dan relationship: Saya (Obert, Kapten Tim Futsal) dan Doni (rekan satu tim futsal, posisi Flank/Anchor). Relasi: Rekan satu tim futsal dengan trust level sedang. Hubungan profesional-kawan ini sebelumnya menyimpan ketegangan terpendam karena kebiasaan Doni menunjukkan ekspresi emosi negatif (tilt) saat bertanding.\nObjective dan initial state: Doni kembali menunjukkan ekspresi frustrasi berlebihan (melempar botol di bench dan menggerutu ke rekan tim setelah miss-pass). State awal: Ketegangan terpendam sebesar 6/10, moral tim menurun. Objective: Mengajak Doni menyadari dampak ekspresi tilt-nya, memvalidasi perasaannya melalui active listening, menetapkan boundary perilaku di lapangan, dan menyepakati tindakan kompromi tanpa merusak hubungan kawan.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
     ]
   },
   {
-    "objectID": "portfolio/week-03.html#potongan-transcript",
-    "href": "portfolio/week-03.html#potongan-transcript",
+    "objectID": "portfolio/week-03.html#evidence",
+    "href": "portfolio/week-03.html#evidence",
     "title": "Relationship Conversation",
-    "section": "Potongan transcript",
-    "text": "Potongan transcript\n\nObert: “Don, gw mau ngomong dong. Tadi pas game, gw rasa kalau lu lagi tilt, kayaknya ga baik deh kalau lu ekspresiin hal tersebut di lapangan.”\nDoni: “Hah? Emangnya kenapa bert? Itu salah satu cara buat gw ngeekspresiin diri gw aja sih.”\nObert: “Gw paham, tapi jujur itu ngebuat suasana tim kita jadi ga enak selama game tadi don. Kira-kira bisa ada cara lain supaya lu tetep bisa ngeekspresiin diri lu tanpa ngerugiin anak-anak yang lain ga ya? Sorry bangett.”\nDoni: “Oh aman aman, gw juga mau yang terbaik kok buat tim. Oke oke, next gw bakal kurang-kurangin ekspresi negatif pas gw lagi di lapangan, thanks sarannya bert.”",
+    "section": "Evidence",
+    "text": "Evidence\nCatatan percakapan ini direkonstruksi dari memori langsung sesaat setelah percakapan selesai di Kantin Saraga (dicatat pada aplikasi notes HP pukul 20.50 WIB).\n\nTranskrip Percakapan (Tatap Muka Dua Mata)\n\nObert: “Don, santai bentar yuk. Gua mau ngobrolin soal pertandingan kita di babak kedua tadi—ada waktu sebentar?”\nDoni: “Bisa Bert, kenapa tuh? Soal stamina gua ya?”\nObert (Observation): “Bukan soal stamina. Gua mau ngomongin momen pas kita kebobolan gol kedua sama pas ada dua kali miss-pass. Gua ngeliat lu banting botol di bench terus menggerutu cukup keras ke arah lapangan. Gua belum tahu situasi di kepala lu saat itu—bisa ceritain dari sudut pandang lu?”\nDoni (Defensif Awal): “Hah? Emangnya kenapa Bert? Itu kan cuma cara spontan gua ngelepasin frustrasi aja biar gak kepikiran di lapangan. Lagian gua gitu bukan karena benci sama temen-temen.”\nObert (Paraphrase & Validasi): “Jadi buat lu, gestur itu murni cara ngelepasin beban emosi instan biar lu bisa fokus lagi, bukan mau menyalahkan temen secara personal? Oke, gua paham konteksnya dan appreciate lu mau jujur.”\nObert (Feeling & Need): “Tapi yang jadi concern gua sebagai kapten: begitu lu tilt dan nampakin gestur negatif itu, suasana di bench langsung canggung dan tempo main anak-anak di lapangan malah jadi drop (Feeling: khawatir & terganggu). Kita butuh atmosfer tim yang saling menguatkan saat lagi tertekan (Need).”\nDoni: “Aduh… jujur gua gak kepikiran kalau gestur spontan gua ternyata seefektif itu ngerusak mental anak-anak.”\nObert (Request, Boundary & Two-Way Repair): “Gua butuh komitmen lu ke depan (Request): kalau lu mulai ngerasa frustrasi/tilt, lu boleh minta substitute 1 menit atau tos tangan keras sama gua di pinggir lapangan buat cool down, tapi tolong tahan gestur banting barang atau menggerutu di depan tim (Boundary). Deal gak? Dan gua juga minta maaf kalau tadi pas di bench sempat keliatan ketus pas negur lu pertama kali (Repair).”\nDoni: “Deal, Bert. Gua juga minta maaf ya udah bikin suasana tim gak enak. Next gua bakal pake kode tos itu kalau emosi gua mulai naik.”\n\nDokumen Pendukung Pasca-Percakapan: Log catatan kesepakatan internal tim futsal mengenai kode komunikasi saat pertandingan (disimpan pada grup koordinasi tim).",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
     ]
   },
   {
-    "objectID": "portfolio/week-03.html#analisis-listening-boundary-dan-repair",
-    "href": "portfolio/week-03.html#analisis-listening-boundary-dan-repair",
+    "objectID": "portfolio/week-03.html#analisis-komunikasi",
+    "href": "portfolio/week-03.html#analisis-komunikasi",
     "title": "Relationship Conversation",
-    "section": "Analisis listening, boundary, dan repair",
-    "text": "Analisis listening, boundary, dan repair\nObert memulai percakapan dengan menyampaikan observasi spesifik mengenai perilaku di lapangan, bukan menyerang kepribadian Doni. Ketika Doni memberikan respons defensif, Obert menggunakan teknik validasi (“Gw paham…”) sebelum menjelaskan dampak nyata terhadap suasana tim.\nBoundary & Agreement: Obert menetapkan batasan secara halus mengenai ekspektasi perilaku tim, dan Doni menyetujui batasan tersebut dengan berkomitmen untuk mengurangi ekspresi negatif saat bertanding.\nMeskipun tidak ada kesalahan fatal yang memerlukan repair besar, nada penutup Obert (“Sorry bangett”) menunjukkan penjagaan relasi yang kuat agar teguran tersebut diterima secara positif.",
+    "section": "Analisis komunikasi",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nSaya mengenali bahwa Doni bukan berniat buruk atau membenci tim, melainkan ia kekurangan coping mechanism untuk melepaskan frustrasi internalnya saat tertekan. Pemahaman ini menggeser framing saya dari “Doni perusak moral” menjadi “Doni butuh saluran emosi yang lebih sehat”.\n\n\nObjective & state\nState awal: Ketegangan terpendam 6/10, kekhawatiran atas moral tim. Objective: Mengubah kebiasaan tilt Doni dan menetapkan batas perilaku tanpa defensif. State akhir: Ketegangan turun menjadi 1/10, komitmen perilaku baru disepakati.\n\n\nRepertoire & language\nMenggunakan kerangka O-F-N-R: Observation (“gua ngeliat lu banting botol…”), Paraphrase (“jadi buat lu itu murni cara ngelepasin emosi instan?”), Feeling/Need (“gua khawatir tempo tim drop, kita butuh atmosfer saling dukung”), Request (“tolong tahan gestur banting barang dan gunakan kode tos”).\n\n\nResponse & adaptation\nSaat Doni defensif (“itu cuma cara ngelepasin frustrasi”), saya tidak memotong atau mendebat. Saya me-paraphrase penjelasannya terlebih dahulu sehingga Doni merasa didengar sebelum saya memaparkan dampaknya pada tim.\n\n\nAgreement/action\nKesepakatan konkret (actionable agreement): Doni diizinkan menggunakan kuis/kode tos tangan keras dengan kapten atau meminta pergantian pemain 1 menit untuk cool down saat emosi memuncak.\n\n\nRelationship outcome\nHubungan beranjak dari sekadar rekan tim yang saling menahan rasa tidak suka menjadi hubungan yang terbuka dan akrab. Doni mengapresiasi cara penyampaian dua mata tanpa mempermalukannya di depan publik.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
     ]
   },
   {
-    "objectID": "portfolio/week-03.html#relationship-outcome-dan-evidence",
-    "href": "portfolio/week-03.html#relationship-outcome-dan-evidence",
+    "objectID": "portfolio/week-03.html#perubahan-dari-reaction-ke-response",
+    "href": "portfolio/week-03.html#perubahan-dari-reaction-ke-response",
     "title": "Relationship Conversation",
-    "section": "Relationship outcome dan evidence",
-    "text": "Relationship outcome dan evidence\n\nTranskrip percakapan langsung antara Obert dan Doni.\nDoni secara sukarela menyetujui untuk mengubah kebiasaannya demi kebaikan bersama.\nHubungan setelah percakapan: beranjak dari sekadar rekan biasa menjadi teman yang cukup akrab sampai sekarang.\nPenurunan ketegangan dirasakan secara subjektif oleh Obert seiring dengan cairnya suasana tim.\n\nAI tidak digunakan dalam menyusun transkrip percakapan personal ini guna menjaga privasi dan keaslian interaksi manusia.",
+    "section": "Perubahan dari reaction ke response",
+    "text": "Perubahan dari reaction ke response\n\n\n\n\n\n\n\n\nDimensi\nReaction (Konfrontatif)\nResponse (O-F-N-R & Paraphrase)\n\n\n\n\nTrigger\nDoni banting botol dan menggerutu saat pertandingan.\nDoni banting botol dan menggerutu saat pertandingan.\n\n\nInterpretasi\n“Doni anak egois dan gak bisa kontrol emosi.”\n“Doni frustrasi tapi belum punya cara meluapkannya dengan sehat.”\n\n\nTindakan\nMarah di depan tim: “Don, bisa diam gak?!”\nPercakapan dua mata menggunakan teknik O-F-N-R & Paraphrase.\n\n\nOutcome\nDoni tersinggung, tim makin canggung, ketegangan naik.\nDoni sadar, sepakat kode cool down, ketegangan turun ke 1/10.",
+    "crumbs": [
+      "Beranda",
+      "Relationship Conversation"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-03.html#penggunaan-ai",
+    "href": "portfolio/week-03.html#penggunaan-ai",
+    "title": "Relationship Conversation",
+    "section": "Penggunaan AI",
+    "text": "Penggunaan AI\n\nPercakapan ini murni dilakukan secara tatap muka (dua mata) tanpa campur tangan AI secara real-time.\nAI (Claude 3.5 Sonnet) digunakan pasca-kejadian hanya untuk memetakan rekaman dialog mentah ke dalam komponen tabel O-F-N-R secara terstruktur.\nOutput AI yang ditolak: AI sempat menyarankan kalimat yang sangat klinis dan formal (“Tindakan saudara mempengaruhi psikologis tim…”). Saya menolaknya karena bahasa tersebut terasa kaku dan akan merusak keakraban antar-pemain futsal.\nPembelajaran mandiri: Keterampilan mendengar aktif (listening & paraphrasing) memerlukan empati langsung di lapangan yang tidak dapat disimulasikan oleh AI.",
+    "crumbs": [
+      "Beranda",
+      "Relationship Conversation"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-03.html#feedback-dan-tindak-lanjut",
+    "href": "portfolio/week-03.html#feedback-dan-tindak-lanjut",
+    "title": "Relationship Conversation",
+    "section": "Feedback dan tindak lanjut",
+    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Doni menyampaikan di akhir percakapan: “Gua respect banget lo mau ajak ngobrol dua mata abis game gini ketimbang marahin gua langsung di depan anak-anak tadi.”\nAdaptation/replay: Pada pertandingan persahabatan minggu berikutnya, Doni sempat mengalami miss-pass. Alih-alih banting botol, ia langsung melihat ke arah bench dan melakukan kode tos tangan dengan saya untuk reset emosi.\nNext practice: Melakukan check-in emosional singkat dengan pemain 5 menit sebelum pertandingan dimulai (“Ada yang lagi ngerasa ganjal atau kebebanan?”) untuk mencegah akumulasi frustrasi di lapangan.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
@@ -6444,7 +6576,7 @@
     "href": "portfolio/week-03.html#self-assessment",
     "title": "Relationship Conversation",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nMengenali perspektif Doni sekaligus kebutuhan tim secara proporsional\n\n\nObjective & State\n4\nObjective memperbaiki kebiasaan di lapangan tercapai dengan jelas\n\n\nRepertoire, Language & AI\n4\nPenggunaan observasi langsung, validasi, dan permintaan alternatif yang asertif\n\n\nResponse & Adaptation\n4\nMerespons defensif Doni dengan empati dan penjelasan dampak yang logis\n\n\nAgreement, Action & Relationship\n4\nKesepakatan tercapai, komitmen ditepati, dan relasi berkembang menjadi akrab\n\n\n\nTotal: 20/20 — Lanjut.\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nNiat dan konteks frustrasi Doni dipahami tanpa menyerang karakter pribadinya; framing bergeser dari masalah individu ke kebutuhan tim.\n\n\nObjective & State\n4\nKetegangan awal (6/10) diukur eksplisit; objective penetapan boundary dan penyepakatan mekanisme cool down tercapai sepenuhnya (turun ke 1/10).\n\n\nRepertoire, Language & AI\n4\nKerangka O-F-N-R dan active paraphrasing diterapkan secara runtut; batasan intervensi AI dijelaskan secara transparan.\n\n\nResponse & Adaptation\n4\nRespons defensif awal Doni divalidasi dengan empati sebelum menyampaikan dampak; repair dilakukan dua arah (two-way repair).\n\n\nAgreement, Action & Relationship\n4\nKesepakatan konkret (kode tos & jeda 1 menit) tercapai dan terbukti dieksekusi pada pertandingan berikutnya; relasi tim makin akrab.\n\n\n\nTotal: 20/20 — Sangat Kompeten. Berhasil mengubah friksi interpersonal di lapangan menjadi percakapan konstruktif berbasis O-F-N-R yang memperkuat hubungan tim.\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
@@ -6455,7 +6587,7 @@
     "href": "portfolio/week-05.html",
     "title": "Professional Discovery Interview",
     "section": "",
-    "text": "Mendengar sebelum proposing dan membangun shared problem statement dengan person.",
+    "text": "Mendengar sebelum proposing (menawarkan solusi) dan membangun shared problem statement bersama mitra (person).",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -6466,7 +6598,7 @@
     "href": "portfolio/week-05.html#kompetensi-target",
     "title": "Professional Discovery Interview",
     "section": "",
-    "text": "Mendengar sebelum proposing dan membangun shared problem statement dengan person.",
+    "text": "Mendengar sebelum proposing (menawarkan solusi) dan membangun shared problem statement bersama mitra (person).",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -6477,7 +6609,7 @@
     "href": "portfolio/week-05.html#evidence-wajib",
     "title": "Professional Discovery Interview",
     "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nInitial assumption dan pertanyaan discovery.\nTranscript/paraphrase serta problem impact dan constraint.\nShared problem statement yang dikonfirmasi partner.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 5 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "text": "Evidence wajib\n\nInitial assumption (asumsi awal) dan daftar pertanyaan discovery.\nTranskrip / paraphrase percakapan serta analisis problem impact dan constraint.\nShared problem statement yang telah dikonfirmasi oleh mitra.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -6488,18 +6620,51 @@
     "href": "portfolio/week-05.html#konteks-performance",
     "title": "Professional Discovery Interview",
     "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "text": "Konteks performance\nTanggal dan setting: Rabu, 21 Oktober 2026, pukul 16.00–16.30 WIB di Kantin Perpustakaan Pusat ITB (Tatap muka santai dua mata). Percakapan dicatat segera setelah sesi berakhir.\nPersons dan relationship: Saya (Obert, Kepala Divisi Project STEI-K 25) dan Rian (nama samaran, Kepala Divisi Lapangan & Logistik STEI-K 25). Relasi: Rekan sejawat sesama Kepala Divisi di kepanitiaan organisasi kampus dengan trust level tinggi, namun sering mengalami gesekan operasional di 3 acara terakhir.\nObjective dan initial state:\n\nInitial State: Dalam 3 acara terakhir, penyiapan venue dan panggung selalu terlambat 45–60 menit dari jadwal gladi bersih. Saya masuk ke sesi percakapan dengan kekesalan dan asumsi awal bahwa Divisi Lapangan kurang disiplin dalam eksekusi waktu.\nObjective: Menahan dorongan untuk langsung menawarkan solusi/menegur (no early proposing), mengajukan pertanyaan eksploratif (discovery questions), mendengarkan hambatan riil Rian, serta merumuskan shared problem statement yang disepakati bersama.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
     ]
   },
   {
-    "objectID": "portfolio/week-05.html#evidence",
-    "href": "portfolio/week-05.html#evidence",
+    "objectID": "portfolio/week-05.html#initial-assumption-dan-pertanyaan-discovery",
+    "href": "portfolio/week-05.html#initial-assumption-dan-pertanyaan-discovery",
     "title": "Professional Discovery Interview",
-    "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "section": "Initial assumption dan pertanyaan discovery",
+    "text": "Initial assumption dan pertanyaan discovery\n\nAsumsi Awal Saya (Sebelum Interview)\n\n“Divisi Lapangan sering molor menyiapkan perlengkapan arena karena anggota timnya kurang disiplin waktu dan manajemen pengerjaan internal divisinya buruk.”\n\n\n\nPertanyaan Discovery (Dirancang Tanpa Nada Menggurui/Mengarahkan)\n\nPertanyaan Pembuka Konteks: “Rian, dari 3 proker terakhir kita, apa yang biasanya jadi bottleneck paling menguras energi tim lo saat proses setup tempat?”\nEksplorasi Hambatan Teknis: “Bisa ceritain alur kerja tim lo mulai dari pas barang dari vendor dateng sampe panggung siap dipakai?”\nEksplorasi Dampak & Keterbatasan (Impact & Constraint): “Apa hambatan terbesar di luar kendali Divisi Lapangan yang bikin anak-anak lo sering harus kerja ekstra sampai larut malam H-1?”\nPertanyaan Kebutuhan Ideal: “Kalau dari sudut pandang lo, apa bentuk dukungan dari Divisi Project atau Acara yang paling ngebantu mempermudah alur kerja tim lapangan?”",
+    "crumbs": [
+      "Beranda",
+      "Professional Discovery Interview"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-05.html#transkrip-dan-paraphrase-percakapan",
+    "href": "portfolio/week-05.html#transkrip-dan-paraphrase-percakapan",
+    "title": "Professional Discovery Interview",
+    "section": "Transkrip dan paraphrase percakapan",
+    "text": "Transkrip dan paraphrase percakapan\nObert: “Rian, thanks ya udah mau ketemu santai. Gua mau paham lebih dalam soal persiapan teknis acara kita. Dari 3 proker terakhir, apa yang biasanya jadi bottleneck paling menguras energi tim lapangan saat setup tempat?”\nRian: “Jujur ya Bert, anak-anak tuh udah capek banget dianggap selalu molor. Padahal masalah utamanya tuh draf daftar kebutuhan alat dari Divisi Acara dan Project sering banget baru fix H-2. Pihak Sarpras Kampus kan minta surat peminjaman resmi masuk H-7 kerja. Jadi perizinan barang baru keluar H-1 malam, otomatis vendor baru bisa bongkar muat jam 1 malam!”\nObert (Paraphrase & Active Listening): “Jadi kalau gua gak salah tangkap, keterlambatan setup di lapangan itu bukan karena eksekusi fisik tim lo yang lambat, tapi karena surat izin sarpras tertahan akibat perubahan daftar alat yang baru final di H-2 dari divisi lain? Bener gitu?”\nRian: “100% bener Bert! Kita di lapangan cuma kena imbasnya doang. Begitu perizinan keluar malam, anak-anak harus begadang sampai subuh buat unloading, akhirnya pas pagi fisik mereka udah drop dan ada alat yang terlambat dipasang.”\nObert (Menggali Constraint & Impact): “Paham gua. Berarti constraint utamanya ada di regulasi H-7 Sarpras Kampus, sementara dampak riilnya bikin fisik tim lo terkuras di H-1 dan mengganggu timeline gladi bersih. Menurut lo, apa yang perlu kita perbaiki di alur koordinasi hulu?”\nRian: “Kita butuh cut-off date kunci daftar alat di H-8. Kalau Divisi Acara atau Project lewat dari tanggal itu mau nambah alat, harus urus izin sendiri ke Sarpras, jangan limpahin ke tim lapangan.”",
+    "crumbs": [
+      "Beranda",
+      "Professional Discovery Interview"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-05.html#analisis-problem-impact-dan-constraint",
+    "href": "portfolio/week-05.html#analisis-problem-impact-dan-constraint",
+    "title": "Professional Discovery Interview",
+    "section": "Analisis problem impact dan constraint",
+    "text": "Analisis problem impact dan constraint\n\n\n\n\n\n\n\n\nElemen\nTemuan Discovery\nEvidence & Penjelasan\n\n\n\n\nRoot Cause (Akar Masalah)\nLate Request Lock dari Hulu\nPermintaan daftar alat dari Divisi Acara/Project baru diposisikan final pada H-2 acara.\n\n\nInstitutional Constraint\nAturan Birokrasi Sarpras Kampus\nPihak Sarpras ITB secara ketat mematok disposisi perizinan ruangan/alat minimal H-7 hari kerja.\n\n\nOperational Impact\nKelelahan Fisik & Delay Gladi\nTim Lapangan terpaksa melakukan unloading barang pada jam 01.00 WIB (H-1 subuh). Akibatnya, fisik anggota drop dan jadwal gladi bersih H-1 pagi molor 60 menit.\n\n\nRelationship Impact\nStigma & Defensif\nDivisi Lapangan merasa dikambinghitamkan atas keterlambatan yang tidak bersumber dari kelalaian mereka.",
+    "crumbs": [
+      "Beranda",
+      "Professional Discovery Interview"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-05.html#shared-problem-statement-dan-konfirmasi",
+    "href": "portfolio/week-05.html#shared-problem-statement-dan-konfirmasi",
+    "title": "Professional Discovery Interview",
+    "section": "Shared problem statement dan konfirmasi",
+    "text": "Shared problem statement dan konfirmasi\nMelalui proses mendengarkan dan me-paraphrase penjelasan Rian, kami menyepakati satu rumusan masalah bersama (Shared Problem Statement):\n\n\n\n\n\n\nCatatanShared Problem Statement yang Disepakati\n\n\n\n\n“Masalah utama keterlambatan setup acara kita bukan terletak pada disiplin eksekusi Divisi Lapangan, melainkan belum adanya cut-off date kebutuhan alat yang mengikat di H-8. Hal ini menyebabkan berkas perizinan Sarpras Kampus terhambat (Constraint H-7), sehingga memicu penumpukan kerja fisik tim lapangan pada H-1 malam dan mengganggu jadwal gladi bersih.”\n\n\n\n\nBukti Konfirmasi Partner (Rian)\nSaat rumusan di atas dibacakan kembali ke Rian, ia mengonfirmasi:\n\n“Nah! Itu dia rumusan masalah yang pas banget Bert. Kalau pernyataan itu yang kita bawa ke rapat pleno besok, gua dan anak-anak lapangan bakal dukung penuh solusi cut-off date-nya.”",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -6510,7 +6675,7 @@
     "href": "portfolio/week-05.html#analisis-komunikasi",
     "title": "Professional Discovery Interview",
     "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nMembaca Rian sebagai sosok Kepala Divisi yang bertanggung jawab dan sangat protektif terhadap kondisi fisik anggotanya. Framing awal saya bergeser dari “Rian pemalas” menjadi “Rian korban kebocoran sistem koordinasi hulu”.\n\n\nObjective & state\nState awal: Menahan asumsi pribadi (kekesalan delay 60 menit). Objective: No early proposing hingga masalah diartikulasikan oleh mitra. State akhir: Tercapai kesepakatan rumusan masalah 100% shared.\n\n\nRepertoire & language\nMenggunakan teknik Discovery Questioning (pertanyaan terbuka tanpa presumsi) diikuti oleh Paraphrase Verification (“Jadi kalau gua gak salah tangkap…”). Bahasa ini membuat mitra merasa didengar tanpa disudutkan.\n\n\nResponse & adaptation\nSaat Rian mengekspresikan kekecewaannya (“anak-anak udah capek dianggap molor”), saya tidak mempertahankan argumen saya, melainkan mengesampingkan ego dan memvalidasi beban emosionalnya terlebih dahulu.\n\n\nAgreement/action\nShared Problem Statement terumuskan dan terkonfirmasi secara verbal. Langkah aksi: Menyusun mekanisme Cut-Off Date H-8 untuk diajukan ke Rapat Pleno Kepanitiaan.\n\n\nRelationship outcome\nKetegangan antar-divisi mencair. Rian merasa Divisi Project hadir sebagai mitra pemecah masalah, bukan atasan yang menghakimi.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -6521,7 +6686,7 @@
     "href": "portfolio/week-05.html#penggunaan-ai",
     "title": "Professional Discovery Interview",
     "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
+    "text": "Penggunaan AI\n\nAlat & Peran: Claude 3.5 Sonnet digunakan pasca-sesi untuk mengelompokkan catatan percakapan mentah ke dalam kategori Root Cause, Constraint, dan Impact.\nPrompt Utama: “Bantu saya menstrukturkan hasil transkrip wawancara dengan mitra ini ke dalam tabel analisis Problem Impact dan Institutional Constraint secara sistematis.”\nBagian yang Diubah/Ditolak: AI sempat merekomendasikan saran solusi teknis pembuatan aplikasi inventarisasi. Saya menolaknya karena tahap sesi ini murni dibatasi pada Discovery dan penyepakatan Problem Statement, bukan penawaran solusi (no early proposing).\nPembelajaran Mandiri: Keterampilan menahan diri untuk tidak langsung memberikan solusi (resisting early proposing) adalah disiplin komunikasi yang memerlukan kesadaran penuh saat berhadapan dengan masalah.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -6532,7 +6697,7 @@
     "href": "portfolio/week-05.html#feedback-dan-tindak-lanjut",
     "title": "Professional Discovery Interview",
     "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "text": "Feedback dan tindak lanjut\nFeedback dari Partner (Rian): &gt; “Gua respek banget lo mau ngajak ngobrol dua mata gini buat nanya kendala riil kita, bukannya langsung ngomel di grup pleno kaya divisi lain.”\nAdaptation/replay: Pada Rapat Pleno Kepanitiaan keesokan harinya, saya mempresentasikan Shared Problem Statement ini mewakili Divisi Project dan Lapangan. Ketua Pelaksana menyetujui pemberlakuan aturan baru: Lock Deadline Kebutuhan Alat pada H-8.\nNext practice: Melatih Discovery Interview sebelum mengeksekusi penugasan besar dengan bertanya kepada minimal 2 ketua divisi berbeda mengenai constraint tersembunyi yang mereka hadapi.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -6543,7 +6708,7 @@
     "href": "portfolio/week-05.html#self-assessment",
     "title": "Professional Discovery Interview",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nNiat dan beban Rian dipetakan secara empatik; asumsi pribadi berhasil dikesampingkan sepenuhnya selama percakapan.\n\n\nObjective & State\n4\nNo early proposing berhasil dijaga hingga akar masalah diidentifikasi; pergeseran dari persepsi sepihak menuju kesepakatan bersama terdokumentasi jelas.\n\n\nRepertoire, Language & AI\n4\nPertanyaan discovery dirancang terbuka dan diikuti paraphrase yang presisi; penggunaan AI dibatasi murni pada pengelompokan data tanpa intervensi solusi.\n\n\nResponse & Adaptation\n4\nEmosi defensif mitra divalidasi dengan cepat; analisis impact dan constraint terurai secara tajam dan realistis.\n\n\nAgreement, Action & Relationship\n4\nShared Problem Statement dikonfirmasi eksplisit oleh partner dengan kutipan langsung; relasi antar-divisi membaik signifikan.\n\n\n\nTotal Skor: 20 / 20 — Sangat Kompeten. Berhasil membuktikan kompetensi Discovery Interview melalui empati mendengarkan, pemetaan constraint yang akurat, dan perumusan masalah bersama yang disepakati mitra.\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -6554,7 +6719,7 @@
     "href": "portfolio/week-07.html",
     "title": "Problem–Solution Interest Pitch",
     "section": "",
-    "text": "Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan.",
+    "text": "Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan serta mendeteksi hidden concern.",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
@@ -6565,7 +6730,7 @@
     "href": "portfolio/week-07.html#kompetensi-target",
     "title": "Problem–Solution Interest Pitch",
     "section": "",
-    "text": "Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan.",
+    "text": "Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan serta mendeteksi hidden concern.",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
@@ -6576,18 +6741,40 @@
     "href": "portfolio/week-07.html#evidence-wajib",
     "title": "Problem–Solution Interest Pitch",
     "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nAttention evidence dan problem–solution link.\nInterest pitch dengan evidence atau demonstration.\nResponse, state assessment, hidden concern, dan adaptation.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 7 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "text": "Evidence wajib\n\nAttention evidence dan problem–solution link.\nInterest pitch dengan evidence atau demonstration prototype.\nResponse, state assessment, hidden concern, dan adaptation.",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
     ]
   },
   {
-    "objectID": "portfolio/week-07.html#konteks-performance",
-    "href": "portfolio/week-07.html#konteks-performance",
+    "objectID": "portfolio/week-07.html#attention-evidence-dan-solution-hypothesis",
+    "href": "portfolio/week-07.html#attention-evidence-dan-solution-hypothesis",
     "title": "Problem–Solution Interest Pitch",
-    "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "section": "Attention evidence dan solution hypothesis",
+    "text": "Attention evidence dan solution hypothesis\nData agregat dua minggu menunjukkan 18 dari 23 pertanyaan berulang di grup ternyata memuat informasi yang sebenarnya sudah ada di grup divisi lain. Dani (Ketua Panitia) dan Sita (Sekretaris Utama) telah mengakui bahwa visibilitas informasi yang tersebar layak diperiksa.\nSolution hypothesis: Dasbor Ringkasan Tugas Tunggal (berbasis Notion terintegrasi WA Bot Broadcast) dapat menyatukan alur informasi tanpa membuat panitia harus membuka banyak grup.\n\n\n\n\n\n\n\n\n\nProblem\nMechanism\nExpected benefit\nValue bagi target\n\n\n\n\nInfo tugas tersebar di 5 grup WA\nSingle Read-Only Dashboard & Auto-Broadcast WA jam 08.00\nPanitia cukup melihat 1 sumber rujukan resmi\nPertanyaan “tugas apa/deadline kapan” di grup berkurang &gt;60%\n\n\nAnggota lupa deadline\nFitur Check-in Task otomatis 1 klik\nProgress tugas terpantau real-time\nDani & Sita tidak perlu mengejar update manual tiap malam",
+    "crumbs": [
+      "Beranda",
+      "Problem–Solution Interest Pitch"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-07.html#pitch-dan-demonstration",
+    "href": "portfolio/week-07.html#pitch-dan-demonstration",
+    "title": "Problem–Solution Interest Pitch",
+    "section": "Pitch dan demonstration",
+    "text": "Pitch dan demonstration\n\n“Dani & Sita, data agregat kita membuktikan 18 dari 23 pertanyaan di grup terjadi karena infonya ada di grup divisi lain. Prototype ini tidak menghapus grup WA yang ada: dasbor Notion ini hanya menarik ringkasan deadline, dan bot WA mengirimkan rekap 1 kali setiap pagi. Mari kita uji coba di Divisi Project selama 5 hari; keberhasilannya kita ukur dari penurunan pertanyaan berulang di grup.”\n\nSaya menunjukkan demonstrasi prototype dasbor dan simulasi pesan bot WA selama 90 detik. Sita mencoba menekan tombol check-in dan berkata:\n\n“Tampilannya simpel sih Bert, tapi siapa yang bertanggung jawab nginput data tugasnya ke Notion? Kalau sekretaris divisi harus nginput manual lagi tiap hari, itu malah nambah-nambahin kerjaan kita.”",
+    "crumbs": [
+      "Beranda",
+      "Problem–Solution Interest Pitch"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-07.html#hidden-concern-dan-adaptation",
+    "href": "portfolio/week-07.html#hidden-concern-dan-adaptation",
+    "title": "Problem–Solution Interest Pitch",
+    "section": "Hidden concern dan adaptation",
+    "text": "Hidden concern dan adaptation\nSaya semula mengira concern utama Dani/Sita adalah biaya atau adaptasi teknologi anggota. Response Sita menunjukkan hidden concern sebenarnya adalah beban kerja tambahan (workload) dan integritas input data. Saya tidak bertahan pada desain awal.\nAdaptasi Mechanism & Claim: 1. Pangkas Input Manual: Hak input Notion dibatasi hanya untuk Kadiv saat rapat mingguan (bukan harian); bot WA menarik data secara otomatis. 2. Penyesuaian Janji: Mengubah janji dari “mengeliminasi seluruh miskomunikasi” menjadi “menguji apakah ringkasan pagi mengurangi pertanyaan berulang di Divisi Project selama 5 hari”.\nDani dan Sita menunjukkan sinyal Interest dengan meminta melihat draf format input Kadiv dan mendiskusikan metrik pengujian, namun belum memberi izin eksekusi penuh panitia.",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
@@ -6598,7 +6785,7 @@
     "href": "portfolio/week-07.html#evidence",
     "title": "Problem–Solution Interest Pitch",
     "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "text": "Evidence\n\nData Audit Agregat Dua Minggu (1–12 November 2026): - Total pertanyaan berulang di grup WA panitia: 23 pertanyaan. - Temuan: 18 dari 23 pertanyaan (78.2%) menanyakan informasi yang sebenarnya sudah ada di dokumen/grup divisi lain.\nRekonstruksi Demonstrasi Prototype & Dialog (Rabu 11 Nov 2026, 15.30 WIB di Selasar Lab STEI): - Obert (Pitch & Demo 90 detik): “Dani & Sita, data agregat membuktikan 18 dari 23 pertanyaan di grup terjadi karena infonya ada di grup divisi lain. Prototype dasbor Notion & WA Bot ini menarik ringkasan deadline tiap jam 8 pagi. Mari uji di Divisi Project 5 hari.” - Sita (Hidden Concern): “Tampilannya simpel sih Bert, tapi siapa yang bertanggung jawab nginput data tugasnya ke Notion? Kalau sekretaris divisi harus nginput manual lagi tiap hari, itu malah nambah-nambahin kerjaan kita.” - Obert (Adaptasi Real-time): “Poin penting banget, Sit. Kalau gitu kita pangkas alurnya: sekretaris gak usah nginput harian. Hak input cuma dibuka buat Kadiv pas Rapat Pleno mingguan (sekali seminggu), sisa rekomendasinya ditarik otomatis sama Bot. Jadi gak ada beban input harian buat sekretaris.” - Dani & Sita: “Nah, kalau cuma ngisi seminggu sekali pas pleno boleh deh. Coba kita liat draf format input Kadiv-nya dulu Rabu malam.”\nLog Perubahan Permisi & Akses Notion (Disimpan Rabu 11 Nov 16.00 WIB): - Versi 1.0 (Sebelum Feedback): Hak input dibuka untuk seluruh Sekretaris Divisi (Harian). - Versi 2.0 (Setelah Feedback Sita): Hak input dikunci (Read-Only), form diisi otomatis via bot dari Log Notulensi Pleno Mingguan.\nCatatan Observer (M.F., Pengurus Angkatan): &gt; “Obert berhasil nangkep bahwa Sita gak keberatan sama fisiknya Notion, tapi takut ketambahan beban admin. Pas Obert langsung ngubah alur input jadi mingguan, defensifnya Sita langsung turun dan mau liat drafnya.”",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
@@ -6609,7 +6796,7 @@
     "href": "portfolio/week-07.html#analisis-komunikasi",
     "title": "Problem–Solution Interest Pitch",
     "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nMembaca Sita (Sekretaris) sebagai sosok yang sangat peka terhadap workload administratif. Framing solusi disesuaikan agar tidak menambah beban sekretaris.\n\n\nObjective & state\nState awal: Attention with Reservation. Objective: Membangun Interest melalui bukti mekanisme solusi konkret. State akhir: Interest (setuju meninjau draf formulir input).\n\n\nRepertoire & language\nDemo singkat 90 detik, bahasa fokus pada mechanism-to-value link (mengurangi pertanyaan berulang), diikuti pertanyaan penggali hidden concern.\n\n\nResponse & adaptation\nMenanggapi keberatan Sita soal beban input dengan mengubah arsitektur akses Notion (otomatisasi bot & pembatasan input Kadiv mingguan).\n\n\nAgreement/action\nKesepakatan: Sita dan Dani setuju meninjau template input Kadiv pada Rabu malam sebelum memberi izin pilot 5 hari.\n\n\nRelationship outcome\nSita merasa dihargai karena kekhawatirannya akan beban kerja tidak diabaikan, melainkan langsung diakomodasi dalam revisi sistem.",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
@@ -6620,7 +6807,7 @@
     "href": "portfolio/week-07.html#penggunaan-ai",
     "title": "Problem–Solution Interest Pitch",
     "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
+    "text": "Penggunaan AI\n\nAlat dan peran: Claude 3.5 Sonnet dipakai untuk merancang daftar risiko operasional prototype Notion-WA Bot.\nPrompt: “Daftarkan 3 risiko teknis dan operasional terbesar jika dasbor Notion digunakan oleh panitia mahasiswa yang belum terbiasa.”\nPenyesuaian: AI menyarankan penambahan fitur notifikasi instan tiap jam. Saya menolaknya karena menimbang hidden concern Sita soal penumpukan notifikasi (spam).\nPembelajaran mandiri: AI dapat membantu memetakan risiko teknis, tetapi kepekaan terhadap rasa lelah emosional target (workload fatigue) hanya bisa dideteksi lewat interaksi langsung.",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
@@ -6631,7 +6818,7 @@
     "href": "portfolio/week-07.html#feedback-dan-tindak-lanjut",
     "title": "Problem–Solution Interest Pitch",
     "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "text": "Feedback dan tindak lanjut\nFeedback yang Diterima (dari Target, Sita): “Bagus kamu gak maksa kita nginput tiap hari Bert. Kalau cuma Kadiv yang ngisi seminggu sekali pas rapat, sekretaris gak akan keberatan.”\nAdaptation/replay: Setelah sesi demo, saya langsung merevisi struktur Notion agar kolom Task Owner terisi otomatis melalui template button.\nNext practice: Menanyakan hidden concern tentang beban kerja target sebelum memulai sesi demonstrasi prototype.",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
@@ -6642,7 +6829,7 @@
     "href": "portfolio/week-07.html#self-assessment",
     "title": "Problem–Solution Interest Pitch",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nValue dan workload constraint Sekretaris/Ketua dipetakan secara tajam.\n\n\nObjective & State\n4\nState Attention dibedakan jernih dari Interest; pergeseran state terdokumentasi via respons target.\n\n\nRepertoire, Language & AI\n4\nDemo 90 detik presisi; batasan AI dijelaskan transparan (menolak rekomendasi notifikasi per jam).\n\n\nResponse & Adaptation\n4\nHidden concern beban kerja direspon dengan mengubah arsitektur input sistem secara substantif.\n\n\nAgreement, Action & Relationship\n4\nPeninjauan draf template disepakati tanpa premature commitment, menjaga relasi kolaboratif.\n\n\n\nTotal: 20 / 20 — Sangat Kompeten.",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
@@ -6653,7 +6840,7 @@
     "href": "portfolio/week-09.html",
     "title": "Desire-State Communication",
     "section": "",
-    "text": "Membangun desired state bersama target dan menghubungkannya dengan solution secara kredibel.",
+    "text": "Membangun desired state bersama target dan menghubungkannya dengan solution secara kredibel tanpa klaim berlebihan.",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
@@ -6664,7 +6851,7 @@
     "href": "portfolio/week-09.html#kompetensi-target",
     "title": "Desire-State Communication",
     "section": "",
-    "text": "Membangun desired state bersama target dan menghubungkannya dengan solution secara kredibel.",
+    "text": "Membangun desired state bersama target dan menghubungkannya dengan solution secara kredibel tanpa klaim berlebihan.",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
@@ -6675,29 +6862,51 @@
     "href": "portfolio/week-09.html#evidence-wajib",
     "title": "Desire-State Communication",
     "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nCurrent dan desired state milik person.\nFeature–benefit–value–outcome chain.\nRisk, evidence threshold, response, dan adaptation.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 9 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "text": "Evidence wajib\n\nCurrent dan desired state milik person (bukan asumsi pribadi).\nFeature–benefit–value–outcome chain.\nRisk, evidence threshold, response, dan adaptation.",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
     ]
   },
   {
-    "objectID": "portfolio/week-09.html#konteks-performance",
-    "href": "portfolio/week-09.html#konteks-performance",
+    "objectID": "portfolio/week-09.html#current-dan-desired-state",
+    "href": "portfolio/week-09.html#current-dan-desired-state",
     "title": "Desire-State Communication",
-    "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "section": "Current dan desired state",
+    "text": "Current dan desired state\n\n\n\n\n\n\n\nElemen\nRumusan Target (Dani & Sita), Bukan Asumsi Obert\n\n\n\n\nCurrent State\nPanitia menghabiskan 30–45 menit sehari hanya untuk me-rekonfirmasi info tugas di grup WA; koordinasi antar-divisi sering terhambat.\n\n\nDesired State\nSeluruh panitia memiliki kepastian info tugas dalam kurang dari 1 menit tanpa perlu menanya berulang di grup atau memelihara dua sumber data terpisah.\n\n\nValue\nEfisiensi waktu pengurus; fokus energi panitia bergeser dari “mencari informasi” ke “eksekusi kualitas acara”.\n\n\nAcceptable Risk\nUji coba (pilot) terbatas di 2 divisi (Project & Acara) selama 5 hari; dapat dihentikan seketika jika terjadi kebingungan alur.\n\n\nEvidence Threshold\nAngka pertanyaan berulang di grup turun minimal 50% dan tidak ada insiden salah jadwal tugas selama 5 hari uji coba.",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
     ]
   },
   {
-    "objectID": "portfolio/week-09.html#evidence",
-    "href": "portfolio/week-09.html#evidence",
+    "objectID": "portfolio/week-09.html#featurebenefitvalueoutcome-chain",
+    "href": "portfolio/week-09.html#featurebenefitvalueoutcome-chain",
     "title": "Desire-State Communication",
-    "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "section": "Feature–benefit–value–outcome chain",
+    "text": "Feature–benefit–value–outcome chain\nDasbor Notion Rujukan Tunggal \\(\\rightarrow\\) Informasi tugas terintegrasi di satu tempat \\(\\rightarrow\\) Panitia tidak perlu cross-check ke grup lain \\(\\rightarrow\\) Waktu koordinasi hemat 45 menit/hari \\(\\rightarrow\\) Eksekusi proker lebih presisi & beban emosional panitia berkurang.\nCatatan Metodologis: Saya menyampaikan rantai ini kepada Dani sebagai hipotesis kerja yang perlu diuji bersama, bukan sebagai janji kepastian tanpa celah.",
+    "crumbs": [
+      "Beranda",
+      "Desire-State Communication"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-09.html#percakapan-dan-response",
+    "href": "portfolio/week-09.html#percakapan-dan-response",
+    "title": "Desire-State Communication",
+    "section": "Percakapan dan response",
+    "text": "Percakapan dan response\n\nObert: “Dan, kalau misal pilot 5 hari ini berhasil, kondisi ideal (desired state) seperti apa yang pengen kamu liat di panitia kita?”\nDani: “Bukan sekadar grupnya jadi sepi dari pertanyaan, Bert. Gua pengen pas rapat pleno, tiap Kadiv udah tahu persis progress divisinya tanpa Sita atau gua harus meyakinkan ulang data tugas mereka satu-satu.”\nObert: “Berarti kalau dasbor kita cuma bikin info terpusat tapi Kadiv tetap harus di-ping manual buat update progress, prototype ini masih dianggap gagal menurutmu?”\nDani: “Iya, betul. Kuncinya di kepastian status progress tanpa perlu kejar-kejaran chat.”\n\nAdaptasi Solusi: Berdasarkan dialog ini, saya mengubah fitur dasbor: menambahkan status indikator visual (Green = On Track, Yellow = At Risk, Red = Delayed) yang terhubung langsung ke notifikasi otomatis pagi, sehingga Dani tidak perlu mengejar update manual.",
+    "crumbs": [
+      "Beranda",
+      "Desire-State Communication"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-09.html#risk-dan-evidence",
+    "href": "portfolio/week-09.html#risk-dan-evidence",
+    "title": "Desire-State Communication",
+    "section": "Risk dan evidence",
+    "text": "Risk dan evidence\n\nTranskrip Eksplorasi Desired State (Kamis 12 Nov 2026, 13.15 WIB di Kantin Bundar ITB): - Obert: “Dan, kalau misal pilot 5 hari ini berhasil, kondisi ideal (desired state) seperti apa yang pengen kamu liat di panitia kita?” - Dani: “Bukan sekadar grupnya jadi sepi dari pertanyaan, Bert. Gua pengen pas rapat pleno, tiap Kadiv udah tahu persis progress divisinya tanpa Sita atau gua harus meyakinkan ulang data tugas mereka satu-satu.” - Obert: “Berarti kalau dasbor kita cuma bikin info terpusat tapi Kadiv tetap harus di-ping manual buat update progress, prototype ini masih dianggap gagal menurutmu?” - Dani: “Iya, betul. Kuncinya di kepastian status progress tanpa perlu kejar-kejaran chat.”\nMatriks Feature–Benefit–Value Chain yang Disetujui Dani: 1. Feature: Indikator Status Visual (Green = On Track, Yellow = At Risk, Red = Delayed). 2. Benefit: Kadiv langsung tahu posisi tugas tanpa tanya di chat. 3. Value: Beban micro-management Ketua & Sekretaris berkurang tajam. 4. Outcome: Pleno berjalan 30 menit lebih cepat dan tepat sasaran.\nCatatan Safeguard & Kesepakatan Risk Mitigation (12 Nov 13.40 WIB): - Risiko Teridentifikasi: Bot WA error/down saat broadcast pagi. - Safeguard Konkret: Menyediakan label timestamp “Terakhir Diperbarui: [Tanggal/Jam]” pada dasbor. Jika bot mati &gt;2 jam, grup WA utama otomatis aktif kembali sebagai rujukan resmi. - Agreement: Dani menyetujui technical check dasbor bersama seluruh Kadiv pada Kamis sore sebelum Go/No-Go.",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
@@ -6708,7 +6917,7 @@
     "href": "portfolio/week-09.html#analisis-komunikasi",
     "title": "Desire-State Communication",
     "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
+    "text": "Analisis komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nMemahami desired state utama Dani adalah kepastian kontrol operasional tanpa beban micro-management.\n\n\nObjective & state\nMenggeser state Dani dari Interest menuju Desire (keinginan kuat mencapai kondisi ideal bersama) dengan menetapkan evidence threshold yang jelas.\n\n\nRepertoire & language\nMenggunakan inquiring framing (“Kondisi ideal seperti apa yang kamu harapkan?”); menyajikan value chain sebagai hipotesis yang jujur.\n\n\nResponse & adaptation\nJawaban Dani bahwa ia tak ingin kejar-kejaran chat mengadaptasi fitur: menambah indikator status visual Green/Yellow/Red.\n\n\nAgreement/action\nDisepakati technical check dasbor bersama seluruh Kadiv pada Kamis sore sebelum go/no-go pilot.\n\n\nRelationship outcome\nDani merasa visi kepemimpinannya diakomodasi; solusi dipandang sebagai investasi efisiensi tim bersama.",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
@@ -6719,7 +6928,7 @@
     "href": "portfolio/week-09.html#penggunaan-ai",
     "title": "Desire-State Communication",
     "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
+    "text": "Penggunaan AI\n\nAI (Claude 3.5 Sonnet) digunakan untuk menguji asumsi lompatan logika pada value chain.\nAI menyarankan klaim: “Sistem ini akan meningkatkan efisiensi panitia sebesar 85%.”\nSaya menolak klaim AI tersebut karena tidak berbasis data empiris dan berisiko memicu ekspektasi palsu sebelum pilot berjalan.",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
@@ -6730,7 +6939,7 @@
     "href": "portfolio/week-09.html#feedback-dan-tindak-lanjut",
     "title": "Desire-State Communication",
     "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Dani menyatakan: “Gua suka cara lo nanya apa yang gua butuhin dulu pas pleno, jadi tools ini beneran ngebantu beban kepala gua sebagai ketua.”\nNext practice: Selalu memverifikasi evidence threshold target sebelum merancang fitur tambahan pada solusi.",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
@@ -6741,7 +6950,7 @@
     "href": "portfolio/week-09.html#self-assessment",
     "title": "Desire-State Communication",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nDesired state dirumuskan murni dari perkataan target, bukan asumsi perancang.\n\n\nObjective & State\n4\nCurrent state, desired state, risk, dan evidence threshold terurai eksplisit.\n\n\nRepertoire, Language & AI\n4\nValue chain disajikan jujur sebagai hipotesis; klaim klaim kuantitatif AI yang tidak realistis ditolak tegas.\n\n\nResponse & Adaptation\n4\nMasukan target mengubah arsitektur fitur (penambahan status visual Green/Yellow/Red).\n\n\nAgreement, Action & Relationship\n4\nTechnical check disepakati tanpa premature commitment, memperkuat trust kepemimpinan.\n\n\n\nTotal: 20 / 20 — Sangat Kompeten.",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
