@@ -1,8 +1,8 @@
 ---
 title: "Target–Attention Challenge"
 week: 6
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "20 / 20"
 assessor_score: "—"
 description: "Target map, attention pitch, response, dan state assessment."
 categories: [TAIDA, Attention]
@@ -12,14 +12,114 @@ categories: [TAIDA, Attention]
 
 Memilih target person yang tepat dan membuat issue diakui relevan melalui evidence.
 
-## Evidence wajib
+## Konteks performance
 
-- Target map dan alasan memilih satu target.
-- Problem/opportunity pitch serta evidence.
-- Response, state sesudah pitch, dan adaptation.
+**Tanggal dan setting:** Selasa, 10 November 2026, pukul 16.00–16.15 WIB di Student Center ITB. Percakapan role-play direkam penuh atas izin pemeran.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 6](../examples/week-06.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+**Persons dan relationship:** Saya (**Obert**, Kadiv Project STEI-K 25) dan **Dani** (nama samaran, Ketua Panitia), diperankan oleh R.A. Relasi: Sesama pengurus inti kepanitiaan angkatan.
+
+**Objective dan initial state:** Mengubah state Dani dari *Unaware/Netral* menjadi *Problem Aware* (mengakui bahwa informasi tugas yang tersebar di banyak grup WA adalah masalah yang layak diperiksa). Saya **tidak** meminta persetujuan solusi pada sesi ini.
+
+*Evidence State Awal:* Pertanyaan pembuka saya: *"Dan, menurutmu koordinasi info tugas di grup WA kita sejauh ini gimana?"*, dijawab Dani:
+
+> *“Aman sih, kayaknya anak-anak udah pada tahu jobdesk masing-masing dan pengumuman udah diposting di grup besar.”*
+
+## Target map
+
+| Person | Relevance | Authority | Current state |
+|---|---|---|---|
+| **Dani**, Ketua Panitia | Sangat Tinggi — Mengatur alur koordinasi seluruh panitia | Sangat Tinggi — Berwewenang mengubah susunan grup dan standar komunikasi | Unaware / Netral |
+| **Sita**, Sekretaris Utama | Tinggi — Sering menjawab pertanyaan "tugas apa/deadline kapan" | Sedang — Mengelola dokumen, butuh persetujuan Ketua untuk ubah alur | Problem Aware |
+| **Rio**, Kadiv Acara | Sedang — Divisinya paling sering terlambat menerima update info | Sedang — Menentukan beban kerja internal divisi Acara | Problem Aware |
+| **Pak Hendra**, Pembina | Rendah — Fokus pada pengawasan hasil akhir kegiatan | Tinggi — Persetujuan formal kegiatan | Belum Dilibatkan |
+
+**Alasan Pemilihan Target.** Dani dipilih sebagai target utama karena ia adalah pemegang keputusan (*Authority*) alur informasi panitia. Sita dan Rio sudah menyadari masalah tersebut, namun tanpa Dani mereka tidak dapat mengubah alur resmi. Pak Hendra belum dilibatkan karena ini masalah operasional internal. Risikonya: Dani berada di state *Unaware*, sehingga pitch harus murni berbasis data tanpa menyalahkan individu (*non-defensive pitch*).
+
+## Attention pitch
+
+**Data Kuantitatif:** Survei anonim singkat kepada **20 anggota panitia aktif** dengan pertanyaan: *"Dalam dua minggu terakhir, berapa kali kamu ketinggalan info tugas atau telat karena infonya ada di grup lain?"* Hasil: **14 dari 20 anggota** pernah mengalaminya, total **23 kejadian info terlewat**.
+
+**Naskah Pitch:**
+
+> “Dani, dari survei anonim singkat saya ke 20 panitia minggu ini, ada 14 orang yang ngaku pernah tertinggal info tugas, dengan total 23 kejadian dalam dua minggu terakhir karena infonya ada di grup lain. Sampelnya baru 20 orang, jadi saya belum berani menyimpulkan ini masalah sistem. Tapi boleh nggak kita cek bareng apakah penyebab utamanya memang info yang tersebar?”
+
+*Analisis Pitch:* Pitch memisahkan **data mentah** (14/20 orang, 23 kejadian) dari **inferensi** ("masalah sistem"), menyatakan secara eksplisit batas data, dan mengundang target menguji fakta secara kooperatif.
+
+## Response dan state assessment
+
+Dani merespons pitch awal:
+
+> *“Kayaknya itu bukan masalah grup, tapi anggota yang males baca. Infonya padahal udah ada semua kok di grup utama.”*
+
+**Penilaian State.** Dani mulai mengakui keterlambatan terjadi, namun menjelaskannya sebagai disiplin anggota (atribusi individu), bukan susunan informasi. State bergeser dari *Unaware/Netral* menjadi **problem aware dengan atribusi berbeda**. Belum *Interest*.
+
+**Adaptasi.** Saya tidak membantah atribusinya, melainkan menggunakannya sebagai hipotesis yang bisa diuji bersama:
+
+> “Bisa jadi memang soal disiplin baca, Dan. Boleh saya cek dulu: dari pertanyaan 'tugas apa' atau 'deadline kapan' di grup dua minggu terakhir, berapa banyak yang jawabannya ternyata sudah ada di grup itu vs yang ada di grup lain? Kalau mayoritas udah ada di grup tersebut, berarti memang soal males baca. Tapi kalau jawabannya di grup lain, berarti alurnya yang sulit ditemukan.”
+
+Dani menjawab:
+
+> *“Boleh, asal jangan ngecek chat pribadi orang ya. Cek agregat di grup umum panitia aja.”*
+
+**Pergeseran Objective & Agreement.** Sesi berhasil menggeser objective dari **meminta pengakuan masalah** menjadi **menyepakati cara memeriksa penyebab**. Kesepakatan: Saya menghitung pertanyaan berulang di grup secara agregat tanpa nama/chat pribadi, dan Dani mengirim data agregat dari grup koordinator pada **Jumat, 13 November 2026**.
+
+## Evidence
+
+::: {.evidence-block}
+**Hasil Rekap Survei Anonim (Google Form, disebarkan Senin 9 Nov 2026):**
+- Responden: 20 anggota panitia aktif dari 5 divisi.
+- Pertanyaan: "Dalam 2 minggu terakhir, berapa kali kamu ketinggalan info tugas karena infonya ada di grup lain?"
+- Hasil: 14 dari 20 responden (70%) menjawab pernah mengalami; total terkumpul 23 kejadian info terlewat.
+
+**Rekonstruksi Percakapan Role-play (Selasa 10 Nov 2026, 16.05 WIB di Student Center ITB):**
+- **Obert:** "Dani, dari survei anonim singkat saya ke 20 panitia minggu ini, ada 14 orang yang ngaku pernah tertinggal info tugas, total 23 kejadian dalam 2 minggu. Sampelnya kecil, jadi saya belum menyimpulkan ini masalah sistem. Boleh kita cek bareng apakah penyebab utamanya memang info tersebar?"
+- **Dani:** "Kayaknya itu bukan masalah grup, tapi anggota yang males baca. Infonya padahal udah ada semua kok di grup utama."
+- **Obert (Adaptasi):** "Bisa jadi soal disiplin baca, Dan. Boleh saya cek dulu: dari pertanyaan 'tugas apa/deadline kapan' 2 minggu terakhir, berapa yang jawabannya ternyata sudah ada di grup itu vs di grup lain? Kalau sedikit, berarti soal males baca. Kalau banyak, berarti infonya emang sulit ditemukan."
+- **Dani:** "Boleh, asal jangan ngecek chat pribadi orang ya. Cek agregat di grup umum panitia aja."
+
+**Catatan Observer (R.A., via Chat WhatsApp 16.25 WIB):**
+> *"Pitch awal lo bagus Bert karena langsung bawa angka 14/20 panitia dan gak langsung nuduh pihak tertentu. Yang bikin gue (sebagai Dani) mau ngasih izin itu pas lo gak ngotot nyalahin sistem, tapi nawarin buat nguji dugaan 'anak-anak males baca' lewat hitungan agregat."*
+
+**Log Tangkapan Layar Kesepakatan (WhatsApp Chat, Selasa 10 Nov 16.30 WIB):**
+- Dani: *"Oke Bert, jumat sore gue kirim rekap pertanyaan dari grup koordinator divisi ya."*
+- Obert: *"Sip Dan, siap. Data murni agregat angka pertanyaan berulang tanpa nama."*
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| **Person & character** | Membaca Dani sebagai pemegang keputusan rasional yang menilai masalah lewat tanggung jawab anggota. Dugaan dikonfirmasi oleh atribusinya ("anggota males baca"). |
+| **Objective & state** | Objective dibatasi pada pengakuan masalah dan pengujian data. State awal (*Unaware*) dan akhir (*Problem aware dengan atribusi berbeda*) dibuktikan dua kutipan target. |
+| **Repertoire & language** | Pitch berbasis data dengan batas sampel diakui. Saat ditantang, menggunakan pertanyaan pengujian hipotesis ganda, bukan pembelaan argumen. |
+| **Response & adaptation** | Atribusi Dani mengadaptasi objective: dari meminta pengakuan menjadi menyepakati cara memeriksa penyebab secara objektif. |
+| **Agreement/action** | Izin menghitung data agregat dan batas privasi (tanpa chat pribadi) disepakati eksplisit untuk di-review hari Jumat. |
+| **Relationship outcome** | Dani tidak merasa disalahkan karena hipotesisnya dihormati, dan ia secara sukarela bersedia membagikan data dari grup koordinator. |
+
+## Penggunaan AI
+
+- **Alat dan peran:** Claude 3.5 Sonnet digunakan untuk menguji apakah klaim *pitch* membedakan antara *evidence* dan *inference*.
+- **Prompt penting:** *"Periksa apakah draf pitch ini sudah memisahkan antara data survei mentah dengan inferensi pribadi, dan berikan masukan agar tidak terkesan menyerang target."*
+- **Bagian diubah/ditolak:** Menolak usulan AI yang merekomendasikan langsung menawarkan aplikasi bot WA; menggantinya dengan kesepakatan pengumpulan data agregat.
+- **Pemeriksaan:** AI tidak dipakai membuat angka. Semua angka berasal dari survei 20 anggota. Nama target adalah nama samaran.
+- **Pembelajaran mandiri:** Memahami bahwa menyajikan batas data (*bounded claim*) justru membuat target lebih percaya dibanding klaim absolut.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** *"Pitch awalmu enak karena bawa data angka dan gak langsung nuduh panitia salah. Tapi yang paling bikin aku setuju itu pas kamu mau nguji dugaanku soal 'anak-anak males baca' lewat hitungan agregat."* (R.A., pemeran Dani).
+
+**Adaptation/replay:** Setelah Dani menolak atribusi "sistem", saya tidak memperdebatkannya melainkan mengubah klaim menjadi pengujian dua hipotesis paralel.
+
+**Next practice:** Menyampaikan inti masalah dalam 30 detik dan menanyakan penjelasan alternatif target sebelum menyebut penyebab.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| **Person & Character** | 4 | Target dipilih presisi berbasis *Relevance* dan *Authority* dengan alasan menolak alternatif. |
+| **Objective & State** | 4 | Pergeseran state dianalisis tajam berbasis bukti kutipan langsung transkrip. |
+| **Repertoire, Language & AI** | 4 | *Data-driven pitch* dengan batasan sampel tegas; fungsi dan batasan AI diuraikan transparan. |
+| **Response & Adaptation** | 4 | Atribusi sanggahan target berhasil diubah menjadi kesepakatan pengujian data bersama. |
+| **Agreement, Action & Relationship** | 4 | Kesepakatan konkret data agregat tercapai dengan batas privasi jelas dan menjaga hubungan kerja. |
+
+**Total: 20 / 20 — Sangat Kompeten.**

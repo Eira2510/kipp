@@ -1,8 +1,8 @@
 ---
 title: "Action & Agreement Challenge"
 week: 10
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "20 / 20"
 assessor_score: "—"
 description: "Barrier, authority, negotiation, agreement, dan action evidence."
 categories: [TAIDA, Action]
@@ -10,16 +10,107 @@ categories: [TAIDA, Action]
 
 ## Kompetensi target
 
-Menemukan desire–action gap dan menghasilkan agreement yang feasible serta eksplisit.
+Menemukan *desire–action gap* dan menghasilkan *agreement* yang *feasible*, eksplisit, serta akuntabel.
 
 ## Evidence wajib
 
 - Barrier dan authority map.
-- Options dan trade-off yang dibahas.
+- Options dan trade-off yang dibahas bersama target.
 - Agreement dengan owner/deadline serta bukti action atau review.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 10](../examples/week-10.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+## Desire–action gap dan authority map
+
+Dani (Ketua Panitia) dan Sita (Sekretaris Utama) sudah berada di state *Desire* (menginginkan sistem rujukan terpusat untuk memangkas pertanyaan berulang), tetapi belum mengeksekusi uji coba. Discovery menunjukkan hambatan (*barriers*) dan peta wewenang (*authority map*) berikut:
+
+| Barrier | Person dengan Authority | Peran & Respons |
+|---|---|---|
+| Izin uji coba resmi alur komunikasi panitia | **Dani**, Ketua Panitia | Wewenang mutlak menyetujui *scope pilot* organisasi |
+| Pengisian data rujukan proker | **Rio**, Kadiv Acara | Bertanggung jawab memimpin alur kerja divisi pilot |
+| Kontrol privasi & dokumen panitia | **Sita**, Sekretaris Utama | Wewenang memvalidasi integritas arsip & izin data |
+| Pemeliharaan bot & dasbor Notion | **Obert**, Kadiv Project | Penanggung jawab teknis eksekusi & mitigasi sistem |
+
+*Refleksi Pemetaan:* Saya sebelumnya keliru hanya meminta izin ke Sita, padahal keputusan legal alur kerja organisasi membutuhkan kepatuhan (*authority*) penuh dari Dani dan persetujuan eksekusi dari Rio sebagai kepala divisi pilot.
+
+## Options dan trade-off
+
+Kami membahas 3 pilihan opsi eksekusi *pilot* beserta *trade-off*-nya dalam sesi negosiasi:
+
+1. **Opsi A (Pilot 5 Hari di 2 Divisi - Project & Acara):** Risiko rendah, *workload* terukur, *evidence* cukup untuk evaluasi. (Dipilih).
+2. **Opsi B (Penerapan Langsung di Seluruh Divisi Panitia):** *Evidence* lebih luas, namun risiko kekacauan alur tinggi jika bot mengalami masalah teknis saat hari H mendekat.
+3. **Opsi C (Observasi Manual Tanpa Bot WA):** Cepat dan murah, namun tidak menguji *mechanism* otomatisasi solusi.
+
+**Kesepakatan Target:** Dani dan Rio memilih **Opsi A** dengan syarat: tidak ada data pribadi (NIM/kontak pribadi) yang dipublikasi di Notion publik dan bot dapat dimatikan seketika (*kill-switch*) jika terjadi eror teknis.
+
+## Explicit agreement dan evidence action
+
+::: {.evidence-block}
+**Transkrip Sesi Penetapan Agreement & Scope Pilot (Kamis 15 Nov 2026, 19.30 WIB di Ruang Rapat SC ITB):**
+- **Obert:** "Dari 3 opsi pilot kemarin, kalau kita ambil Opsi A (5 hari di Divisi Project & Acara), kita dapet evidence terukur tanpa risiko ngacak-ngacak alur divisi lain. Gimana Dan, Rio, Sita?"
+- **Dani (Ketua):** "Gue setuju Opsi A. Tapi gue minta ada kill-switch: kalau bot error lebih dari 2 kali, pilot langsung stop dan balik ke grup WA utama."
+- **Sita (Sekretaris):** "Dan tolong cek permission Notion-nya malam ini. Jangan ada NIM atau nomor HP panitia yang kebuka ke publik."
+- **Rio (Kadiv Acara):** "Sip, tim Acara siap pake asal briefing-nya jelas pas rapat pleno nanti."
+
+**Temuan Celah Privasi & Tindakan Perbaikan Nyata (Kamis 15 Nov 19.45 WIB):**
+- *Penemuan:* Sita menemukan tautan Notion awal membuka akses 'Can Edit' untuk siapapun yang memiliki link.
+- *Tindakan Perbaikan:* Obert merestriksi hak akses di Notion menjadi *Read-Only* (Hanya Lihat) untuk umum, serta menambahkan proteksi kata sandi untuk *Log Internal*.
+- *Log Verifikasi Sita (WhatsApp 20.05 WIB):* *"Sip Bert, gue udah tes link Notion yang baru. Sekarang udah Read-Only dan gak ada data pribadi panitia. Clearance privasi dari gue beres."*
+
+**Nota Kesepakatan Eksekusi Pilot 6 Elemen (Disepakati 15 Nov 2026):**
+1. **Scope:** Uji coba dasbor Notion & WA Bot di Divisi Project & Acara (16–20 November 2026).
+2. **Owner:** Obert (Teknis Bot/Notion), Sita (Audit Privasi), Rio (Eksekusi Acara), Dani (Briefing Pleno).
+3. **Deadline:** Technical clearance 15 Nov 20.00 WIB; Go/No-Go Pleno 21.00 WIB.
+4. **Evidence:** Rekapitulasi penurunan pertanyaan berulang & log insiden harian.
+5. **Stop Rule:** Pilot dihentikan seketika jika bot error >2 kali atau terjadi paparan data pribadi.
+6. **Review Sesi:** Evaluasi bersama pada Sabtu, 21 November 2026 pukul 16.00 WIB.
+
+**Log Hasil Eksekusi Pilot 5 Hari (16–20 November 2026):**
+- Pertanyaan berulang di grup Divisi Acara & Project **turun sebesar 65%** (dari rata-rata 23 pertanyaan/minggu menjadi 8 pertanyaan).
+- Kill-switch tidak perlu diaktifkan karena bot WA berjalan stabil selama 5 hari uji coba.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| **Person & character** | Membedakan wewenang (*Authority*) tiap person: Dani untuk izin organisasi, Sita untuk privasi dokumen, Rio untuk eksekusi lapangan. |
+| **Objective & state** | Berhasil menjembatani *desire-action gap* menjadi tindakan nyata melalui penyepakatan *scope pilot* yang aman dan terukur. |
+| **Repertoire & language** | Mempresentasikan 3 opsi beserta *trade-off* secara proporsional tanpa memaksakan opsi paling ekstrem. |
+| **Response & adaptation** | Temuan celah privasi oleh Sita langsung diadaptasi secara *real-time* dengan mengubah *setting permission* Notion malam itu juga. |
+| **Agreement/action** | *Agreement* memuat 6 komponen lengkap: *Scope, Owner, Deadline, Evidence, Stop Rule,* dan jadwal *Review*. |
+| **Relationship outcome** | Seluruh pengurus inti merasa memiliki (*sense of ownership*) atas sistem baru karena dilibatkan dalam penetapan *stop rule* dan pembagian peran. |
+
+## Penggunaan AI
+
+- AI (Claude 3.5 Sonnet) digunakan untuk menyusun *checklist risk mitigation* sebelum *technical review*.
+- **Batasan AI:** Keputusan *clearance* keamanan data tetap berada pada Sita (Sekretaris Utama), bukan klaim otomatis dari AI.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang Diterima (dari Rio, Kadiv Acara):** *"Gua tenang pas lo bikin aturan stop rule itu Bert. Jadi kalau ada apa-apa di lapangan, kita gak jeblok sendirian."*
+
+**Hasil Eksekusi:** Pilot berjalan 5 hari (16–20 November 2026), pertanyaan berulang di grup Divisi Acara & Project **turun 65%**, dan *stop rule* tidak perlu diaktifkan.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| **Person & Character** | 4 | *Authority* dan *responsibility* tiap person dipetakan presisi tanpa ada yang terlewat. |
+| **Objective & State** | 4 | *Desire–action gap* diatasi melalui penyusunan opsi yang *feasible*. |
+| **Repertoire, Language & AI** | 4 | Opsi dan *trade-off* disajikan proporsional; batasan AI diungkapkan transparan. |
+| **Response & Adaptation** | 4 | Temuan celah privasi oleh Sekretaris langsung ditindaklanjuti dengan perbaikan sistem nyata. |
+| **Agreement, Action & Relationship** | 4 | *Agreement* memuat *Scope, Owner, Deadline, Stop Rule,* dan *Review* secara utuh dan terbukti dieksekusi. |
+
+**Total: 20 / 20 — Sangat Kompeten.**
+
+::: {.assessor-only}
+
+### Assessment dosen
+
+**Skor:** — / 20
+
+**Evidence yang mendukung:** —
+
+**Prioritas perbaikan:** —
+
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

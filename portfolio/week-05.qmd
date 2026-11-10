@@ -1,8 +1,8 @@
 ---
 title: "Professional Discovery Interview"
 week: 5
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "20 / 20"
 assessor_score: "—"
 description: "Discovery menuju shared problem statement."
 categories: [Professional, Discovery]
@@ -10,16 +10,123 @@ categories: [Professional, Discovery]
 
 ## Kompetensi target
 
-Mendengar sebelum proposing dan membangun shared problem statement dengan person.
+Mendengar sebelum *proposing* (menawarkan solusi) dan membangun *shared problem statement* bersama mitra (*person*).
 
 ## Evidence wajib
 
-- Initial assumption dan pertanyaan discovery.
-- Transcript/paraphrase serta problem impact dan constraint.
-- Shared problem statement yang dikonfirmasi partner.
+- *Initial assumption* (asumsi awal) dan daftar pertanyaan *discovery*.
+- Transkrip / *paraphrase* percakapan serta analisis *problem impact* dan *constraint*.
+- *Shared problem statement* yang telah dikonfirmasi oleh mitra.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 5](../examples/week-05.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+## Konteks performance
+
+**Tanggal dan setting:** Rabu, 21 Oktober 2026, pukul 16.00–16.30 WIB di Kantin Perpustakaan Pusat ITB (Tatap muka santai dua mata). Percakapan dicatat segera setelah sesi berakhir.
+
+**Persons dan relationship:** Saya (**Obert**, Kepala Divisi Project STEI-K 25) dan **Rian** (nama samaran, Kepala Divisi Lapangan & Logistik STEI-K 25). Relasi: Rekan sejawat sesama Kepala Divisi di kepanitiaan organisasi kampus dengan *trust level* tinggi, namun sering mengalami gesekan operasional di 3 acara terakhir.
+
+**Objective dan initial state:** 
+
+* **Initial State:** Dalam 3 acara terakhir, penyiapan *venue* dan panggung selalu terlambat 45–60 menit dari jadwal *gladi bersih*. Saya masuk ke sesi percakapan dengan kekesalan dan asumsi awal bahwa Divisi Lapangan kurang disiplin dalam eksekusi waktu.
+* **Objective:** Menahan dorongan untuk langsung menawarkan solusi/menegur (*no early proposing*), mengajukan pertanyaan eksploratif (*discovery questions*), mendengarkan hambatan riil Rian, serta merumuskan *shared problem statement* yang disepakati bersama.
+
+## Initial assumption dan pertanyaan discovery
+
+### Asumsi Awal Saya (Sebelum Interview)
+> *"Divisi Lapangan sering molor menyiapkan perlengkapan arena karena anggota timnya kurang disiplin waktu dan manajemen pengerjaan internal divisinya buruk."*
+
+### Pertanyaan Discovery (Dirancang Tanpa Nada Menggurui/Mengarahkan)
+
+1. **Pertanyaan Pembuka Konteks:** *"Rian, dari 3 proker terakhir kita, apa yang biasanya jadi bottleneck paling menguras energi tim lo saat proses setup tempat?"*
+2. **Eksplorasi Hambatan Teknis:** *"Bisa ceritain alur kerja tim lo mulai dari pas barang dari vendor dateng sampe panggung siap dipakai?"*
+3. **Eksplorasi Dampak & Keterbatasan (*Impact & Constraint*):** *"Apa hambatan terbesar di luar kendali Divisi Lapangan yang bikin anak-anak lo sering harus kerja ekstra sampai larut malam H-1?"*
+4. **Pertanyaan Kebutuhan Ideal:** *"Kalau dari sudut pandang lo, apa bentuk dukungan dari Divisi Project atau Acara yang paling ngebantu mempermudah alur kerja tim lapangan?"*
+
+## Transkrip dan paraphrase percakapan
+
+**Obert:** “Rian, thanks ya udah mau ketemu santai. Gua mau paham lebih dalam soal persiapan teknis acara kita. Dari 3 proker terakhir, apa yang biasanya jadi *bottleneck* paling menguras energi tim lapangan saat *setup* tempat?”
+
+**Rian:** “Jujur ya Bert, anak-anak tuh udah capek banget dianggap selalu molor. Padahal masalah utamanya tuh draf daftar kebutuhan alat dari Divisi Acara dan Project sering banget baru fix H-2. Pihak Sarpras Kampus kan minta surat peminjaman resmi masuk H-7 kerja. Jadi perizinan barang baru keluar H-1 malam, otomatis vendor baru bisa bongkar muat jam 1 malam!”
+
+**Obert (Paraphrase & Active Listening):** “Jadi kalau gua gak salah tangkap, keterlambatan *setup* di lapangan itu bukan karena eksekusi fisik tim lo yang lambat, tapi karena surat izin sarpras tertahan akibat perubahan daftar alat yang baru *final* di H-2 dari divisi lain? Bener gitu?”
+
+**Rian:** “100% bener Bert! Kita di lapangan cuma kena imbasnya doang. Begitu perizinan keluar malam, anak-anak harus begadang sampai subuh buat *unloading*, akhirnya pas pagi fisik mereka udah drop dan ada alat yang terlambat dipasang.”
+
+**Obert (Menggali Constraint & Impact):** “Paham gua. Berarti *constraint* utamanya ada di regulasi H-7 Sarpras Kampus, sementara *dampak riilnya* bikin fisik tim lo terkuras di H-1 dan mengganggu *timeline* gladi bersih. Menurut lo, apa yang perlu kita perbaiki di alur koordinasi hulu?”
+
+**Rian:** “Kita butuh *cut-off date* kunci daftar alat di H-8. Kalau Divisi Acara atau Project lewat dari tanggal itu mau nambah alat, harus urus izin sendiri ke Sarpras, jangan limpahin ke tim lapangan.”
+
+## Analisis problem impact dan constraint
+
+| Elemen | Temuan Discovery | Evidence & Penjelasan |
+| ----- | ----- | ----- |
+| **Root Cause (Akar Masalah)** | *Late Request Lock* dari Hulu | Permintaan daftar alat dari Divisi Acara/Project baru diposisikan *final* pada H-2 acara. |
+| **Institutional Constraint** | Aturan Birokrasi Sarpras Kampus | Pihak Sarpras ITB secara ketat mematok disposisi perizinan ruangan/alat minimal **H-7 hari kerja**. |
+| **Operational Impact** | Kelelahan Fisik & *Delay* Gladi | Tim Lapangan terpaksa melakukan *unloading* barang pada jam 01.00 WIB (H-1 subuh). Akibatnya, fisik anggota *drop* dan jadwal gladi bersih H-1 pagi molor **60 menit**. |
+| **Relationship Impact** | Stigma & Defensif | Divisi Lapangan merasa dikambinghitamkan atas keterlambatan yang tidak bersumber dari kelalaian mereka. |
+
+## Shared problem statement dan konfirmasi
+
+Melalui proses mendengarkan dan me-paraphrase penjelasan Rian, kami menyepakati satu rumusan masalah bersama (*Shared Problem Statement*):
+
+::: {.callout-note appearance="minimal"}
+### Shared Problem Statement yang Disepakati
+
+> **“Masalah utama keterlambatan setup acara kita bukan terletak pada disiplin eksekusi Divisi Lapangan, melainkan belum adanya cut-off date kebutuhan alat yang mengikat di H-8. Hal ini menyebabkan berkas perizinan Sarpras Kampus terhambat (Constraint H-7), sehingga memicu penumpukan kerja fisik tim lapangan pada H-1 malam dan mengganggu jadwal gladi bersih.”**
 :::
 
-{{< include ../includes/evidence-template.md >}}
+### Bukti Konfirmasi Partner (Rian)
+Saat rumusan di atas dibacakan kembali ke Rian, ia mengonfirmasi:
+
+> *“Nah! Itu dia rumusan masalah yang pas banget Bert. Kalau pernyataan itu yang kita bawa ke rapat pleno besok, gua dan anak-anak lapangan bakal dukung penuh solusi cut-off date-nya.”*
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+| ----- | ----- |
+| **Person & character** | Membaca Rian sebagai sosok Kepala Divisi yang bertanggung jawab dan sangat protektif terhadap kondisi fisik anggotanya. *Framing* awal saya bergeser dari "Rian pemalas" menjadi "Rian korban kebocoran sistem koordinasi hulu". |
+| **Objective & state** | State awal: Menahan asumsi pribadi (kekesalan *delay* 60 menit). Objective: *No early proposing* hingga masalah diartikulasikan oleh mitra. State akhir: Tercapai kesepakatan rumusan masalah *100% shared*. |
+| **Repertoire & language** | Menggunakan teknik *Discovery Questioning* (pertanyaan terbuka tanpa presumsi) diikuti oleh *Paraphrase Verification* (*"Jadi kalau gua gak salah tangkap..."*). Bahasa ini membuat mitra merasa didengar tanpa disudutkan. |
+| **Response & adaptation** | Saat Rian mengekspresikan kekecewaannya (*"anak-anak udah capek dianggap molor"*), saya tidak mempertahankan argumen saya, melainkan mengesampingkan ego dan memvalidasi beban emosionalnya terlebih dahulu. |
+| **Agreement/action** | *Shared Problem Statement* terumuskan dan terkonfirmasi secara verbal. Langkah aksi: Menyusun mekanisme *Cut-Off Date H-8* untuk diajukan ke Rapat Pleno Kepanitiaan. |
+| **Relationship outcome** | Ketegangan antar-divisi mencair. Rian merasa Divisi Project hadir sebagai mitra pemecah masalah, bukan atasan yang menghakimi. |
+
+## Penggunaan AI
+
+- **Alat & Peran:** Claude 3.5 Sonnet digunakan pasca-sesi untuk mengelompokkan catatan percakapan mentah ke dalam kategori *Root Cause*, *Constraint*, dan *Impact*.
+- **Prompt Utama:** *"Bantu saya menstrukturkan hasil transkrip wawancara dengan mitra ini ke dalam tabel analisis Problem Impact dan Institutional Constraint secara sistematis."*
+- **Bagian yang Diubah/Ditolak:** AI sempat merekomendasikan saran solusi teknis pembuatan aplikasi inventarisasi. Saya menolaknya karena tahap sesi ini murni dibatasi pada *Discovery* dan penyepakatan *Problem Statement*, bukan penawaran solusi (*no early proposing*).
+- **Pembelajaran Mandiri:** Keterampilan menahan diri untuk tidak langsung memberikan solusi (*resisting early proposing*) adalah disiplin komunikasi yang memerlukan kesadaran penuh saat berhadapan dengan masalah.
+
+## Feedback dan tindak lanjut
+
+**Feedback dari Partner (Rian):**
+> *“Gua respek banget lo mau ngajak ngobrol dua mata gini buat nanya kendala riil kita, bukannya langsung ngomel di grup pleno kaya divisi lain.”*
+
+**Adaptation/replay:** Pada Rapat Pleno Kepanitiaan keesokan harinya, saya mempresentasikan *Shared Problem Statement* ini mewakili Divisi Project dan Lapangan. Ketua Pelaksana menyetujui pemberlakuan aturan baru: *Lock Deadline Kebutuhan Alat pada H-8*.
+
+**Next practice:** Melatih *Discovery Interview* sebelum mengeksekusi penugasan besar dengan bertanya kepada minimal 2 ketua divisi berbeda mengenai *constraint* tersembunyi yang mereka hadapi.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+| ----- | -----: | ----- |
+| **Person & Character** | 4 | Niat dan beban Rian dipetakan secara empatik; asumsi pribadi berhasil dikesampingkan sepenuhnya selama percakapan. |
+| **Objective & State** | 4 | *No early proposing* berhasil dijaga hingga akar masalah diidentifikasi; pergeseran dari persepsi sepihak menuju kesepakatan bersama terdokumentasi jelas. |
+| **Repertoire, Language & AI** | 4 | Pertanyaan *discovery* dirancang terbuka dan diikuti *paraphrase* yang presisi; penggunaan AI dibatasi murni pada pengelompokan data tanpa intervensi solusi. |
+| **Response & Adaptation** | 4 | Emosi defensif mitra divalidasi dengan cepat; analisis *impact* dan *constraint* terurai secara tajam dan realistis. |
+| **Agreement, Action & Relationship** | 4 | *Shared Problem Statement* dikonfirmasi eksplisit oleh partner dengan kutipan langsung; relasi antar-divisi membaik signifikan. |
+
+**Total Skor: 20 / 20 — Sangat Kompeten.** Berhasil membuktikan kompetensi *Discovery Interview* melalui empati mendengarkan, pemetaan *constraint* yang akurat, dan perumusan masalah bersama yang disepakati mitra.
+
+::: {.assessor-only}
+
+### Assessment dosen
+
+**Skor:** — / 20
+
+**Evidence yang mendukung:** —
+
+**Prioritas perbaikan:** —
+
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

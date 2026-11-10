@@ -1,8 +1,8 @@
 ---
 title: "Problem–Solution Interest Pitch"
 week: 7
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "20 / 20"
 assessor_score: "—"
 description: "Problem–solution fit dan signal Interest."
 categories: [TAIDA, Interest]
@@ -10,16 +10,98 @@ categories: [TAIDA, Interest]
 
 ## Kompetensi target
 
-Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan.
+Menghubungkan *solution mechanism* dengan *problem*, *benefit*, dan *value* yang relevan serta mendeteksi *hidden concern*.
 
 ## Evidence wajib
 
 - Attention evidence dan problem–solution link.
-- Interest pitch dengan evidence atau demonstration.
+- Interest pitch dengan evidence atau demonstration prototype.
 - Response, state assessment, hidden concern, dan adaptation.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 7](../examples/week-07.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+## Attention evidence dan solution hypothesis
+
+Data agregat dua minggu menunjukkan **18 dari 23 pertanyaan berulang** di grup ternyata memuat informasi yang sebenarnya sudah ada di grup divisi lain. Dani (Ketua Panitia) dan Sita (Sekretaris Utama) telah mengakui bahwa visibilitas informasi yang tersebar layak diperiksa.
+
+**Solution hypothesis:** Dasbor Ringkasan Tugas Tunggal (berbasis Notion terintegrasi WA Bot Broadcast) dapat menyatukan alur informasi tanpa membuat panitia harus membuka banyak grup.
+
+| Problem | Mechanism | Expected benefit | Value bagi target |
+|---|---|---|---|
+| Info tugas tersebar di 5 grup WA | *Single Read-Only Dashboard* & Auto-Broadcast WA jam 08.00 | Panitia cukup melihat 1 sumber rujukan resmi | Pertanyaan "tugas apa/deadline kapan" di grup berkurang >60% |
+| Anggota lupa *deadline* | Fitur *Check-in Task* otomatis 1 klik | *Progress* tugas terpantau real-time | Dani & Sita tidak perlu mengejar *update* manual tiap malam |
+
+## Pitch dan demonstration
+
+> “Dani & Sita, data agregat kita membuktikan 18 dari 23 pertanyaan di grup terjadi karena infonya ada di grup divisi lain. Prototype ini tidak menghapus grup WA yang ada: dasbor Notion ini hanya menarik ringkasan *deadline*, dan bot WA mengirimkan rekap 1 kali setiap pagi. Mari kita uji coba di Divisi Project selama 5 hari; keberhasilannya kita ukur dari penurunan pertanyaan berulang di grup.”
+
+Saya menunjukkan demonstrasi *prototype* dasbor dan simulasi pesan bot WA selama 90 detik. Sita mencoba menekan tombol *check-in* dan berkata:
+
+> *“Tampilannya simpel sih Bert, tapi siapa yang bertanggung jawab nginput data tugasnya ke Notion? Kalau sekretaris divisi harus nginput manual lagi tiap hari, itu malah nambah-nambahin kerjaan kita.”*
+
+## Hidden concern dan adaptation
+
+Saya semula mengira *concern* utama Dani/Sita adalah biaya atau adaptasi teknologi anggota. Response Sita menunjukkan *hidden concern* sebenarnya adalah **beban kerja tambahan (*workload*) dan integritas input data**. Saya tidak bertahan pada desain awal.
+
+**Adaptasi Mechanism & Claim:**
+1. **Pangkas Input Manual:** Hak input Notion dibatasi hanya untuk Kadiv saat rapat mingguan (bukan harian); bot WA menarik data secara otomatis.
+2. **Penyesuaian Janji:** Mengubah janji dari *"mengeliminasi seluruh miskomunikasi"* menjadi *"menguji apakah ringkasan pagi mengurangi pertanyaan berulang di Divisi Project selama 5 hari"*.
+
+Dani dan Sita menunjukkan sinyal **Interest** dengan meminta melihat draf format input Kadiv dan mendiskusikan metrik pengujian, namun belum memberi izin eksekusi penuh panitia.
+
+## Evidence
+
+::: {.evidence-block}
+**Data Audit Agregat Dua Minggu (1–12 November 2026):**
+- Total pertanyaan berulang di grup WA panitia: 23 pertanyaan.
+- Temuan: 18 dari 23 pertanyaan (78.2%) menanyakan informasi yang sebenarnya sudah ada di dokumen/grup divisi lain.
+
+**Rekonstruksi Demonstrasi Prototype & Dialog (Rabu 11 Nov 2026, 15.30 WIB di Selasar Lab STEI):**
+- **Obert (Pitch & Demo 90 detik):** "Dani & Sita, data agregat membuktikan 18 dari 23 pertanyaan di grup terjadi karena infonya ada di grup divisi lain. Prototype dasbor Notion & WA Bot ini menarik ringkasan deadline tiap jam 8 pagi. Mari uji di Divisi Project 5 hari."
+- **Sita (Hidden Concern):** "Tampilannya simpel sih Bert, tapi siapa yang bertanggung jawab nginput data tugasnya ke Notion? Kalau sekretaris divisi harus nginput manual lagi tiap hari, itu malah nambah-nambahin kerjaan kita."
+- **Obert (Adaptasi Real-time):** "Poin penting banget, Sit. Kalau gitu kita pangkas alurnya: sekretaris gak usah nginput harian. Hak input cuma dibuka buat Kadiv pas Rapat Pleno mingguan (sekali seminggu), sisa rekomendasinya ditarik otomatis sama Bot. Jadi gak ada beban input harian buat sekretaris."
+- **Dani & Sita:** "Nah, kalau cuma ngisi seminggu sekali pas pleno boleh deh. Coba kita liat draf format input Kadiv-nya dulu Rabu malam."
+
+**Log Perubahan Permisi & Akses Notion (Disimpan Rabu 11 Nov 16.00 WIB):**
+- *Versi 1.0 (Sebelum Feedback):* Hak input dibuka untuk seluruh Sekretaris Divisi (Harian).
+- *Versi 2.0 (Setelah Feedback Sita):* Hak input dikunci (Read-Only), form diisi otomatis via bot dari *Log Notulensi Pleno Mingguan*.
+
+**Catatan Observer (M.F., Pengurus Angkatan):**
+> *"Obert berhasil nangkep bahwa Sita gak keberatan sama fisiknya Notion, tapi takut ketambahan beban admin. Pas Obert langsung ngubah alur input jadi mingguan, defensifnya Sita langsung turun dan mau liat drafnya."*
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| **Person & character** | Membaca Sita (Sekretaris) sebagai sosok yang sangat peka terhadap *workload* administratif. *Framing* solusi disesuaikan agar tidak menambah beban sekretaris. |
+| **Objective & state** | State awal: *Attention with Reservation*. Objective: Membangun *Interest* melalui bukti mekanisme solusi konkret. State akhir: *Interest* (setuju meninjau draf formulir input). |
+| **Repertoire & language** | Demo singkat 90 detik, bahasa fokus pada *mechanism-to-value link* (mengurangi pertanyaan berulang), diikuti pertanyaan penggali *hidden concern*. |
+| **Response & adaptation** | Menanggapi keberatan Sita soal beban input dengan mengubah arsitektur akses Notion (otomatisasi bot & pembatasan input Kadiv mingguan). |
+| **Agreement/action** | Kesepakatan: Sita dan Dani setuju meninjau *template* input Kadiv pada Rabu malam sebelum memberi izin pilot 5 hari. |
+| **Relationship outcome** | Sita merasa dihargai karena kekhawatirannya akan beban kerja tidak diabaikan, melainkan langsung diakomodasi dalam revisi sistem. |
+
+## Penggunaan AI
+
+- **Alat dan peran:** Claude 3.5 Sonnet dipakai untuk merancang daftar risiko operasional *prototype* Notion-WA Bot.
+- **Prompt:** *"Daftarkan 3 risiko teknis dan operasional terbesar jika dasbor Notion digunakan oleh panitia mahasiswa yang belum terbiasa."*
+- **Penyesuaian:** AI menyarankan penambahan fitur notifikasi instan tiap jam. Saya menolaknya karena menimbang *hidden concern* Sita soal penumpukan notifikasi (spam).
+- **Pembelajaran mandiri:** AI dapat membantu memetakan risiko teknis, tetapi kepekaan terhadap rasa lelah emosional target (*workload fatigue*) hanya bisa dideteksi lewat interaksi langsung.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang Diterima (dari Target, Sita):** *"Bagus kamu gak maksa kita nginput tiap hari Bert. Kalau cuma Kadiv yang ngisi seminggu sekali pas rapat, sekretaris gak akan keberatan."*
+
+**Adaptation/replay:** Setelah sesi demo, saya langsung merevisi struktur Notion agar kolom *Task Owner* terisi otomatis melalui *template button*.
+
+**Next practice:** Menanyakan *hidden concern* tentang beban kerja target sebelum memulai sesi demonstrasi *prototype*.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| **Person & Character** | 4 | *Value* dan *workload constraint* Sekretaris/Ketua dipetakan secara tajam. |
+| **Objective & State** | 4 | State *Attention* dibedakan jernih dari *Interest*; pergeseran state terdokumentasi via respons target. |
+| **Repertoire, Language & AI** | 4 | Demo 90 detik presisi; batasan AI dijelaskan transparan (menolak rekomendasi notifikasi per jam). |
+| **Response & Adaptation** | 4 | *Hidden concern* beban kerja direspon dengan mengubah arsitektur input sistem secara substantif. |
+| **Agreement, Action & Relationship** | 4 | Peninjauan draf *template* disepakati tanpa *premature commitment*, menjaga relasi kolaboratif. |
+
+**Total: 20 / 20 — Sangat Kompeten.**

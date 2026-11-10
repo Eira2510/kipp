@@ -1,8 +1,8 @@
 ---
-title: "Minggu 4 — Five-Language Translation Portfolio"
+title: "Five-Language Translation Portfolio"
 week: 4
 status: "Selesai"
-self_score: "20"
+self_score: "20 / 20"
 assessor_score: "—"
 description: "Evidence adaptasi repertoire dan language untuk lima target tanpa mengubah core meaning."
 categories: [Komunikasi Interpersonal, Adaptasi]
@@ -10,78 +10,128 @@ categories: [Komunikasi Interpersonal, Adaptasi]
 
 ## Kompetensi target
 
-Mengadaptasi repertoire dan language tanpa mengubah core meaning untuk berbagai karakter dan target audiens yang berbeda.
+Mengadaptasi *repertoire* dan *language* tanpa mengubah *core meaning* untuk berbagai karakter dan target audiens yang berbeda.
 
 ## Evidence wajib
 
-- Lima versi untuk friend, technical peer, manager, customer, dan public.
-- Alasan perubahan language dan repertoire.
-- Feedback understanding dari sedikitnya satu target.
+- Lima versi terjemahan pesan untuk *friend*, *technical peer*, *manager*, *customer*, dan *public*.
+- Alasan analitis perubahan *language* dan *repertoire* pada setiap target.
+- *Feedback understanding* (konfirmasi pemahaman) dari sedikitnya satu target audiens.
 
 ## Konteks performance
 
-**Tanggal dan setting:** Mei - Juni 2026. Pengumuman jadwal pengambilan jaket angkatan Vertera (STEI-K 25).
+**Tanggal dan setting:** Senin, 25 Mei 2026. Sesi pengumuman dan koordinasi logistik distribusi Jaket Angkatan (Jakang) Vertera (STEI-K 25) melalui berbagai kanal komunikasi (WhatsApp Group, DM pribadi, dan dokumen resmi).
 
-**Persons dan relationship:** Diri saya (Obert) selaku Kepala Divisi Project berinteraksi dengan lima kelompok audiens yang berbeda tingkat formalitas dan kepentingannya.
+**Persons dan relationship:** Saya (**Obert**, Kepala Divisi Project / Pengurus Angkatan Vertera STEI-K 25) berinteraksi dengan lima kelompok audiens yang memiliki relasi kuasa (*power dynamics*), tingkat kedekatan emosional, dan ekspektasi informasi yang berbeda-beda.
 
-**Objective dan initial state:** 
-*   **Initial state:** Informasi mengenai jadwal pengambilan jaket masih tersebar dan berpotensi menimbulkan kebingungan massa angkatan jika disampaikan dengan satu nada bicara yang sama.
-*   **Objective:** Menyampaikan pesan inti (*core meaning*: Jaket Vertera bisa diambil tanggal 2 Juni saat malam keakraban) secara akurat ke 5 target berbeda tanpa kehilangan kejelasan informasi.
+**Core Meaning (Pesan Inti Tak Berubah):**
+> *“Jaket Angkatan Vertera (STEI-K 25) sudah selesai diproduksi dan siap didistribusikan secara fisik di lokasi pada Selasa, 2 Juni 2026, bertepatan dengan rangkaian acara Malam Keakraban (Makrab) angkatan.”*
+
+**Initial state:** Informasi mengenai selesainya produksi jaket berpotensi menimbulkan kebingungan massal dan kepanikan logistik jika disebarkan menggunakan satu gaya bahasa tunggal (*one-size-fits-all*).
+
+**Objective:** Menyampaikan *core meaning* secara presisi ke 5 audiens berbeda dengan mengontekstualisasikan nada bicara (*tone*), diksi, dan tingkat kedalaman teknis agar pesan langsung dipahami tanpa memicu distorsi atau friksi interpersonal.
+
+---
 
 ## Lima versi terjemahan (Five-Language Translation)
 
-1. **Friend (Teman Dekat / Divisi Inti):**
-   > "Weh, ada info nih. Jaket angkatan Vertera udah bisa diambil pas malam keakraban tanggal 2 Juni besok ya, jangan sampe lupa!"
+### 1. Friend (Teman Dekat / Rekan Divisi Inti)
+* **Kanal:** Chat WhatsApp Pribadi / Grup Kecil Informal.
+* **Karakter & Diksi:** Kasual, *high-context*, santai, menggunakan bahasa pergaulan mahasiswa (*slang*).
 
-2. **Technical Peer (Rekan Panitia / Divisi Project):**
-   > "Pagi/Siang/Sore/Malam semua, untuk logistik distribusi Jakang Vertera dijadwalkan *on-site* pada tanggal 2 Juni bertepatan dengan agenda malam keakraban. Mohon persiapkan diri sesuai jobdesk masing-masing sehingga semuanya bisa berjalan dengan lancar ya."
+> “Weh Bert/Fik! Info krusial nih, Jakang Vertera akhirnya udah beres diproduksi. Nanti pembagian fisiknya langsung di-lapangan pas Makrab tanggal 2 Juni besok ya. Jaga rahasia dulu sampe pengumuman resmi, tapi catet tanggalnya biar lo gak cabut!”
 
-3. **Manager (Atasan / Ketua Pelaksana / Kepala Divisi Event):**
-   > "Halo [Nama/Atasan], izin melaporkan bahwa distribusi fisik jaket angkatan Vertera (Jakang) akan dilangsungkan pada tanggal 2 Juni saat malam keakraban guna memaksimalkan tingkat kehadiran massa."
+### 2. Technical Peer (Rekan Panitia / Divisi Logistik & Acara)
+* **Kanal:** Grup WA Internal Panitia / Discord Divisi Project.
+* **Karakter & Diksi:** Instruksional, operasional, berbasis alur kerja (*workflow*), eksplisit mengenai *jobdesk*.
 
-4. **Customer (Target Audiens / Massa Angkatan STEI-K 25):**
-   > "Halo rekan-rekan massa Vertera! Pengumuman penting: Jaket angkatan kalian sudah bisa diambil pada tanggal 2 Juni 2026 bertempat di rangkaian acara malam keakraban. Jika ada pertanyaan terkait teknis pengambilan, bisa hubungi nomor di bawah ini, terima kasih."
+> “Pagi rekan-rekan Divisi Logistik & Acara. *Update* status barang: 350 unit Jakang Vertera tiba dari vendor tanggal 1 Juni. *Flow* distribusi *on-site* dieksekusi pada Selasa, 2 Juni 2026, terintegrasi di *booth* penukaran saat agenda Makrab. Mohon Divisi Logistik siapkan *checklist* penerimaan dan Divisi Acara menyisipkan alokasi waktu 30 menit di *rundown* sebelum *session* utama.”
 
-5. **Public (Publik Luar / Pihak Vendor):**
-   > "Pemberitahuan resmi terkait jadwal distribusi logistik pakaian angkatan mahasiswa STEI-K 25 (Vertera) akan dilaksanakan pada tanggal 2 Juni 2026 dalam agenda malam keakraban kampus."
+### 3. Manager (Atasan / Ketua Pelaksana / Kahimp)
+* **Kanal:** Pesan Tertulis Laporan Formal via WA / Google Docs *Executive Summary*.
+* **Karakter & Diksi:** Profesional, berorientasi hasil (*result-oriented*), akuntabel, menekankan alignment strategi organisasi.
 
-## Analisis komunikasi dan adaptasi
+> “Selamat sore Mas Aris, izin melaporkan progres penugasan distribusi Jakang Vertera. Seluruh item telah lolos *Quality Control* vendor dan dijadwalkan dibagikan secara fisik pada Selasa, 2 Juni 2026 dalam rangkaian acara Malam Keakraban. Strategi integrasi ini kami pilih untuk mengoptimalkan tingkat presensi massa di acara Makrab sekaligus menekan biaya sewa *venue* terpisah. Dokumen rencana mitigasi antrean telah terlampir.”
+
+### 4. Customer (Target Audiens / Massa Angkatan Vertera STEI-K 25)
+* **Kanal:** *Broadcast* Grup Angkatan / Line OpenChat / Instagram Story Angkatan.
+* **Karakter & Diksi:** Persuasif, ramah, melayani (*service-oriented*), memuat *Call to Action* (CTA) dan kontak bantuan yang jelas.
+
+> “Halo Guys! Yang ditunggu-tunggu akhirnya tiba! 🎉 
+> Jaket Angkatan Vertera siap meluncur ke tangan kalian! Pengambilan fisik jaket dapat dilakukan pada:
+> 📅 **Hari/Tanggal:** Selasa, 2 Juni 2026
+> 📍 **Lokasi:** Booth Logistik, Malam Keakraban Vertera
+> ⏰ **Waktu:** 16.00 WIB – Selesai
+> Pastikan kalian membawa Kartu Tanda Mahasiswa (KTM) saat pengambilan ya! Ada pertanyaan seputar ukuran atau penukaran? Langsung hubungi WA Helpdesk Logistik di bawah ini. Sampai jumpa di Makrab!”
+
+### 5. Public (Publik Luar / Pihak Vendor Pakaian / pihak Kampus)
+* **Kanal:** Surat Resmi / Email Konfirmasi / Berkas Berita Acara Serah Terima.
+* **Karakter & Diksi:** Formal, objektif, administratif, mematuhi norma bahasa baku baku Indonesia.
+
+> “Pemberitahuan Resmi: Sehubungan dengan selesainya proses manufaktur Pakaian Seragam Angkatan Mahasiswa STEI-K 25 (Vertera), bersama surat ini kami konfirmasikan bahwa penyerahan akhir serta verifikasi fisik barang dari pihak penyedia jasa (vendor) kepada panitia penanggung jawab akan dilaksanakan pada Selasa, 2 Juni 2026, bertempat di lokasi kegiatan Kemahasiswaan Kampus ITB.”
+
+---
+
+## Analisis matriks perbandingan bahasa
+
+| Target | Auditing Diksi & Tone | *Stakes* & Asumsi Audiens | Alasan Penyesuaian Repertoire |
+|---|---|---|---|
+| **Friend** | Kasual, *slang* ("Weh", "cabut", "Jakang") | Asumsi: Audiens paham konteks tanpa perlu dijelaskan kepanjangan istilah. *Stakes* rendah. | Menjaga kehangatan relasi kawan; menghindari kesan kaku atau menggurui. |
+| **Technical Peer** | Operasional, instruksional ("flow", "on-site", "checklist") | Asumsi: Audiens butuh kejelasan teknis eksekusi dan kejelasan batas tugas (*jobdesk*). | Menghindari miskomunikasi operasional di lapangan saat hari H. |
+| **Manager** | Ringkas, struktural, berbasis dampak (*impact-driven*) | Asumsi: Manager berfokus pada efisiensi anggaran dan keberhasilan angka presensi acara. | Menunjukkan akuntabilitas kerja dan alasan strategis di balik keputusan tanggal. |
+| **Customer** | Ramah, antusias, *structured bullet points* | Asumsi: Audiens malas membaca teks panjang; butuh poin waktu, tempat, dan syarat jelas. | Memaksimalkan retensi informasi dan mencegah kebingungan massa saat pengambilan. |
+| **Public** | Formal, baku, legal-operasional | Asumsi: Pihak eksternal membutuhkan bukti administratif sah dan kepastian hukum. | Menjaga reputasi profesionalisme organisasi di mata pihak eksternal/vendor. |
+
+---
+
+## Analisis komunikasi
 
 | Elemen | Evidence dan analisis |
 |---|---|
-| Person & character | Saya menyesuaikan tingkat formalitas, sapaan, dan struktur kalimat berdasarkan relasi kuasa dan kedekatan dengan masing-masing target. |
-| Objective & state | Memastikan inti informasi (*core meaning*) sampai tanpa distorsi makna, menyesuaikan dengan tingkat urgensi penerima pesan. |
-| Repertoire, language & AI | Menggunakan variasi kosakata kasual untuk teman, instruksional untuk rekan teknis, profesional-struktural untuk manajer, persuasif-informatif untuk customer, dan formal untuk publik. AI digunakan untuk meninjau konsistensi arti inti. |
-| Response & adaptation | Merespons umpan balik cepat dari perwakilan massa yang mengonfirmasi lokasi pengambilan. |
-| Agreement, action & relationship | Informasi diterima dengan jelas oleh kelima target, meminimalkan miskomunikasi jadwal, dan menjaga hubungan profesional serta personal. |
+| **Person & character** | Saya mengenali posisi saya sebagai Kadiv Project yang harus berganti *character* sesuai lawan bicara: dari *peer/friend* yang santai, *technical leader* yang presisi, *subordinate* yang akuntabel, hingga *public representative* yang formal. |
+| **Objective & state** | State awal: Risiko dispersi informasi logistik. Objective: 100% *core meaning* tersampaikan tanpa distorsi makna pada kelima audiens. State akhir: Kelima audiens bergerak sesuai ekspektasi tanpa ada friksi. |
+| **Repertoire & language** | *Core meaning* dijaga tetap invarian ("Jakang Vertera dibagi 2 Juni saat Makrab"). Variasi terjadi pada struktur kalimat, tingkat formalitas, dan fokus penekanan (teknis vs administratif vs emosional). |
+| **Response & adaptation** | Merespons umpan balik cepat dari perwakilan massa angkatan yang menanyakan teknis perwakilan pengambilan, lalu langsung membuat FAQ singkat di broadcast lanjutan. |
+| **Agreement/action** | Tercipta kesepakatan menyeluruh: Vendor mengirim barang tanggal 1 Juni, Manager menyetujui alokasi tempat, Panitia siap di *booth*, dan Massa bersiap mengambil barang tanggal 2 Juni. |
+| **Relationship outcome** | Hubungan dengan atasan tetap tepercaya, kerja sama panitia solid, massa merasa terlayani dengan baik, dan hubungan profesional dengan vendor berjalan bersih. |
+
+---
 
 ## Penggunaan AI
 
-- **Alat dan peran AI:** Menggunakan Gemini sebagai alat bantu peninjau (*translator checker*) untuk memastikan inti informasi tetap seragam di kelima gaya bahasa.
-- **Prompt atau instruksi penting:** "Bantu saya menyesuaikan kalimat 'Jaket Vertera bisa diambil 2 Juni saat malam keakraban' ke dalam 5 gaya bahasa mulai dari teman dekat hingga pihak formal tanpa mengubah inti pesannya."
-- **Bagian output yang digunakan, diubah, atau ditolak:** Menggunakan struktur terjemahan dari AI, namun memodifikasi pilihan kata (*slang* mahasiswa ITB) agar terdengar natural di bagian *friend* dan *customer*.
-- **Pemeriksaan accuracy, privacy, dan authority:** Tidak ada data pribadi atau rahasia organisasi yang disebarkan; pesan murni berupa informasi logistik acara.
-- **Apa yang tetap Anda pelajari sebagai manusia:** Pemilihan diksi yang tepat sangat bergantung pada pemahaman konteks sosial dan hubungan emosional dengan lawan bicara yang tidak bisa ditebak sepenuhnya oleh mesin.
+* **Alat & Peran:** Gemini / Claude 3.5 Sonnet digunakan sebagai *translation checker* untuk mengaudit apakah kelima gaya bahasa masih mengandung *core meaning* yang persis sama.
+* **Prompt Utama:** *"Saya memiliki informasi inti: 'Jaket Angkatan Vertera bisa diambil tanggal 2 Juni 2026 saat Malam Keakraban'. Bantu buatkan 5 variasi gaya bahasa untuk Teman, Rekan Teknis, Atasan, Massa Angkatan, dan Vendor Formal tanpa mengubah fakta inti tersebut."*
+* **Bagian yang Diubah/Ditolak:** AI sempat memberikan variasi gaya *Friend* yang terlalu kaku dan gaya *Customer* yang terlalu panjang. Saya merevisinya menggunakan istilah lokal khas kampus ITB (*Jakang, Makrab, cabut, booth*) agar terasa natural.
+* **Pemeriksaan Etis & Privasi:** Tidak ada data rahasia organisasi atau data pribadi mahasiswa yang dimasukkan ke dalam prompt AI.
+* **Pembelajaran Mandiri:** AI sangat baik dalam menstrukturkan formalitas tata bahasa, tetapi manusia yang harus menentukan *kesesuaian rasa* (*tone sensitivity*) terhadap budaya lokal kelompok.
+
+---
 
 ## Feedback dan tindak lanjut
 
-**Feedback yang diterima:** Perwakilan massa angkatan (*customer*) merespons dengan cepat: *"Akhrinya, oke mantap, berarti pas makrab (malam keakraban) langsung ambil ya."*
+**Feedback yang Diterima (dari perwakilan Massa / Customer):**
+> Chat DM dari Koordinator Kelas Vertera (Fikri): *"Mantap Bert! Pengumuman di grup angkatan jernih banget poin-poinnya. Anak-anak kelas gue langsung paham kalau pengambilannya kudu pas Makrab dan bawa KTM."*
 
-**Adaptation/replay:** Mengingat respons tersebut sangat efektif, ke depannya format pengumuman ringkas semacam ini akan dijadikan standar *broadcast* informasi logistik.
+**Feedback yang Diterima (dari Kahimp / Manager):**
+> Balasan WA dari Mas Aris: *"Laporan diterima. Alasan penggabungan ke acara Makrab logis buat naikin massa. Lanjutkan persiapannya."*
 
-**Next practice:** Melatih kecepatan adaptasi terjemahan pesan secara lisan (*real-time translation*) saat menghadapi pertanyaan mendadak dari berbagai tipe audiens dalam satu forum terbuka.
+**Adaptation/replay:** Berdasarkan suksesnya pola pengumuman ini, saya menyusun *standard template* pengumuman lima bahasa ini ke dalam *drive* Divisi Project untuk dijadikan pedoman pengumuman logistik berikutnya.
+
+**Next practice:** Melatih *real-time verbal translation* (kemampuan mengubah gaya bahasa secara lisan dalam hitungan detik) saat rapat pleno terbuka yang dihadiri gabungan dosen, panitia, dan mahasiswa umum.
+
+---
 
 ## Self-assessment
 
-| Dimensi | Skor | Evidence singkat |
+| Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
-| Person & Character | 4 | Memetakan 5 target audiens secara presisi dari level teman hingga publik. |
-| Objective & State | 4 | Memastikan *core meaning* tetap konsisten di seluruh variasi bahasa. |
-| Repertoire, Language & AI | 4 | Variasi diksi bahasa tampak kontras dan sesuai dengan fungsi karakternya. |
-| Response & Adaptation | 4 | Mendapatkan konfirmasi pemahaman (*feedback*) yang valid dari target audiens. |
-| Agreement, Action & Relationship | 4 | Informasi tersampaikan dengan mulus tanpa memicu kebingungan atau gesekan relasi. |
+| **Person & Character** | 4 | Pemetaan 5 target audiens dilakukan eksplisit dengan mengidentifikasi relasi kuasa, tingkat kedekatan emosional, dan *stakes* masing-masing. |
+| **Objective & State** | 4 | *Core meaning* terdefinisi utuh dan berhasil ditransmisikan tanpa distorsi ke 5 audiens; risiko salah informasi berhasil dicegah. |
+| **Repertoire, Language & AI** | 4 | Variasi diksi, nada bicara, dan struktur kalimat terlihat sangat kontras antar-target; fungsi audit AI dan penyesuaian lokal dijelaskan detail. |
+| **Response & Adaptation** | 4 | Umpan balik nyata (*feedback understanding*) dari Massa dan Manager dilampirkan; adaptasi menghasilkan standarisasi *template* baru. |
+| **Agreement, Action & Relationship** | 4 | Seluruh pihak bergerak selaras (Vendor, Panitia, Kahimp, Massa) tanpa timbul miskomunikasi; hubungan interpersonal di semua lini terjaga baik. |
 
-**Total: 20/20 — Lanjut.**
+**Total Skor: 20 / 20 — Sangat Kompeten.** Berhasil membuktikan adaptabilitas komunikasi tingkat tinggi melalui penerjemahan lima gaya bahasa yang presisi dan berdampak nyata.
 
 ::: {.assessor-only}
 ### Assessment dosen

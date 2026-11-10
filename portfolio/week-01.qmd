@@ -2,7 +2,7 @@
 title: "Character Map"
 week: 1
 status: "Selesai"
-self_score: "20"
+self_score: "20 / 20"
 assessor_score: "—"
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
 categories: [Fondasi, Person]
@@ -18,63 +18,96 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 - Objective, responsibility, repertoire, dan risiko tiap character.
 - Satu contoh perubahan language ketika character berubah.
 
-## Konteks performance
-
-**Tanggal dan setting:** September 2026. Refleksi diri atas berbagai peran (*character*) yang dijalankan dalam kehidupan kampus, keluarga, dan sosial.
-
-**Persons dan relationship:** Diri saya (Obert) dalam hubungannya dengan atasan/dosen, rekan divisi, teman sejawat, dan anggota keluarga.
-
-**Objective dan initial state:** 
-*   **Initial state:** Saya kerap menyamaratakan pendekatan komunikasi tanpa sadar, didorong oleh kekhawatiran pribadi terhadap persepsi orang lain.
-*   **Objective:** Mengidentifikasi secara sadar perbedaan karakter di minimal 3 domain kehidupan dan menyesuaikan *repertoire* untuk menghindari *hierarchical deference* (tunduk buta pada atasan).
-
 ## Lima character
 
 | Domain dan character | Person & relationship | Objective & responsibility | Repertoire & language | Risiko dan latihan |
 |---|---|---|---|---|
-| Organisasi — Kadiv Project | Anggota divisi STEI-K 25 dan atasan | Memastikan program berjalan; delegasi dan melobi kesepakatan | Persuasif, argumentatif, dan terstruktur | Tunduk pada atasan (*hierarchical deference*); latihan menolak dengan asertif |
-| Akademik — Mahasiswa | Dosen dan rekan tugas kuliah | Memahami materi teknis dan berkolaborasi dalam riset | Inkuisitif, analitis, dan pendengar aktif | Takut terlihat kurang mampu; latihan proaktif bertanya tanpa ragu |
-| Olahraga — Kapten Futsal | Anggota tim di lapangan | Meraih kemenangan dan menjaga moral tim | Lugas, asertif, dan berorientasi komando | Instruksi diabaikan karena terlalu keras; latihan kontrol intonasi |
-| Keluarga — Adik | Kakak | Menjaga keharmonisan dan komunikasi antar anggota keluarga | Kompromistis, sabar, penuh empati, dan komunikatif | Waktu pribadi terkuras; latihan negosiasi prioritas waktu |
-| Sosial — Teman sepermainan | Sahabat dan teman sejawat | Menjaga relasi dan menjadi pendengar yang suportif | Santai, humoris, "Mau didengar atau cari solusi?" | Menjadi *people-pleaser*; latihan memisahkan ego dari validasi eksternal |
+| **Organisasi** — Kadiv Project (STEI-K 25) | Anggota divisi proker dan Atasan/Ketua Panitia | Memastikan eksekusi proker berjalan presisi; mengelola *trade-off* operasional dan lobi kesepakatan | Persuasif, argumentatif, dan terstruktur berbasis data evaluasi | Vulnerable terhadap *hierarchical deference* (tunduk pasif pada atasan); latihan: asertif menggunakan bukti data |
+| **Akademik** — Mahasiswa | Dosen pengampu dan rekan kelompok tugas/riset | Memahami materi teknis kompleks dan berkolaborasi dalam pemecahan masalah | Inkuisitif, analitis, Socratic questioning, dan pendengar aktif | Takut terlihat kurang mampu/salah; latihan: proaktif bertanya tanpa keraguan ego |
+| **Olahraga** — Kapten Futsal | Anggota tim di lapangan saat pertandingan | Menjaga taktik permainan, tempo tim, dan moral di bawah tekanan tinggi | Lugas, asertif, instingtif, dan berorientasi komando | Instruksi dipersepsikan terlalu keras/agresif; latihan: kontrol intonasi & *check-in* kondisi emosional tim |
+| **Keluarga** — Adik | Kakak dan Orang Tua | Menjaga keharmonisan dan menjadi jembatan komunikasi antar-generasi | Kompromistis, sabar, empati tinggi, dan komunikatif | Waktu pribadi terkuras (*people-pleasing* keluarga); latihan: negosiasi prioritas waktu secara asertif |
+| **Sosial** — Teman Sepermainan | Sahabat dan rekan sebaya | Menjaga relasi dan menjadi *safe space* / pendengar suportif | Santai, humoris, *framing* opsi: *"Mau didengar aja atau mau cari solusi?"* | Terlalu menjaga kenyamanan sampai enggan memberi kritik jujur; latihan: memisahkan empati dari konfirmasi emosi |
 
-## Episode yang dianalisis
+## Konteks performance
 
-**Konteks:** Rapat evaluasi kepanitiaan. Seorang dengan otoritas lebih tinggi menekan argumen yang saya bawa. Insting awal saya adalah langsung menyetujui gagasannya agar saya tidak dipandang sebagai orang yang tidak bisa diandalkan. 
+**Tanggal dan setting:** Senin, 15 September 2026, pukul 19.30–21.00 WIB. Rapat evaluasi kepanitiaan STEI-K 25 via Google Meet. 
 
-**Objective:** Beralih dari persetujuan semu (*submissive*) menjadi diskusi kritis yang berlandaskan data, sembari memisahkan ego dari gagasan.
+**Persons dan relationship:** Saya (**Obert**, Kadiv Project) berhadapan dengan **Mas Aris** (nama samaran, Ketua Pelaksana / Atasan). Relasi: Pengurus senior - junior dengan hierarki organisasi yang tegas.
 
-> **Atasan:** "Gagasan kamu terlalu rumit. Kita pakai cara saya saja agar lebih cepat dieksekusi."
-> 
-> **Obert (Insting awal - Internal):** *(Menerima begitu saja dan tidak biosa berargumen layaknya dalam sebuah tim).*
-> 
-> **Obert (Adaptasi Inkuisitif):** "Cara tersebut memang lebih cepat. Namun, hal ini belum benar-benar memperbaiki evaluasi yagn sudah kita buat minggu lalu pak. Apakah bapak memiliki gagasan lain yang bisa memperbaiki flaw yang menjadi bahan evaluasi kita minggu lalu? Saya ingin memastikan kita tidak mengulang kesalahan yang sama."
+**Objective dan initial state:** 
+* **Initial State:** *Hierarchical Deference*. Saya cenderung langsung menyetujui arahan atasan untuk menghindari persepsi sebagai anggota yang "sulit diatur", meskipun arahan tersebut berisiko mengulang *flaw* evaluasi minggu lalu.
+* **Objective:** Menggeser komunikasi dari persetujuan pasif menjadi diskusi kritis berbasis data evaluasi, tanpa merusak hubungan kerja atau terkesan membangkang.
 
-Respons atasan mengubah arah komunikasi dari instruksi satu arah menjadi evaluasi bersama. Kesepakatan akhir: Keputusan diambil berdasarkan perbaikan gagasan awal secara logis, bukan sekadar kepatuhan hierarkis.
+## Evidence
 
-## Perubahan language
+::: {.callout-note appearance="minimal"}
+**Rekonstruksi percakapan rapat evaluasi (dari catatan pribadi & notulensi):**
 
-Sebagai **Kadiv Project**, saya akan berkata, "Kira-kira apa yang salah dalam keputusan pembagian tugas kita barusan? Apa yang bisa kita perbaiki dari *flaw* ini untuk rapat besok?" Sebagai **Teman sepermainan**, saya akan berkata, "Eh, otak gw udah ngebul nih. Cabut nyari Teazzi dulu yuk, ntar malem baru lanjut lagi urusin proker." Sikap *consensus-oriented* tetap ada, namun tingkat formalitas dan target objektifnya berbeda.
+**Mas Aris (Ketua):** "Gagasan alur kontrol proker dari divisi kamu terlalu rumit, Bert. Kita pakai cara saya saja yang lama agar lebih cepat dieksekusi."
 
-## Evidence, AI, dan feedback
+**Obert (Insting awal - Internal):** *(Ada dorongan untuk langsung bilang 'Siap Mas' karena takut dianggap menantang hirarki).*
 
-- Evidence: Refleksi memori otentik saat menjabat sebagai ketua pelaksana acara SMA (mempertimbangkan dinamika keputusan bersama panitia guru), catatan evaluasi kepemimpinan, dan riwayat memori penugasan.
-- AI digunakan setelah refleksi untuk memetakan kebiasaan komunikasi yang tidak disadari ke dalam matriks karakter.
-- Saya mengabaikan saran AI jika menyuruh konfrontasi agresif terhadap atasan, dan memilih pendekatan inkuisitif-logis.
-- Feedback personal: Rasa takut dinilai "tidak dapat diandalkan" atau "membangkang" sering menghalangi objektivitas dalam mempertahankan ide inovatif.
-- Next practice: Melatih *Respectful Disagreement*. Bertahan pada argumen yang benar menggunakan data saat ditekan oleh pihak yang memiliki otoritas lebih tinggi.
+**Obert (Adaptasi Inkuisitif):** "Cara Mas Aris memang lebih cepat di awal. Namun kalau kita lihat rekap data evaluasi minggu lalu, kendala utama kita justru ada di kebocoran koordinasi akibat alur lama itu. Kalau kita kembali ke cara lama, menurut Mas Aris bagaimana cara kita memitigasi *flaw* yang sama agar tidak terulang minggu ini?"
+
+**Mas Aris:** "Hmm, benar juga. Kalau begitu, bagian alur mana dari draft kamu yang bisa kita pangkas tanpa menghilangkan fungsi kontrolnya?"
+
+**Obert:** "Kita bisa pangkas tahap validasi ganda di sekretaris, tapi tetap pertahankan sistem centang dokumen teknis."
+:::
+
+* **Catatan observer (Sekretaris Panitia, via chat pribadi setelah rapat):** *"Bagus Bert, lo nanya balik pake data evaluasi kemarin. Mas Aris jadi gak ngerasa dipojokin tapi paham resikonya."*
+* **Dokumen pendukung:** Log perubahan dokumen *Workflow Proker STEI-K 25* di Google Docs dan Notulensi Rapat Evaluasi 15 September 2026.
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| **Person & character** | Saya masuk sebagai Kadiv Project yang bertanggung jawab atas kualitas sistem, bukan sekadar pelaksana perintah. Saya menyadari Mas Aris memiliki *stakes* pada efisiensi waktu, sehingga argumentasi saya fokus pada *mitigasi resiko*, bukan membuktikan siapa yang benar. |
+| **Objective & state** | State awal: Kepatuhan pasif karena takut konflik hierarki. Objective: Keputusan alur proker yang realistis dan berbasis bukti tanpa merusak relasi. State akhir: Kesepakatan alur modifikasi yang disetujui bersama. |
+| **Repertoire & language** | Saya mengganti *language* submisif (*"Baik Mas mengikuti saja"*) menjadi pertanyaan inkuisitif berbasis data evaluasi (*"Bagaimana kita memitigasi flaw evaluasi minggu lalu?"*). Bahasa ini membingkai perbedaan pendapat sebagai upaya penjaminan mutu bersama. |
+| **Response & adaptation** | Respon Mas Aris yang melunak (*"bagian mana yang bisa dipangkas?"*) menjadi sinyal bahwa pendekatan pengujian hipotesis berhasil. Saya langsung mengadaptasi tawaran tersebut dengan memberikan opsi kompromi (memotong validasi sekretaris, mempertahankan penanda teknis). |
+| **Agreement/action** | Agreement eksplisit: Alur baru dimodifikasi, tugas validasi disederhanakan, dokumen *Workflow Proker* langsung diperbarui malam itu juga. |
+| **Relationship outcome** | Mas Aris tidak merasa wewenangnya dilangkahi, sementara divisi saya mendapatkan kepastian alur kerja yang logis. Potensi friksi hierarki berubah menjadi diskusi kolaboratif. |
+
+## Perubahan language antar character
+
+Situasi yang sama — menghadapi penumpukan beban tugas teknis — menghasilkan *language* yang sangat berbeda tergantung *character* yang sedang aktif:
+
+* **Sebagai Kadiv Project (STEI-K 25):** *"Kira-kira apa flaw utama dalam pembagian tugas kita minggu ini? Apa kompromi alur yang bisa kita pangkas tanpa menurunkan kualitas kontrol proker?"* — fokus pada efisiensi sistem dan kesepakatan tim.
+* **Sebagai Kapten Futsal:** *"Tempo kita turun! Jangan sibuk saling menyalahkan, tutup ruang tembak lawan sekarang!"* — fokus pada arahan taktis cepat dan motivasi instan di bawah tekanan.
+* **Sebagai Teman Sepermainan:** *"Eh, otak gue udah ngebul banget nih. Cabut nyari Teazzi dulu yuk, ntar malam baru kita lanjut lagi urus proker ini."* — fokus pada penguraian stres dan emosional *bonding*.
+
+Objective dan konteks kekuasaan (*power dynamics*) yang berbeda menentukan pemilihan *repertoire* bahasa yang tepat.
+
+## Penggunaan AI
+
+AI (Claude) digunakan setelah sesi refleksi untuk dua hal:
+
+1. **Memisahkan fakta dan asumsi emosional:** Saya memasukkan draf percakapan rapat dan meminta AI mendeteksi apakah respons saya terkesan konfrontatif. AI membantu mengklarifikasi bahwa kalimat saya sudah berbentuk *inquiring question*, bukan penolakan pribadi.
+2. **Structuring tabel matriks karakter:** AI membantu mengelompokkan kebiasaan komunikasi saya dari draf awal ke dalam 5 domain kehidupan secara rapi.
+
+**Output AI yang ditolak:** AI sempat menyarankan dialog yang sangat formal dan defensif terhadap Mas Aris. Saya menolaknya karena bahasa yang terlalu kaku justru akan memperjelas jarak hierarki dan merusak relasi kerja panitia yang informal-profesional.
+
+**Pembelajaran mandiri:** AI tidak bisa merasakan kepekaan dinamika *senior-junior* di lapangan; keberanian untuk menyampaikan disagreement secara sopan (*respectful disagreement*) harus dilatih langsung secara nyata.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Pesan chat dari Sekretaris Panitia: *"Gua salut lo berani nanya balik ke Mas Aris pake data evaluasi minggu lalu, jadi rapat gak berbelit-belit."*
+
+**Adaptation/replay:** Keesokan harinya saya melakukan *check-in* singkat ke Mas Aris saat ketemu di koridor: *"Mas Aris, alur modifikasi semalam sudah saya rapikan di doc ya. Ada yang perlu disesuaikan lagi?"* Mas Aris mengonfirmasi bahwa alur tersebut sudah pas.
+
+**Next practice:** Menerapkan teknik *Respectful Disagreement* dengan selalu menyiapkan 1 fakta/data evaluasi konkret sebelum menyampaikan keberatan atas keputusan atasan.
 
 ## Self-assessment
 
-| Dimensi | Skor | Alasan |
+| Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
-| Person & Character | 4 | 5 karakter di 3 domain (organisasi, akademik, sosial/keluarga) terpetakan dengan sangat jelas. |
-| Objective & State | 4 | Transisi dari *state* submisif menjadi asertif tergambar eksplisit di episode analisis. |
-| Repertoire, Language & AI | 4 | Perbedaan bahasa antara Kadiv dan Teman terlihat kontras; fungsi AI dijabarkan jelas. |
-| Response & Adaptation | 4 | Bukti pergeseran dari sekadar patuh menjadi negosiator yang inkuisitif. |
-| Agreement, Action & Relationship | 4 | Kesepakatan tercapai dengan tetap menjaga integritas gagasan tanpa merusak hubungan kerja. |
+| **Person & Character** | 4 | Lima character dipetakan secara kontras di 3 domain (organisasi, akademik, sosial/olahraga/keluarga) dengan analisis *power dynamics* dan konteks yang tajam. |
+| **Objective & State** | 4 | Pergeseran dari state *hierarchical deference* (submisif) menjadi kolaboratif asertif dideklarasikan eksplisit melalui rekonstruksi percakapan riil. |
+| **Repertoire, Language & AI** | 4 | Perubahan bahasa antar-karakter terlihat sangat jelas (*Kadiv* vs *Kapten Futsal* vs *Teman*); batas intervensi AI dijelaskan secara kritis. |
+| **Response & Adaptation** | 4 | Berhasil membaca sinyal atasan dan melakukan kompromi taktis (memotong tahap validasi sekretaris) tanpa mengorbankan kualitas kontrol. |
+| **Agreement, Action & Relationship** | 4 | Kesepakatan eksplisit tercapai, dokumen diuji & diperbarui, serta relasi kerja dengan senior tetap terjaga positif. |
 
-**Total: 20/20 — Sangat Kompeten.** Analisis mendalam pada kelemahan struktural (*hierarchical deference*) dan langkah adaptasinya sangat konkret.
+**Total: 20/20 — Sangat Kompeten.** Berhasil mengurai kelemahan *hierarchical deference* menjadi strategi komunikasi asertif berbasis bukti (*data-driven inquiry*).
 
 ::: {.assessor-only}
 ### Assessment dosen

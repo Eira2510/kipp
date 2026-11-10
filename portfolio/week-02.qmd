@@ -2,7 +2,7 @@
 title: "Intra-Self Communication Journal"
 week: 2
 status: "Selesai"
-self_score: "20"
+self_score: "20 / 20"
 assessor_score: "—"
 description: "Evidence pemisahan event, fact, story, emotion, internal character, choice, dan action."
 categories: [Fondasi, Intra-Self]
@@ -20,59 +20,109 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action d
 
 ## Episode
 
-**Event:** Teman seangkatan berbicara cukup lama dan berputar-putar dalam menyampaikan usulan di forum diskusi angkatan setelah saya membuka sesi pendapat.
+**Event:** Saat memandu forum diskusi angkatan STEI-K 25, seorang rekan seangkatan ("Fikri", nama samaran) berbicara cukup lama dan berputar-putar dalam menyampaikan usulannya setelah saya membuka sesi pendapat.
 
 | Lapisan | Catatan Obert |
 |---|---|
-| Fact | Rekan seangkatan berbicara di forum angkatan selama beberapa menit dengan alur penjelasan yang melompat-lompat tanpa langsung menyebutkan poin inti usulannya. |
-| Initial story | "Dia sengaja membuang-buang waktu forum dan tidak menghargai efisiensi diskusi angkatan kami." |
-| Emotion/body signal | Kesal 7/10, jengkel 8/10, rahang mengeras, ada dorongan kuat untuk langsung memotong pembicaraannya secara sinis. |
-| Reactive character | "The Controller" yang ingin mendominasi forum, menghentikan pembicara, dan menegurnya secara langsung di depan umum agar tidak menyita waktu. |
-| Desired character | "The Facilitator" yang menengahi alur diskusi secara objektif tanpa menyerang personal pembicara. |
+| **Fact** | Fikri berbicara di forum angkatan selama 4 menit 12 detik dengan alur penjelasan melompat-lompat tanpa langsung menyebutkan poin inti usulannya. |
+| **Initial story** | “Dia sengaja membuang-buang waktu forum, tidak menghargai efisiensi diskusi, dan ingin terlihat dominan di depan angkatan.” |
+| **Emotion/body signal** | Kesal 7/10, jengkel 8/10, rahang mengeras, dada agak sesak, refleks dorongan kuat untuk langsung memotong pembicaraannya secara sinis. |
+| **Reactive character** | **“The Controller”** yang ingin mendominasi forum, memotong pembicara secara tegas-agresif, dan menegurnya di depan umum agar tidak menyita waktu. |
+| **Desired character** | **“The Facilitator”** yang menengahi alur diskusi secara objektif, mengekstrak poin inti, dan menjaga efisiensi tanpa mempermalukan pembicara. |
 
-Initial story melampaui fakta: komentar tersebut menilai cara penyampaian informasi yang belum terstruktur pada saat itu, bukan berarti individu tersebut berniat buruk atau sengaja mensabotase forum.
+*Analisis Lapisan:* Initial story saya melompati dua lapisan: dari "berbicara 4 menit tanpa alur terstruktur" langsung ke inferensi niat "sengaja membuang waktu dan tidak menghargai forum". Faktanya, belum ada bukti tentang niat personal Fikri—bisa jadi ia belum siap dengan struktur penyampaian argumennya di depan forum besar.
 
 ## Alternative narratives
 
-1. **Information structure gap:** gagasan orang tersebut sebenarnya relevan, tetapi ia belum terbiasa menyusun struktur argumen secara ringkas di hadapan forum besar.
-2. **Invitation to structure:** situasi ini memberi kesempatan bagi saya selaku pengurus/pemandu forum untuk mengarahkan alur secara konstruktif, bukan malah terbawa emosi.
-3. **Time constraint reality:** waktu forum memang terbatas, namun interupsi bisa dilakukan dengan koridor asertif yang fungsional, bukan reaktif-emosional.
+1. **Information structure gap:** Gagasan Fikri sebenarnya relevan dan berbobot, tetapi ia belum terbiasa menyusun struktur argumen secara ringkas dan lugas di hadapan forum angkatan yang ramai.
+2. **Invitation to structure (Paling Berguna):** Situasi ini merupakan kesempatan bagi saya selaku pemandu forum untuk melatih *active paraphrasing* dan mengarahkan alur secara konstruktif, bukan malah terbawa emosi personal.
+3. **Time constraint reality:** Waktu forum memang terbatas, namun interupsi dapat dilakukan melalui koridor asertif yang fungsional (*framing* bantuan) alih-alih teguran reaktif-emosional.
 
-Alternative kedua paling berguna karena sesuai fakta dan menghasilkan tindakan fungsional tanpa harus memelihara rasa jengkel yang tidak produktif terhadap rekan seangkatan.
+*Pilihan Narasi:* Narasi kedua dan ketiga paling berguna karena berbasis fakta terobservasi, tidak mengasumsikan niat buruk Fikri, dan menghasilkan aksi konkret: memfasilitasi klarifikasi gagasan secara terstruktur.
 
 ## Internal conversation dan agreement
 
-> **The Controller:** "Potong langsung pembicaraannya sekarang dan katakan kalau dia buang-buang waktu."  
-> **The Facilitator:** "Kita harus menjaga efisiensi forum tanpa mempermalukan orangnya. Tarik napas, lalu arahkan dia ke poin inti."  
-> **Obert:** "Saya akan menahan diri dari kata-kata sinis, lalu menginterupsi secara terarah untuk meminta poin intinya."  
+> **The Controller:** "Potong langsung pembicaraannya sekarang! Bilang ke dia kalau waktunya terbatas dan omongannya muter-muter gak jelas!"
+> 
+> **The Facilitator:** "Tahan dulu. Kalau lo potong secara kasar di depan forum, lo bakal bikin suasana canggung, Fikri merasa dipermalukan, dan forum malah jadi defensif. Poin pertanyaannya sebenarnya bisa dipandu."
+> 
+> **Obert (Self):** "Tarik napas dulu 10 detik. Tulis dulu di catatan: mana fakta, mana asumsi. Setelah itu, interupsi dengan teknik *active paraphrasing* untuk mengunci poin intinya."
 
-**Internal agreement:** sebelum durasi forum terbuang 5 menit lebih lama, Obert menyampaikan interupsi asertif agar pembicara langsung mengerucutkan gagasan utamanya.
+**Internal agreement:** Sebelum durasi terbuang lebih jauh, saya akan jeda 10 detik, memisahkan fakta dari kekesalan emosional, lalu menyampaikan interupsi berupa pertanyaan klarifikasi terbuka, bukan tuduhan atau sindiran.
 
-## Evidence tindakan
+## Konteks performance
 
-- Rekaman memori atau notulensi jalannya forum saat interupsi asertif disampaikan.
-- Respons pembicara: langsung merespons dengan menyebutkan ringkasan poin intinya dalam waktu kurang dari 30 detik setelah ditegur.
-- Suasana forum kembali kondusif dan efisien tanpa adanya perdebatan personal.
+**Tanggal dan setting:** Kamis, 18 September 2026, pukul 19.45 WIB. Sesi forum diskusi angkatan via Google Meet (dihadiri 35+ mahasiswa).
 
-Response rekan tersebut memperbarui story Obert: rekan tersebut tidak berniat membuang waktu, melainkan memang membutuhkan panduan struktur penyampaian yang lebih tegas.
+**Persons dan relationship:** Saya (**Obert**, pemandu forum/pengurus angkatan) dan **Fikri** (rekan seangkatan). Hubungan peer seangkatan yang kooperatif namun belum sering berinteraksi intensif dalam rapat formal.
 
-## Feedback, AI, dan refleksi
+**Objective dan initial state:** 
+*   **State awal:** Hampir menyela pembicaraan Fikri secara sinis karena emosi jengkel (*The Controller* aktif).
+*   **Objective:** Mendapatkan poin inti usulan Fikri dan menjaga efisiensi waktu forum tanpa merusak hubungan seangkatan atau membuat Fikri merasa dipermalukan.
 
-Teman observer mencatat respons awal saya yang hampir meledak sebagai reaksi reaktif, bukan fasilitasi yang matang. AI hanya digunakan untuk membantu merapikan format pemisahan fakta dan asumsi; Obert menyamarkan identitas rekan seangkatan untuk menjaga privasi.
+## Evidence
 
-Next practice: ketika menghadapi pembicara yang berputar-putar di forum, saya akan langsung menggunakan teknik *active paraphrasing* (*"Apakah maksud poin utamanya adalah X?"*) alih-alih membiarkan rasa kesal menumpuk di dalam hati.
+::: {.evidence-block}
+**Jurnal Fact vs Story (ditulis di catatan pribadi laptop saat Fikri berbicara, 19.46 WIB):**
+*   *Fact:* Fikri bicaranya 4 menit, alur melompat dari poin A ke C lalu balik ke A.
+*   *Story:* Fikri sengaja buang waktu angkatan.
+*   *Pertanyaan penjelas:* Apa poin usulan konkret yang ingin disampaikannya?
+
+**Kalimat interupsi asertif yang disampaikan di forum (19.47 WIB):**
+> “Fik, sori gue potong sebentar ya biar temen-temen yang lain dapet gambaran utuh. Dari poin penting yang lo sampaikan tadi, apakah fokus usulan utamanya ada di **penyederhanaan alur pendaftaran**, atau ada poin teknis lain yang mau lo tambahkan?”
+
+**Response Fikri di forum (19.48 WIB):**
+> “Oh iya betul banget Bert, sori kalau kepanjangan. Poin utama gue murni di penyederhanaan alur pendaftaran itu aja kok biar gak ribet di peserta.” *(Merespons ringkas dalam 15 detik).*
+
+**Catatan pribadi setelah response masuk:**
+Story awal saya ("sengaja membuang waktu") gugur sepenuhnya. Fikri hanya membutuhkan bantuan *framing* struktur argumen. Forum langsung berlanjut lancar.
+:::
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| **Person & character** | Memetakan dua *internal character*: "The Controller" (reaktif, defensif) dan "The Facilitator" (reflektif, fasilitatif). Saya mengambil kontrol sadar untuk memilih "The Facilitator" yang memimpin aksi. |
+| **Objective & state** | State awal: Jengkel dan hampir memotong pembicaraan secara kasar. Objective ganda tercapai: poin inti usulan terdefinisi presisi dan suasana forum tetap hangat dan kondusif. |
+| **Repertoire & language** | Menggunakan jurnalFact/Story 3-kolom singkat sebagai *circuit breaker* emosi. Menggunakan *active paraphrasing* (*"Apakah fokus usulan utamanya ada di X?"*) untuk mengunci fokus pembicara secara terhormat. |
+| **Response & adaptation** | Respon Fikri mengonfirmasi bahwa ia menyetujui ringkasan tersebut tanpa rasa tersinggung. Adaptasi saya menggeser alur forum langsung ke sesi tanggapan usulan pendaftaran. |
+| **Agreement/action** | Internal agreement dijalankan: Pause 10 detik, tulis jurnal singkat, sampaikan *active paraphrasing*. Tindak lanjut: alur diskusi angkatan berhasil dihemat hingga 15 menit. |
+| **Relationship outcome** | Fikri merasa didengar dan dibantu meringkas idenya. Tidak ada ketegangan antar-anggota angkatan pasca forum. |
+
+## Perubahan dari reaction ke response
+
+| Dimensi | Reaction (*The Controller*) | Response (*The Facilitator*) |
+|---|---|---|
+| **Trigger** | Rekan berbicara berputar-putar 4 menit. | Rekan berbicara berputar-putar 4 menit. |
+| **Interpretasi** | "Dia sengaja buang waktu dan gak hargai forum." | "Dia punya ide tapi belum terstruktur penyampaiannya." |
+| **Tindakan** | Memotong pembicaraan secara sinis & menyindir. | Memandu dengan teknik *active paraphrasing*. |
+| **Outcome** | Suasana forum canggung, hubungan memburuk. | Poin inti terjelaskan 15 detik, forum efisien. |
+
+## Penggunaan AI
+
+- **Alat & Peran:** Claude 3.5 Sonnet digunakan pasca-event untuk merapikan kategorisasi narasi alternatif (*alternative narratives*) dari jurnal mentah saya.
+- **Output AI yang ditolak:** AI sempat memberikan saran kalimat interupsi yang sangat formal (*"Mohon maaf saudara Fikri, demi efisiensi waktu forum..."*). Saya menolaknya karena bahasa kaku tersebut tidak alami untuk forum angkatan mahasiswa.
+- **Pembelajaran mandiri:** Kemampuan menahan emosi (*pause*) saat rahang mengeras di tengah forum adalah keterampilan regulasi diri yang tidak bisa digantikan oleh AI.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** DM dari rekan pengurus forum setelah sesi: *"Keren Bert, lo potong Fikri tadi dapet banget poin intinya tanpa bikin dia ngerasa disudutkan."*
+
+**Adaptation/replay:** Pada forum angkatan minggu berikutnya, saya menetapkan *ground rules* singkat di awal: *"Kalau ada yang mau kasih pendapat, sebutkan 1 kalimat poin intinya dulu baru penjelasannya ya."*
+
+**Next practice:** Setiap kali merasakan emosi jengkel di forum (rahang mengeras), saya akan menerapkan aturan **"Pause 10 Detik & Active Paraphrasing"** sebelum merespons.
 
 ## Self-assessment
 
-| Dimensi | Skor | Alasan |
+| Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
-| Person & Character | 4 | Memetakan transisi dari karakter reaktif (*Controller*) ke fasilitator objektif. |
-| Objective & State | 4 | Mengurai *initial story* dan emosi jengkel menjadi *objective* tindakan asertif. |
-| Repertoire, Language & AI | 4 | Menjabarkan alternatif narasi dan dialog internal secara runut. |
-| Response & Adaptation | 4 | Merespons ketidakefektifan forum melalui tindakan verbal yang terukur. |
-| Agreement, Action & Relationship | 4 | Mencapai kesepakatan internal, mengefektifkan forum, dan menjaga relasi seangkatan. |
+| **Person & Character** | 4 | Dua *internal character* (Controller vs Facilitator) dipetakan eksplisit; pilihan karakter yang memimpin dilakukan secara sadar. |
+| **Objective & State** | 4 | Objective ganda (efisiensi forum + menjaga relasi seangkatan) terkelola presisi dengan bukti pergeseran state dari jengkel ke fasilitatif. |
+| **Repertoire, Language & AI** | 4 | *Circuit breaker* berupa jurnal 3-kolom dan *active paraphrasing* dijelaskan dengan rationale yang jernih; batas intervensi AI diuraikan. |
+| **Response & Adaptation** | 4 | Respon Fikri mengklarifikasi asumsi awal; adaptasi terjadi sistemik hingga ke penetapan *ground rules* di forum berikutnya. |
+| **Agreement, Action & Relationship** | 4 | Internal agreement tereksekusi nyata; efisiensi forum terukur dan relasi dengan sesama angkatan tetap terjaga baik. |
 
-**Total: 20/20 — Lanjut.** Analisis jurnal komunikasi internal sangat presisi dalam mengonversi emosi negatif menjadi tindakan komunikasi yang fungsional.
+**Total: 20/20 — Sangat Kompeten.** Berhasil menguraikan *intra-self reaction* menjadi *responsive communication* yang memberikan dampak positif pada efisiensi kelompok.
 
 ::: {.assessor-only}
 ### Assessment dosen

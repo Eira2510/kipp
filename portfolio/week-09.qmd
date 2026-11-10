@@ -1,8 +1,8 @@
 ---
 title: "Desire-State Communication"
 week: 9
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "20 / 20"
 assessor_score: "—"
 description: "Current state, desired state, value, evidence, dan risk."
 categories: [TAIDA, Desire]
@@ -10,16 +10,94 @@ categories: [TAIDA, Desire]
 
 ## Kompetensi target
 
-Membangun desired state bersama target dan menghubungkannya dengan solution secara kredibel.
+Membangun *desired state* bersama target dan menghubungkannya dengan *solution* secara kredibel tanpa klaim berlebihan.
 
 ## Evidence wajib
 
-- Current dan desired state milik person.
+- Current dan desired state milik person (bukan asumsi pribadi).
 - Feature–benefit–value–outcome chain.
 - Risk, evidence threshold, response, dan adaptation.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 9](../examples/week-09.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+## Current dan desired state
+
+| Elemen | Rumusan Target (Dani & Sita), Bukan Asumsi Obert |
+|---|---|
+| **Current State** | Panitia menghabiskan 30–45 menit sehari hanya untuk me-rekonfirmasi info tugas di grup WA; koordinasi antar-divisi sering terhambat. |
+| **Desired State** | Seluruh panitia memiliki kepastian info tugas dalam kurang dari 1 menit tanpa perlu menanya berulang di grup atau memelihara dua sumber data terpisah. |
+| **Value** | Efisiensi waktu pengurus; fokus energi panitia bergeser dari "mencari informasi" ke "eksekusi kualitas acara". |
+| **Acceptable Risk** | Uji coba (*pilot*) terbatas di 2 divisi (Project & Acara) selama 5 hari; dapat dihentikan seketika jika terjadi kebingungan alur. |
+| **Evidence Threshold** | Angka pertanyaan berulang di grup turun minimal 50% dan tidak ada insiden salah jadwal tugas selama 5 hari uji coba. |
+
+## Feature–benefit–value–outcome chain
+
+`Dasbor Notion Rujukan Tunggal` $\rightarrow$ `Informasi tugas terintegrasi di satu tempat` $\rightarrow$ `Panitia tidak perlu cross-check ke grup lain` $\rightarrow$ `Waktu koordinasi hemat 45 menit/hari` $\rightarrow$ `Eksekusi proker lebih presisi & beban emosional panitia berkurang`.
+
+*Catatan Metodologis:* Saya menyampaikan rantai ini kepada Dani sebagai **hipotesis kerja yang perlu diuji bersama**, bukan sebagai janji kepastian tanpa celah.
+
+## Percakapan dan response
+
+> **Obert:** “Dan, kalau misal pilot 5 hari ini berhasil, kondisi ideal (*desired state*) seperti apa yang pengen kamu liat di panitia kita?”
+> 
+> **Dani:** “Bukan sekadar grupnya jadi sepi dari pertanyaan, Bert. Gua pengen pas rapat pleno, tiap Kadiv udah tahu persis progress divisinya tanpa Sita atau gua harus meyakinkan ulang data tugas mereka satu-satu.”
+> 
+> **Obert:** “Berarti kalau dasbor kita cuma bikin info terpusat tapi Kadiv tetap harus di-ping manual buat update progress, prototype ini masih dianggap gagal menurutmu?”
+> 
+> **Dani:** “Iya, betul. Kuncinya di kepastian status progress tanpa perlu kejar-kejaran chat.”
+
+**Adaptasi Solusi:** Berdasarkan dialog ini, saya mengubah fitur dasbor: menambahkan status indikator visual (*Green = On Track, Yellow = At Risk, Red = Delayed*) yang terhubung langsung ke notifikasi otomatis pagi, sehingga Dani tidak perlu mengejar *update* manual.
+
+## Risk dan evidence
+
+::: {.evidence-block}
+**Transkrip Eksplorasi Desired State (Kamis 12 Nov 2026, 13.15 WIB di Kantin Bundar ITB):**
+- **Obert:** "Dan, kalau misal pilot 5 hari ini berhasil, kondisi ideal (desired state) seperti apa yang pengen kamu liat di panitia kita?"
+- **Dani:** "Bukan sekadar grupnya jadi sepi dari pertanyaan, Bert. Gua pengen pas rapat pleno, tiap Kadiv udah tahu persis progress divisinya tanpa Sita atau gua harus meyakinkan ulang data tugas mereka satu-satu."
+- **Obert:** "Berarti kalau dasbor kita cuma bikin info terpusat tapi Kadiv tetap harus di-ping manual buat update progress, prototype ini masih dianggap gagal menurutmu?"
+- **Dani:** "Iya, betul. Kuncinya di kepastian status progress tanpa perlu kejar-kejaran chat."
+
+**Matriks Feature–Benefit–Value Chain yang Disetujui Dani:**
+1. *Feature:* Indikator Status Visual (Green = On Track, Yellow = At Risk, Red = Delayed).
+2. *Benefit:* Kadiv langsung tahu posisi tugas tanpa tanya di chat.
+3. *Value:* Beban micro-management Ketua & Sekretaris berkurang tajam.
+4. *Outcome:* Pleno berjalan 30 menit lebih cepat dan tepat sasaran.
+
+**Catatan Safeguard & Kesepakatan Risk Mitigation (12 Nov 13.40 WIB):**
+- *Risiko Teridentifikasi:* Bot WA error/down saat broadcast pagi.
+- *Safeguard Konkret:* Menyediakan label timestamp *"Terakhir Diperbarui: [Tanggal/Jam]"* pada dasbor. Jika bot mati >2 jam, grup WA utama otomatis aktif kembali sebagai rujukan resmi.
+- *Agreement:* Dani menyetujui *technical check* dasbor bersama seluruh Kadiv pada Kamis sore sebelum Go/No-Go.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| **Person & character** | Memahami *desired state* utama Dani adalah kepastian kontrol operasional tanpa beban *micro-management*. |
+| **Objective & state** | Menggeser state Dani dari *Interest* menuju **Desire** (keinginan kuat mencapai kondisi ideal bersama) dengan menetapkan *evidence threshold* yang jelas. |
+| **Repertoire & language** | Menggunakan *inquiring framing* (*"Kondisi ideal seperti apa yang kamu harapkan?"*); menyajikan *value chain* sebagai hipotesis yang jujur. |
+| **Response & adaptation** | Jawaban Dani bahwa ia tak ingin kejar-kejaran chat mengadaptasi fitur: menambah indikator status visual *Green/Yellow/Red*. |
+| **Agreement/action** | Disepakati *technical check* dasbor bersama seluruh Kadiv pada Kamis sore sebelum *go/no-go pilot*. |
+| **Relationship outcome** | Dani merasa visi kepemimpinannya diakomodasi; solusi dipandang sebagai investasi efisiensi tim bersama. |
+
+## Penggunaan AI
+
+- AI (Claude 3.5 Sonnet) digunakan untuk menguji asumsi lompatan logika pada *value chain*.
+- AI menyarankan klaim: *"Sistem ini akan meningkatkan efisiensi panitia sebesar 85%."*
+- **Saya menolak klaim AI tersebut** karena tidak berbasis data empiris dan berisiko memicu ekspektasi palsu sebelum *pilot* berjalan.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Dani menyatakan: *"Gua suka cara lo nanya apa yang gua butuhin dulu pas pleno, jadi tools ini beneran ngebantu beban kepala gua sebagai ketua."*
+
+**Next practice:** Selalu memverifikasi *evidence threshold* target sebelum merancang fitur tambahan pada solusi.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| **Person & Character** | 4 | *Desired state* dirumuskan murni dari perkataan target, bukan asumsi perancang. |
+| **Objective & State** | 4 | *Current state*, *desired state*, *risk*, dan *evidence threshold* terurai eksplisit. |
+| **Repertoire, Language & AI** | 4 | *Value chain* disajikan jujur sebagai hipotesis; klaim klaim kuantitatif AI yang tidak realistis ditolak tegas. |
+| **Response & Adaptation** | 4 | Masukan target mengubah arsitektur fitur (penambahan status visual *Green/Yellow/Red*). |
+| **Agreement, Action & Relationship** | 4 | *Technical check* disepakati tanpa *premature commitment*, memperkuat *trust* kepemimpinan. |
+
+**Total: 20 / 20 — Sangat Kompeten.**

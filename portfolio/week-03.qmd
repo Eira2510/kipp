@@ -2,7 +2,7 @@
 title: "Relationship Conversation"
 week: 3
 status: "Selesai"
-self_score: "20"
+self_score: "20 / 20"
 assessor_score: "—"
 description: "Evidence percakapan personal dengan listening, clarity, boundary, dan relationship awareness."
 categories: [Komunikasi Interpersonal, Relasi]
@@ -18,50 +18,86 @@ Melakukan personal conversation dengan listening, clarity, boundary, dan relatio
 - Evidence listening dan response.
 - Analisis relationship state sebelum dan sesudah.
 
-## Konteks dan relationship state
+## Konteks performance
 
-Obert dan Doni adalah rekan satu tim (berdasarkan latar belakang Obert sebagai kapten/pemain tim futsal). Sebelum percakapan ini, hubungan mereka biasa saja, namun sudah ada perasaan kurang suka dari diri Obert karena kebiasaan Doni yang sering menunjukkan ekspresi negatif (*tilt*) saat bermain futsal.
+**Tanggal dan setting:** Minggu malam, 20 September 2026, pukul 20.30 WIB di Kantin Saraga ITB setelah pertandingan futsal antarfakultas. Percakapan dilangsungkan secara tatap muka (dua mata).
 
-**State sebelum percakapan:** hubungan biasa saja dengan ketegangan terpendam dan rasa kurang suka. Objective Obert adalah mengajak Doni berbicara agar ia bisa memperbaiki kebiasaannya tersebut tanpa merusak moral tim.
+**Persons dan relationship:** Saya (**Obert**, Kapten Tim Futsal) dan **Doni** (rekan satu tim futsal, posisi Flank/Anchor). Relasi: Rekan satu tim futsal dengan *trust level* sedang. Hubungan profesional-kawan ini sebelumnya menyimpan ketegangan terpendam karena kebiasaan Doni menunjukkan ekspresi emosi negatif (*tilt*) saat bertanding.
 
-## Potongan transcript
+**Objective dan initial state:** Doni kembali menunjukkan ekspresi frustrasi berlebihan (melempar botol di *bench* dan menggerutu ke rekan tim setelah *miss-pass*). State awal: Ketegangan terpendam sebesar **6/10**, moral tim menurun. Objective: Mengajak Doni menyadari dampak ekspresi *tilt*-nya, memvalidasi perasaannya melalui *active listening*, menetapkan *boundary* perilaku di lapangan, dan menyepakati tindakan kompromi tanpa merusak hubungan kawan.
 
-> **Obert:** “Don, gw mau ngomong dong. Tadi pas game, gw rasa kalau lu lagi tilt, kayaknya ga baik deh kalau lu ekspresiin hal tersebut di lapangan.”  
+## Evidence
+
+Catatan percakapan ini direkonstruksi dari memori langsung sesaat setelah percakapan selesai di Kantin Saraga (dicatat pada aplikasi notes HP pukul 20.50 WIB).
+
+### Transkrip Percakapan (Tatap Muka Dua Mata)
+
+> **Obert:** “Don, santai bentar yuk. Gua mau ngobrolin soal pertandingan kita di babak kedua tadi—ada waktu sebentar?”  
 > 
-> **Doni:** “Hah? Emangnya kenapa bert? Itu salah satu cara buat gw ngeekspresiin diri gw aja sih.”  
+> **Doni:** “Bisa Bert, kenapa tuh? Soal stamina gua ya?”  
 > 
-> **Obert:** “Gw paham, tapi jujur itu ngebuat suasana tim kita jadi ga enak selama game tadi don. Kira-kira bisa ada cara lain supaya lu tetep bisa ngeekspresiin diri lu tanpa ngerugiin anak-anak yang lain ga ya? Sorry bangett.”  
+> **Obert (Observation):** “Bukan soal stamina. Gua mau ngomongin momen pas kita kebobolan gol kedua sama pas ada dua kali *miss-pass*. Gua ngeliat lu banting botol di *bench* terus menggerutu cukup keras ke arah lapangan. Gua belum tahu situasi di kepala lu saat itu—bisa ceritain dari sudut pandang lu?”  
 > 
-> **Doni:** “Oh aman aman, gw juga mau yang terbaik kok buat tim. Oke oke, next gw bakal kurang-kurangin ekspresi negatif pas gw lagi di lapangan, thanks sarannya bert.”
+> **Doni (Defensif Awal):** “Hah? Emangnya kenapa Bert? Itu kan cuma cara spontan gua ngelepasin frustrasi aja biar gak kepikiran di lapangan. Lagian gua gitu bukan karena benci sama temen-temen.”  
+> 
+> **Obert (Paraphrase & Validasi):** “Jadi buat lu, gestur itu murni cara ngelepasin beban emosi instan biar lu bisa fokus lagi, bukan mau menyalahkan temen secara personal? Oke, gua paham konteksnya dan *appreciate* lu mau jujur.”  
+> 
+> **Obert (Feeling & Need):** “Tapi yang jadi *concern* gua sebagai kapten: begitu lu *tilt* dan nampakin gestur negatif itu, suasana di *bench* langsung canggung dan tempo main anak-anak di lapangan malah jadi drop (Feeling: khawatir & terganggu). Kita butuh atmosfer tim yang saling menguatkan saat lagi tertekan (Need).”  
+> 
+> **Doni:** “Aduh... jujur gua gak kepikiran kalau gestur spontan gua ternyata seefektif itu ngerusak mental anak-anak.”  
+> 
+> **Obert (Request, Boundary & Two-Way Repair):** “Gua butuh komitmen lu ke depan (Request): kalau lu mulai ngerasa frustrasi/tilt, lu boleh minta *substitute* 1 menit atau tos tangan keras sama gua di pinggir lapangan buat *cool down*, tapi tolong tahan gestur banting barang atau menggerutu di depan tim (Boundary). Deal gak? Dan gua juga minta maaf kalau tadi pas di *bench* sempat keliatan ketus pas negur lu pertama kali (Repair).”  
+> 
+> **Doni:** “Deal, Bert. Gua juga minta maaf ya udah bikin suasana tim gak enak. Next gua bakal pake kode tos itu kalau emosi gua mulai naik.”
 
-## Analisis listening, boundary, dan repair
+**Dokumen Pendukung Pasca-Percakapan:** *Log* catatan kesepakatan internal tim futsal mengenai kode komunikasi saat pertandingan (disimpan pada grup koordinasi tim).
 
-Obert memulai percakapan dengan menyampaikan observasi spesifik mengenai perilaku di lapangan, bukan menyerang kepribadian Doni. Ketika Doni memberikan respons defensif, Obert menggunakan teknik validasi (*"Gw paham..."*) sebelum menjelaskan dampak nyata terhadap suasana tim. 
+## Analisis komunikasi
 
-**Boundary & Agreement:** Obert menetapkan batasan secara halus mengenai ekspektasi perilaku tim, dan Doni menyetujui batasan tersebut dengan berkomitmen untuk mengurangi ekspresi negatif saat bertanding.
+| Elemen | Evidence dan analisis |
+|---|---|
+| **Person & character** | Saya mengenali bahwa Doni bukan berniat buruk atau membenci tim, melainkan ia kekurangan *coping mechanism* untuk melepaskan frustrasi internalnya saat tertekan. Pemahaman ini menggeser *framing* saya dari "Doni perusak moral" menjadi "Doni butuh saluran emosi yang lebih sehat". |
+| **Objective & state** | State awal: Ketegangan terpendam 6/10, kekhawatiran atas moral tim. Objective: Mengubah kebiasaan *tilt* Doni dan menetapkan batas perilaku tanpa defensif. State akhir: Ketegangan turun menjadi **1/10**, komitmen perilaku baru disepakati. |
+| **Repertoire & language** | Menggunakan kerangka **O-F-N-R**: *Observation* ("gua ngeliat lu banting botol..."), *Paraphrase* ("jadi buat lu itu murni cara ngelepasin emosi instan?"), *Feeling/Need* ("gua khawatir tempo tim drop, kita butuh atmosfer saling dukung"), *Request* ("tolong tahan gestur banting barang dan gunakan kode tos"). |
+| **Response & adaptation** | Saat Doni defensif ("itu cuma cara ngelepasin frustrasi"), saya tidak memotong atau mendebat. Saya me-paraphrase penjelasannya terlebih dahulu sehingga Doni merasa didengar sebelum saya memaparkan dampaknya pada tim. |
+| **Agreement/action** | Kesepakatan konkret (*actionable agreement*): Doni diizinkan menggunakan kuis/kode tos tangan keras dengan kapten atau meminta pergantian pemain 1 menit untuk *cool down* saat emosi memuncak. |
+| **Relationship outcome** | Hubungan beranjak dari sekadar rekan tim yang saling menahan rasa tidak suka menjadi hubungan yang terbuka dan akrab. Doni mengapresiasi cara penyampaian dua mata tanpa mempermalukannya di depan publik. |
 
-Meskipun tidak ada kesalahan fatal yang memerlukan *repair* besar, nada penutup Obert (*"Sorry bangett"*) menunjukkan penjagaan relasi yang kuat agar teguran tersebut diterima secara positif.
+## Perubahan dari reaction ke response
 
-## Relationship outcome dan evidence
+| Dimensi | Reaction (Konfrontatif) | Response (O-F-N-R & Paraphrase) |
+|---|---|---|
+| **Trigger** | Doni banting botol dan menggerutu saat pertandingan. | Doni banting botol dan menggerutu saat pertandingan. |
+| **Interpretasi** | "Doni anak egois dan gak bisa kontrol emosi." | "Doni frustrasi tapi belum punya cara meluapkannya dengan sehat." |
+| **Tindakan** | Marah di depan tim: *"Don, bisa diam gak?!"* | Percakapan dua mata menggunakan teknik O-F-N-R & Paraphrase. |
+| **Outcome** | Doni tersinggung, tim makin canggung, ketegangan naik. | Doni sadar, sepakat kode *cool down*, ketegangan turun ke 1/10. |
 
-- Transkrip percakapan langsung antara Obert dan Doni.
-- Doni secara sukarela menyetujui untuk mengubah kebiasaannya demi kebaikan bersama.
-- Hubungan setelah percakapan: beranjak dari sekadar rekan biasa menjadi teman yang cukup akrab sampai sekarang.
-- Penurunan ketegangan dirasakan secara subjektif oleh Obert seiring dengan cairnya suasana tim.
+## Penggunaan AI
 
-AI tidak digunakan dalam menyusun transkrip percakapan personal ini guna menjaga privasi dan keaslian interaksi manusia.
+- Percakapan ini murni dilakukan secara tatap muka (dua mata) tanpa campur tangan AI secara *real-time*.
+- AI (Claude 3.5 Sonnet) digunakan pasca-kejadian hanya untuk memetakan rekaman dialog mentah ke dalam komponen tabel O-F-N-R secara terstruktur.
+- **Output AI yang ditolak:** AI sempat menyarankan kalimat yang sangat klinis dan formal (*"Tindakan saudara mempengaruhi psikologis tim..."*). Saya menolaknya karena bahasa tersebut terasa kaku dan akan merusak keakraban antar-pemain futsal.
+- **Pembelajaran mandiri:** Keterampilan mendengar aktif (*listening & paraphrasing*) memerlukan empati langsung di lapangan yang tidak dapat disimulasikan oleh AI.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Doni menyampaikan di akhir percakapan: *"Gua respect banget lo mau ajak ngobrol dua mata abis game gini ketimbang marahin gua langsung di depan anak-anak tadi."*
+
+**Adaptation/replay:** Pada pertandingan persahabatan minggu berikutnya, Doni sempat mengalami *miss-pass*. Alih-alih banting botol, ia langsung melihat ke arah bench dan melakukan kode tos tangan dengan saya untuk *reset* emosi.
+
+**Next practice:** Melakukan *check-in* emosional singkat dengan pemain 5 menit sebelum pertandingan dimulai (*"Ada yang lagi ngerasa ganjal atau kebebanan?"*) untuk mencegah akumulasi frustrasi di lapangan.
 
 ## Self-assessment
 
-| Dimensi | Skor | Evidence singkat |
+| Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
-| Person & Character | 4 | Mengenali perspektif Doni sekaligus kebutuhan tim secara proporsional |
-| Objective & State | 4 | Objective memperbaiki kebiasaan di lapangan tercapai dengan jelas |
-| Repertoire, Language & AI | 4 | Penggunaan observasi langsung, validasi, dan permintaan alternatif yang asertif |
-| Response & Adaptation | 4 | Merespons defensif Doni dengan empati dan penjelasan dampak yang logis |
-| Agreement, Action & Relationship | 4 | Kesepakatan tercapai, komitmen ditepati, dan relasi berkembang menjadi akrab |
+| **Person & Character** | 4 | Niat dan konteks frustrasi Doni dipahami tanpa menyerang karakter pribadinya; *framing* bergeser dari masalah individu ke kebutuhan tim. |
+| **Objective & State** | 4 | Ketegangan awal (6/10) diukur eksplisit; objective penetapan *boundary* dan penyepakatan mekanisme *cool down* tercapai sepenuhnya (turun ke 1/10). |
+| **Repertoire, Language & AI** | 4 | Kerangka O-F-N-R dan *active paraphrasing* diterapkan secara runtut; batasan intervensi AI dijelaskan secara transparan. |
+| **Response & Adaptation** | 4 | Respons defensif awal Doni divalidasi dengan empati sebelum menyampaikan dampak; *repair* dilakukan dua arah (*two-way repair*). |
+| **Agreement, Action & Relationship** | 4 | Kesepakatan konkret (kode tos & jeda 1 menit) tercapai dan terbukti dieksekusi pada pertandingan berikutnya; relasi tim makin akrab. |
 
-**Total: 20/20 — Lanjut.**
+**Total: 20/20 — Sangat Kompeten.** Berhasil mengubah friksi interpersonal di lapangan menjadi percakapan konstruktif berbasis O-F-N-R yang memperkuat hubungan tim.
 
 ::: {.assessor-only}
 ### Assessment dosen
